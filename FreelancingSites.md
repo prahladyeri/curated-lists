@@ -10,4 +10,6 @@
 
 
 
-`If you know any other good freelancing website, just send me a change-request or let me know via this reddit comment:`
+`If you know any other good freelancing website, just send me a change-request or let me know via comments on this reddit post`
+
+https://www.reddit.com/r/freelance/comments/59fijs/a_curated_list_of_various_freelancing_websites/
