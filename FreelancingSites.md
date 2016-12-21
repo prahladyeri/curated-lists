@@ -6,7 +6,7 @@
 - [People Per Hour](http://www.peopleperhour.com): Heard a lot about this site and the good quality of projects and clients that you usually get around here. Personally, I'm yet to make my first opening here.
 - [Guru](http://www.guru.com): Used to be a good site earlier, I did receive some genuine enquiries a few years ago. But lately, a lot of shady and dubious people seem to be hawking this site in the name of hiring freelancers. I once had a few prospective clients ask for credit card information even before starting a project, stopped using this site then and there!
 - [Golance](https://golance.com): Joined this site recently, seems very promising from what I've heard on reddit, personally, I'm yet to land on a project here.
-- [/r/ForHire](http://www.reddit.com/r/forhore): Yet another good place to find jobs, though some of their rules are way too silly and appear prejudiced. For example, I was banned from this subreddit, just because my hourly rate was "too low".
+- [/r/ForHire](http://www.reddit.com/r/forhire): Yet another good place to find jobs, though some of their rules are way too silly and appear prejudiced. For example, I was banned from this subreddit, just because my hourly rate was "too low".
 - [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
 
 
