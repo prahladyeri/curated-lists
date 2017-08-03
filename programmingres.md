@@ -21,7 +21,7 @@
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python) - Pointer to more *python* practice resources.
 - [Code Wars](http://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
-
+- [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
 ## Q/A sites for troubleshooting a problem:
 
