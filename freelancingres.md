@@ -1,5 +1,12 @@
 # A Curated list of various freelancing resources
 
+1. [Introductory Articles](#introductory-articles)
+2. [Programming Languages](#programming-languages)
+3. [Tools and Resources](#tools-and-resources)
+4. [Marketplaces](#marketplaces)
+
+------
+
 ## Introductory Articles
 
 - [I want to learn how to be a freelance programmer](http://programmers.stackexchange.com/questions/25458/what-to-learn-to-become-freelancer)
@@ -30,6 +37,7 @@
 
 ## Tools and Resources
 
+- [Templates.net - Get all kinds of templates for freelance agreements](https://www.template.net/)
 - [/r/FreelanceProgramming - A must-visit for beginners in Freelance Programming](https://www.reddit.com/r/FreelanceProgramming)
 - [Quickbooks - Accounting for small firms](http://quickbooks.intuit.com/)
 - [Trello - Keep track of everything](https://trello.com/)
