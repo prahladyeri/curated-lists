@@ -1,4 +1,4 @@
-# A Curated list of various freelancing resources
+# List of various freelancing resources
 
 1. [Introductory Articles](#introductory-articles)
 2. [Programming Languages](#programming-languages)
