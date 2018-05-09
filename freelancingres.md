@@ -5,7 +5,7 @@
 3. [Tools and Resources](#tools-and-resources)
 4. [Marketplaces](#marketplaces)
 
-------
+---
 
 ## Introductory Articles
 
