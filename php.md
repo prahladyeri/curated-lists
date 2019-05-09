@@ -6,14 +6,17 @@
 - [A brief introduction to PHP Namespacing](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 - [PHP Zeef List](https://php.zeef.com/sjoerd.buurman)
 
-## Libraries, Frameworks, CMS
-- [Code Igniter - Another great framework](http://www.codeigniter.com/)
+## Frameworks, CMS
 - [Symfony - Defacto PHP Framework](http://symfony.com)
-- [Drupal CMS - powers the White House](http://drupal.org/)
+- [Laravel])(https://laravel.com) - open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the MVC architectural pattern and based on Symfony.
+- [CodeIgniter - Another great framework](https://www.codeigniter.com/)
+- [Drupal CMS - powers the White House](https://drupal.org/)
+- [Wordpress CMS - powers most blogs](https://wordpress.org/)
 - [Magento CMS - powers most shopping carts](http://magento.com/)
-- [Magento Github repo](https://github.com/magento/magento2)
-- [Wordpress CMS - powers most blogs](http://wordpress.org/)
 - [Joomla CMS - For sake of completion](http://developer.joomla.org)
+
+## Libraries
+- [Guzzle](https://en.wikipedia.org/wiki/Guzzle_(PHP_library)) - HTTP client library for PHP.
 - [php-markdown](https://github.com/michelf/php-markdown) - A handy markdown-converter (to/from html) in php.
 - [PHP-Websockets](https://github.com/ghedipunk/PHP-Websockets) - An open implementation of WebSockets in php.
 - [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A pure `php` library to export/import data in `Microsoft Excel` format.
@@ -21,10 +24,10 @@
 - [phpList](https://www.phplist.org/) - Mailing list software.
 
 ## IDE and other tools
-- [EclipsePDT](https://eclipse.org/pdt/) - The IDE used by most professional `php` developers.
-- [PHPStorm](http://www.jetbrains.com/phpstorm) - Another great IDE which has a big number of fans.
 - [Composer](https://getcomposer.org/doc/) - De-facto package manager for `php`.
 - [Packagist](https://packagist.org/) - De-facto hosting facility for hosting `composer` packages.
+- [EclipsePDT](https://eclipse.org/pdt/) - The IDE used by most professional `php` developers.
+- [PHPStorm](http://www.jetbrains.com/phpstorm) - Another great IDE which has a big number of fans.
 - [Zend IDE](http://www.zend.com/products/studio) - A proprietary `php` IDE.
 
 ## Online tutorials, books, puzzles
