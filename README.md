@@ -9,3 +9,6 @@ A curated list for a variety of awesome things, with plenty to come.
 - [WebDev Resources](webres.md): Resources for web development.
 - [Python Resources](pythonres.md): Resources for python programming.
 
+----
+
+- [Online Research and Educational Material related to India](india.md)
