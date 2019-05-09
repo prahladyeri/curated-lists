@@ -8,7 +8,7 @@
 
 ## Frameworks, CMS
 - [Symfony - Defacto PHP Framework](http://symfony.com)
-- [Laravel])(https://laravel.com) - open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the MVC architectural pattern and based on Symfony.
+- [Laravel](https://laravel.com) - open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the MVC architectural pattern and based on Symfony.
 - [CodeIgniter - Another great framework](https://www.codeigniter.com/)
 - [Drupal CMS - powers the White House](https://drupal.org/)
 - [Wordpress CMS - powers most blogs](https://wordpress.org/)
