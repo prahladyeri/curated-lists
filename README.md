@@ -11,4 +11,4 @@ A curated list for a variety of awesome things, with plenty to come.
 
 ----
 
-- [Online Research and Educational Material related to India](india.md)
+- [India Resources](india.md): Online Research and Educational Material related to India
