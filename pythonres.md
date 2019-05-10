@@ -20,7 +20,7 @@
 - [pandas](http://pandas.pydata.org/) - High performance Data Analysis library for Python.
 - [nltk](http://www.nltk.org/) - Widely used Python library in the field of *Natural Language Processing*.
 - [Twisted](https://twistedmatrix.com/) - An event driven networking engine written in python. Twisted is to python what System.Net is to C# or java.net package is to Java.
-- [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - A mind-blowing XML parsing library that is widely used in web-scraping scripts and applications in python.
+- [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A mind-blowing XML parsing library that is widely used in web-scraping scripts and applications in python.
 - [Mechanize](https://pypi.python.org/pypi/mechanize/) - A fully-fledged web-scraping framework written in Python.
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
 - [Tweepy](http://tweepy.readthedocs.io/) - Library to access tweets using the twitter api.
