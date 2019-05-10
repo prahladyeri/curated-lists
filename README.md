@@ -10,7 +10,7 @@ Curated lists for a variety of awesome things.
 - [Python Resources](pythonres.md): Resources for python programming.
 - [PHP Resources](php.md): Resources for php programming.
 - [Java Resources](java.md): Resources for java programming.
-- [Android Resources](android.md): Resources for java programming.
+- [Android Resources](android.md): Resources for android programming.
 - [Free Programming Books](books.md): List of free online programming books.
 
 ----
