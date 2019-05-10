@@ -16,6 +16,7 @@
 - [Joomla CMS - For sake of completion](http://developer.joomla.org)
 
 ## Libraries
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [Guzzle](https://en.wikipedia.org/wiki/Guzzle_(PHP_library)) - HTTP client library for PHP.
 - [php-markdown](https://github.com/michelf/php-markdown) - A handy markdown-converter (to/from html) in php.
 - [PHP-Websockets](https://github.com/ghedipunk/PHP-Websockets) - An open implementation of WebSockets in php.
