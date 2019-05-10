@@ -8,12 +8,11 @@
 - [Unofficial Windows Binaries for Python Extension Packages](www.lfd.uci.edu/~gohlke/pythonlibs/) - Must have resource for Windows users of Python. Provides all the compiled package files in pip installable(*.whl) files.
 - [Python Zeef List](https://python.zeef.com/alan.richmond)
 
-## Web-Frameworks
-- [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
-- [Flask](http://flask.pocoo.org) - A minimalist web framework. While not as popular and stuffed as Django, Flask follows a more `lego block` approach to development - starting from a minimal core, and keep adding as needed. An excellent framework, nevertheless.
-- [Bottle](http://bottlepy.org/) - A single module web framework for Python.
-
 ## Libraries
+- [mysql-connector-python](mysql-connector-python) - Official mysql client library by Oracle.
+- [PyMySQL](https://pypi.org/project/PyMySQL/) - A pure-Python MySQL client library, based on PEP 249. [Apparently faster than the official driver](https://stackoverflow.com/a/25724855/849365)
+- [mysqlclient](https://pypi.org/project/mysqlclient/) - Another mysql client library implementation.  [Apparently, the fastest implementation as it is C based](https://stackoverflow.com/a/25724855/849365). Django's recommended, also used by debian and ubuntu repos for `python3-mysqldb` package.
+- [psycopg2](https://pypi.org/project/psycopg2/) - Most popular postgresql driver for python.
 - [scipy](https://docs.scipy.org) - Important python package for mathematicians and statisticians.
 - [numpy](http://www.numpy.org/) - A package for scientific computing.
 - [matplotlib](http://matplotlib.org/) - A 2d plotting library.
@@ -34,6 +33,11 @@
 - [requests](http://docs.python-requests.org/en/latest/) - A popular library for handling HTTP requests.
 - [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
 - [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
+
+## Web-Frameworks
+- [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
+- [Flask](http://flask.pocoo.org) - A minimalist web framework. While not as popular and stuffed as Django, Flask follows a more `lego block` approach to development - starting from a minimal core, and keep adding as needed. An excellent framework, nevertheless.
+- [Bottle](http://bottlepy.org/) - A single module web framework for Python.
 
 ## Online tutorials, books, puzzles
 - [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
