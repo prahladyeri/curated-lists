@@ -26,6 +26,19 @@
 - [Jed](https://github.com/SlexAxton/Jed) - Internationalization/Localization library for JavaScript.
 - [highcharts](http://www.highcharts.com/) - Interactive JavaScript charting library. But remember, its free only for personal/non-commercial use.
 
+## Toolchain
+- [Google page speed insights](https://developers.google.com/speed/pagespeed/insights/) - Google website testing tool.
+- [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support) ([Google recommends](https://developers.google.com/speed/docs/insights/MinifyResources)).
+
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web.
+- [clean-css-cli](https://github.com/jakubpawlowicz/clean-css-cli) - Command-line utility based on above.
+- [csso](https://github.com/css/csso) - CSS minifier with structural optimizations (Google recommends).
+- [css-nano](https://github.com/ben-eb/cssnano) - A modular minifier, built on top of the PostCSS ecosystem (Google recommends).
+
+- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit (version-2)(Google recommends).
+- [UglifyJS](https://github.com/mishoo/UglifyJS) - Version-1 of the above.
+- [node-sass](https://github.com/sass/node-sass) - A sass compiler (Node.js bindings to libsass).
+
 ## Assets
 - [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
 - [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
