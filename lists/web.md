@@ -5,7 +5,7 @@
 - [CSS Tricks - Cool new CSS Tricks](http://css-tricks.com)
 - [A List Apart - Excellent Design learnings](http://alistapart.com/articles)
 - [Pointer to more WebDev resources](https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/)
-- [HTML5 Coding essentials - Free course on edX.org](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x){:.someClass}
+- [HTML5 Coding essentials - Free course on edX.org](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x)
 
 ## Libraries and Frameworks
 - [jQuery](http://www.jquery.com) - The most popular JavaScript library in vogue. A must-know for any web-developer.
