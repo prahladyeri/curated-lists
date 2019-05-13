@@ -4,16 +4,15 @@
 - [PHP Official docs](http://php.net/manual/en/)
 - [PHP-FIG - Standards matter](http://www.php-fig.org/psr/psr-4/)
 - [A brief introduction to PHP Namespacing](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
-- [PHP Zeef List](https://php.zeef.com/sjoerd.buurman)
 
 ## Frameworks, CMS
-- [Symfony - Defacto PHP Framework](http://symfony.com)
+- [Symfony](http://symfony.com) - Defacto PHP Framework.
 - [Laravel](https://laravel.com) - open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the MVC architectural pattern and based on Symfony.
-- [CodeIgniter - Another great framework](https://www.codeigniter.com/)
-- [Drupal CMS - powers the White House](https://drupal.org/)
-- [Wordpress CMS - powers most blogs](https://wordpress.org/)
-- [Magento CMS - powers most shopping carts](http://magento.com/)
-- [Joomla CMS - For sake of completion](http://developer.joomla.org)
+- [CodeIgniter](https://www.codeigniter.com/) - Another great framework.
+- [Drupal CMS](https://drupal.org/) - Powers the White House.
+- [Wordpress CMS](https://wordpress.org/) - Powers most blogs of this world.
+- [Magento CMS](http://magento.com/) - Powers many shopping carts.
+- [Joomla CMS](http://developer.joomla.org) - Another good CMS/Framework.
 
 ## Libraries
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
