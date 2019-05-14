@@ -41,3 +41,10 @@
 - [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
 - [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
 - [Iconfinder](https://www.iconfinder.com/) - If the above resources cannot deliver what you need, you will most probably find it on iconfinder. But not all icons are FOSS, so be sure to look up their terms of use.
+
+## Articles
+- [Just Starting Out with CSS & HTML - CSS-Tricks](https://css-tricks.com/guides/beginner/)
+- [The Different Kinds of CSS Layout - CSS-Tricks](https://css-tricks.com/guides/layout/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
