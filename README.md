@@ -5,6 +5,7 @@ Curated lists for a variety of awesome things.
 ----
 
 - [Freelancing Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
+- [Freelancing fees comparison](lists/freelancing_fees.md): Fee structure for freelancers on various marketplaces.
 - [Programming Resources](lists/programming.md): Resources helpful for programmers generally.
 - [WebDev Resources](lists/web.md): Resources for web development.
 - [Python Resources](lists/python.md): Resources for python programming.
