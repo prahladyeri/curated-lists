@@ -11,7 +11,7 @@
 | golance.com            | 7.95%  | New kid on the block           |
 
 
-## *Sources*
+## Sources
 - [Upwork vs Freelancer vs Guru price comparison](https://screenshotmonitor.com/blog/upwork-vs-freelancer-vs-guru-price-comparison/)
 - [Fiverr freelance marketplace | Review & pricing](https://www.finder.com/in/fiverr)
 - [I've just found out that goLance has lowered its fees to 7.95%!! - Medium](https://medium.com/@nebojsa.todorovic/ive-just-found-out-that-golance-has-lowered-its-fees-to-7-95-6ef5b9bb71a4)
