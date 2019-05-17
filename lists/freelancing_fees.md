@@ -9,7 +9,7 @@
 | [Fivesquid.com](https://fivesquid.com)					 | 20%    | Fees progressively decreases with cost of service/gig          |
 | [peopleperhour.com](https://peopleperhour.com) 					 | 20%    | Fees progressively decreases with cost of service/gig          |
 | [golance.com](https://golance.com)								 | 7.95%  | New kid on the block           |
-| [CloudPeeps](https://www.cloudpeeps.com/pricing)			 | 15%    | free for clients               |
+| [CloudPeeps](https://www.cloudpeeps.com/pricing)			 | 15%    | Free for clients               |
 
 ## Sources
 - [Upwork vs Freelancer vs Guru price comparison](https://screenshotmonitor.com/blog/upwork-vs-freelancer-vs-guru-price-comparison/)
