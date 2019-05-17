@@ -1,15 +1,15 @@
 # Fee structure for freelancers on various marketplaces
 
-| Marketplace            | Fees   | Notes                                  |
-| ---------------------- | ------:| -------------------------------------- |
-| Upwork.com             | 20%    | Fees decreases with repeat clients      |
-| Guru.com               | 8.95%  | Subscription plan (max $39/month) can decrease this fee up to 4.95% |
-| Freelancer.com         | 10%    | Subject to a minimum fee of $5                     |
-| Fiverr.com             | 20%    | Charged on completion of each service/gig          |
-| Fivesquid.com          | 20%    | Fees progressively decreases with cost of service/gig          |
-| peopleperhour.com      | 20%    | Fees progressively decreases with cost of service/gig          |
-| golance.com            | 7.95%  | New kid on the block           |
-
+| Marketplace            									 | Fees   | Notes                                  |
+| ---------------------------------------------------------- | ------:| -------------------------------------- |
+| Upwork.com             									 | 20%    | Fees decreases with repeat clients      |
+| Guru.com               									 | 8.95%  | Subscription plan (max $39/month) can decrease this fee up to 4.95% |
+| Freelancer.com         									 | 10%    | Subject to a minimum fee of $5                     |
+| Fiverr.com             									 | 20%    | Charged on completion of each service/gig          |
+| Fivesquid.com          									 | 20%    | Fees progressively decreases with cost of service/gig          |
+| [peopleperhour.com](peopleperhour.com) 					 | 20%    | Fees progressively decreases with cost of service/gig          |
+| [golance.com](golance.com)								 | 7.95%  | New kid on the block           |
+| [CloudPeeps](https://www.cloudpeeps.com/pricing)			 | 15%    | free for clients               |
 
 ## Sources
 - [Upwork vs Freelancer vs Guru price comparison](https://screenshotmonitor.com/blog/upwork-vs-freelancer-vs-guru-price-comparison/)
