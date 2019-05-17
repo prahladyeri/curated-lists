@@ -2,13 +2,13 @@
 
 | Marketplace            									 | Fees   | Notes                                  |
 | ---------------------------------------------------------- | ------:| -------------------------------------- |
-| Upwork.com             									 | 20%    | Fees decreases with repeat clients      |
-| Guru.com               									 | 8.95%  | Subscription plan (max $39/month) can decrease this fee up to 4.95% |
-| Freelancer.com         									 | 10%    | Subject to a minimum fee of $5                     |
-| Fiverr.com             									 | 20%    | Charged on completion of each service/gig          |
-| Fivesquid.com          									 | 20%    | Fees progressively decreases with cost of service/gig          |
-| [peopleperhour.com](peopleperhour.com) 					 | 20%    | Fees progressively decreases with cost of service/gig          |
-| [golance.com](golance.com)								 | 7.95%  | New kid on the block           |
+| [Upwork.com](https://upwork.com)							 | 20%    | Fees decreases with repeat clients      |
+| [Guru.com](https://guru.com)								 | 8.95%  | Subscription plan (max $39/month) can decrease this fee up to 4.95% |
+| [Freelancer.com](https://freelancer.com)					 | 10%    | Subject to a minimum fee of $5                     |
+| [Fiverr.com](https://fiverr.com)							 | 20%    | Charged on completion of each service/gig          |
+| [Fivesquid.com](https://fivesquid.com)					 | 20%    | Fees progressively decreases with cost of service/gig          |
+| [peopleperhour.com](https://peopleperhour.com) 					 | 20%    | Fees progressively decreases with cost of service/gig          |
+| [golance.com](https://golance.com)								 | 7.95%  | New kid on the block           |
 | [CloudPeeps](https://www.cloudpeeps.com/pricing)			 | 15%    | free for clients               |
 
 ## Sources
