@@ -29,7 +29,7 @@
 - [Twisted](https://twistedmatrix.com/) - An event driven networking engine written in python. Twisted is to python what System.Net is to C# or java.net package is to Java.
 - [Mechanize](https://pypi.python.org/pypi/mechanize/) - A fully-fledged web-scraping framework written in Python.
 
-### Spreadsheets/Conversion
+### Spreadsheets/Documents
 - [openpyxl](http://openpyxl.readthedocs.org) - A pure python library to export/import data in `Microsoft Excel` format.
 - [xlrd](https://blogs.harvard.edu/rprasad/2014/06/16/reading-excel-with-python-xlrd/) - A pure python library to read Microsoft Excel 97 (*.xls) format workbooks.
 - [python-docx](https://python-docx.readthedocs.io) - Python library to write to work with Microsoft Word Documents.
@@ -42,12 +42,14 @@
 ### Others
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
+- [pygments](https://pypi.org/project/Pygments/) - A syntax highlighting package written in Python.
 - [pygame](http://pygame.org/) - A popular python gaming library.
 - [panda3d](https://www.panda3d.org/) - Python graphics library.
 - [pyglet](http://www.pyglet.org/) - Python graphics library.
 - [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
 - [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
 - [Tweepy](http://tweepy.readthedocs.io/) - Library to access tweets using the twitter api.
+- [pytz](https://pypi.org/project/pytz/) - Library to work with time-zones.
 
 ## Web-Frameworks
 - [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
