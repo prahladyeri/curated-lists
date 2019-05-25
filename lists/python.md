@@ -24,6 +24,10 @@
 - [pandas](http://pandas.pydata.org/) - High performance Data Analysis library for Python.
 - [nltk](http://www.nltk.org/) - Widely used Python library in the field of *Natural Language Processing*.
 
+### Machine Learning
+- [scikit-learn](https://scikit-learn.org/) - A free software machine learning library for the Python programming language.
+- [tensorflow](https://www.tensorflow.org/) - A free and open-source software library for dataflow and differentiable programming across a range of tasks.
+
 ### Networking/Scraping
 - [requests](http://docs.python-requests.org/en/latest/) - A popular library for handling HTTP requests.
 - [Twisted](https://twistedmatrix.com/) - An event driven networking engine written in python. Twisted is to python what System.Net is to C# or java.net package is to Java.
