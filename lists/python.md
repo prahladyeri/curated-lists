@@ -68,3 +68,9 @@
 - [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
 - [Learn Python, Break Python - A beginners guide](http://learnpythonbreakpython.com/)
 - [Automate boring stuff with Python](http://automatetheboringstuff.com/)
+
+## Popular Youtube channels
+
+- [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
