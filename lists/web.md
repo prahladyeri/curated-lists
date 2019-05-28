@@ -32,6 +32,12 @@
 - [Vue.js](https://en.wikipedia.org/wiki/Vue.js) - Open source JavaScript framework for building user interfaces and single page applications.
 - [Backbone.js](https://github.com/jashkenas/backbone)- A light-weight JavaScript framework based on MVP paradigm, designed for developing single page applications.
 
+## Component Libraries (JavaScript)
+- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
+- [Material-UI](https://material-ui.com/) - A popular set of react components.
+- [Angular-Material](https://material.angular.io) - Material UI components for the angular framework.
+- [primeng](https://primefaces.org/primeng) - Another beautiful UI component library for angular framework.
+
 
 ## Toolchain
 - [Google page speed insights](https://developers.google.com/speed/pagespeed/insights/) - Google website testing tool.
