@@ -28,6 +28,7 @@
 - [Stack Overflow](http://stackoverflow.com) - No need to say anything there!
 - [Unix and Linux Q/A](http://unix.stackexchange.com/) - This is where I usually go if Google cannot help me with a linux problem.
 - [Super User](http://superuser.com/) - Though not specific to programming, but very useful nevertheless.
+- [Dev.to](https://dev.to) - Recently open sourced, this discussion site is geared towards beginners. Its more of a programming social network than a Q/A site though.
 - [Code Project](http://www.codeproject.com/) - If you are into Microsoft Technologies like ASP.NET/C#, this site is for you.
 
 ## Other Programming resources
