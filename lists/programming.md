@@ -10,6 +10,12 @@
 - [Coursera](https://www.coursera.org/courses?query=php) - Comprehensive curriculum and large number of programming courses to choose from. A pity [they started monetizing their students](https://courserajunkie.wordpress.com/2015/05/26/courseras-free-statements-of-accomplisments-die-a-quiet-death/) by offering paid-only certificates recently.
 - [edX.org](https://courses.edx.org/) - ~~Non profit, open source~~ Professional and Profiteerig institute and currently ~~the most recommended~~ not recommended.
 
+## Integrated Development Environments (IDE)
+
+- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
+- [atom/atom](https://github.com/atom/atom): Similar to above, Atom is another JavaScript editor, quite popular these days.
+- [Netbeans](http://wiki.netbeans.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
+- [Eclipse](http://eclipse.org): Another Java veteran's IDE, a strong competetor to Netbeans.
 
 ## Programming practice to exercise your coding muscles	
 	

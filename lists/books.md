@@ -1,6 +1,6 @@
 # Free Online Programming Books
 
-##### [*Original source maintained on Github*](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+### (Also have a look at [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) which has a far greater collection).
 
 ### PHP
 
