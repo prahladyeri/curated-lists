@@ -1,6 +1,7 @@
 # WebDev Resources
 
 ## Official docs and other resources
+- [Tailwind Components](https://tailwindcomponents.com/) - An inspirational collection of tailwind styles.
 - [Mozilla - Official docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS Tricks - Cool new CSS Tricks](http://css-tricks.com)
 - [A List Apart - Excellent Design learnings](http://alistapart.com/articles)
@@ -26,6 +27,7 @@
 - [Twitter Bootstrap](https://github.com/twbs/bootstrap) - A popular `CSS/JavaScript` framework by Twitter Inc., again an "off-the-shelf" reusable component for backend & front-end developers alike.
 - [Zurb Foundation](https://github.com/zurb/foundation) - A viable alternative to Twitter Bootstrap. Powers a lot of high-profile websites.
 - [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
+- [Tailwind](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
 
 ## Frameworks (JavaScript)
 - [AngularJS - Official docs](https://angularjs.org/) - A mind-blowing MVC framework to lay out a framework for large MVC apps on the front-end. Extensively used along with `Twitter Bootstrap`.
