@@ -54,6 +54,7 @@
 - [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
 - [Tweepy](http://tweepy.readthedocs.io/) - Library to access tweets using the twitter api.
 - [pytz](https://pypi.org/project/pytz/) - Library to work with time-zones.
+- [tqdm](https://github.com/tqdm/tqdm) - Instantly make your loops show a smart progress meter.
 
 ## Web-Frameworks
 - [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
