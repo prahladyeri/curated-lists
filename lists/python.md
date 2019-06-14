@@ -25,6 +25,7 @@
 - [nltk](http://www.nltk.org/) - Widely used Python library in the field of *Natural Language Processing*.
 
 ### Machine Learning
+- [gpt-2](https://github.com/openai/gpt-2) - Neuralnet/AI library, Code from the paper "Language Models are Unsupervised Multitask Learners".
 - [scikit-learn](https://scikit-learn.org/) - A free software machine learning library for the Python programming language.
 - [tensorflow](https://www.tensorflow.org/) - A free and open-source software library for dataflow and differentiable programming across a range of tasks.
 
@@ -42,10 +43,12 @@
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A mind-blowing XML parsing library that is widely used in web-scraping scripts and applications in python.
 - [lxml](https://lxml.de) - Library to process xml/html with python.
 
+### Build and DevOps
+- [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
+- [PyTest](https://github.com/pytest-dev/pytest) - Perhaps the De-facto testing module in python world.
 
 ### Others
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
-- [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
 - [pygments](https://pypi.org/project/Pygments/) - A syntax highlighting package written in Python.
 - [pygame](http://pygame.org/) - A popular python gaming library.
 - [panda3d](https://www.panda3d.org/) - Python graphics library.
