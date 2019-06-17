@@ -36,6 +36,6 @@
 	
 		twine upload dist/<your-package>-1.0.0.tar.gz dist/<your-package>-1.0.0.tar.gz.asc -u <your-pypi-username> -p <your-pypi-password>
 
-6. Visit https://pypi.org/project/<your_package> to verify that your package has been uploaded.
+6. Visit <https://pypi.org/project/your_package> to verify that your package has been uploaded.
 
 7. Run `pip install <your_package>` to verify the package installation using pip package manager.
