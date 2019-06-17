@@ -46,6 +46,7 @@
 ### Build and DevOps
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
 - [PyTest](https://github.com/pytest-dev/pytest) - Perhaps the De-facto testing module in python world.
+- [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) - The standard documentation tool for python.
 
 ### Others
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
