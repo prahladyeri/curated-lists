@@ -32,7 +32,7 @@
 
 		twine upload dist/<your-package>-1.0.0.tar.gz -u <your-pypi-username> -p <your-pypi-password>
 	
-	if you've signed the package, then you may also add the signed .asc file as the argument like this:
+	If you've signed the package, then you may also add the signed .asc file as the argument like this:
 	
 		twine upload dist/<your-package>-1.0.0.tar.gz dist/<your-package>-1.0.0.tar.gz.asc -u <your-pypi-username> -p <your-pypi-password>
 
