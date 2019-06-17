@@ -23,12 +23,17 @@
 			author_email="<your_email>",
 			)
 
-3. Run `python setup.py sdist` from your source folder.
-4. Optionally, sign the newly generated package with your `gpg` signature:
+
+3. Optional: Bump up the version number (and git commit) if this isn't your first release:
+
+	git add . && git commit -m "chore: released 1.0.1" && git push
+
+4. Run `python setup.py sdist` from your source folder.
+5. Optional: Sign the newly generated package with your `gpg` signature:
 
 		gpg -a --detach-sign dist/<your-package>-1.0.0.tar.gz
 	
-5. Upload your package using `twine`:
+6. Upload your package using `twine`:
 
 		twine upload dist/<your-package>-1.0.0.tar.gz -u <your-pypi-username> -p <your-pypi-password>
 	
@@ -36,6 +41,9 @@
 	
 		twine upload dist/<your-package>-1.0.0.tar.gz dist/<your-package>-1.0.0.tar.gz.asc -u <your-pypi-username> -p <your-pypi-password>
 
-6. Visit <https://pypi.org/project/your_package> to verify that your package has been uploaded.
+7. Visit <https://pypi.org/project/your_package> to verify that your package has been uploaded.
+8. Run `pip install <your_package>` to verify the package installation using pip package manager.
+9. Optional: Tag the commit with the new version number:
 
-7. Run `pip install <your_package>` to verify the package installation using pip package manager.
+		git tag "1.0.1"
+		git push --tags
