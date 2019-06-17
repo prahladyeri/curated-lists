@@ -1,7 +1,7 @@
 # Checklist: Publishing a package to PyPi
 
 1. Register an account on [PyPi](https://pypi.org/) if you don't have one.
-2. Install `setuptools` and `twine` if they aren't already. Create a `setup.py` in your source folder as follows (check out [setuptools docs](https://setuptools.readthedocs.io) for a more detailed setup options):
+2. Install `setuptools` and `twine` if they aren't already. Create a `setup.py` in your source folder as follows (check out [setuptools docs](https://setuptools.readthedocs.io) for more detailed setup options):
 
 		# replace:
 		# <your_package> with your actual package name.
