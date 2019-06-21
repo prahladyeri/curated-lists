@@ -6,24 +6,28 @@
 - [Java Code Ranch - Learning resources for beginners](http://www.coderanch.com/how-to/java/JavaBeginnersFaq)
 - [Google - Java Development Tools](https://developers.google.com/java-dev-tools/)
 - [Maven Central - The official Java package repository](http://mvnrepository.com/)
-- [Java Zeef List](https://java.zeef.com/jan.beernink)
-- [Introduction to Java Programming - Free course on edX.org](https://courses.edx.org/courses/course-v1:HKUSTx+COMP102.1x+4T2015/b005e1e5d46640c9aedbac3407d535c0/)
 
 
 ## Libraries and Frameworks
 - [jUnit](http://junit.org/) - The standard unit testing tool in Java world, the inspiration behind `nunit`, the equivalent for unit testing used in the .NET world.
 - [Apache Commons](http://commons.apache.org/) - The most popular and highly used libraries in the Java World.
+- [Guava](https://github.com/google/guava) - Google core libraries for java.
+- [google-gson](https://github.com/google/gson) - Helpful for converting java objects into json and vice versa.
 - [Apache Tomcat](http://tomcat.apache.org/) - A popular web server and Servlet container, the standard way of hosting and developing web apps in the Java world. The official alternative to the `Java EE`.
 - [Apache TomEE](http://tomee.apache.org/apache-tomee.html) - It so happens that Tomcat is great, but it doesn't stand up to some of the Oracle's certification standard for a web hosting platform. Hence `TomEE` was created, though its production usage is much less than `Tomcat`.
-- [Takes](http://www.takes.org/) - Takes is an open source object-oriented and immutable Java web framework.
 - [Spring.io](https://spring.io) - A comprehensive open-source web framework in Java that began to address some major drawbacks in the `Java EE` way of development. It pioneered the Dependency-Injection pattern in Java world and its modular approach of bundling components acted as guiding stones for other frameworks like the php symfony.
+- [JHipster](https://jhipster.github.io/) - A development platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices.
 - [Apache log4j](http://logging.apache.org/log4j) - The standard logging component in the Java world, inspired `log4net` for C# and `log4php` for PHP.
+- [hibernate-ORM](http://hibernate.org/orm/) - An object relational mapper. It’s used for persisting of data in relational databases.
+- [mockito](http://site.mockito.org/) - Mocking framework for java.
+- [selenium](https://github.com/SeleniumHQ/selenium) - A variety of tools and libraries enabling web browser automation.
+- [Takes](http://www.takes.org/) - Takes is an open source object-oriented and immutable Java web framework.
 - [snmp4j](http://www.snmp4j.org) - An industry standard SNMP library for Java. It allows creation of both SNMP agents and admins thorough its extensive API.
 
 
 ## IDE and other tools
 - [Eclipse](http://www.eclipse.org) - The standard and most popular Java IDE used by most Java professionals. Though it appears to be bloated and sometimes slow and not so well designed, it is presently the best available alternative in the Java world. It's pros, however, far far outweigh its cons - it has a plugin-based modular architecture covering not just Java, but PHP, Python, C/C++ and several other langauges. There is also an ADT plugin to develop Android Apps. Personally, I'm a big fan.
-- [Netbeans](http://www.netbeans.org/) - Another great IDE, second only to Eclipse. This has an additional advantage of being supported by Oracle and it comes with a Swing/JavaFX designer built-in. However, it is less flexible than Eclipse when it comes to supporting a wide range of projects. It also lacks a python plugin and its android plugin isn't much evolved.
+- [Apache Netbeans](http://www.netbeans.org/) - Another great IDE, second only to Eclipse. This has an additional advantage of being supported by Oracle and it comes with a Swing/JavaFX designer built-in. However, it is less flexible than Eclipse when it comes to supporting a wide range of projects. It also lacks a python plugin and its android plugin isn't much evolved.
 - [BlueJ](http://www.bluej.org/) - An IDE specifically designed for the teaching of Java concepts to students. It doesn't have all the bells and whistles of Eclipse and others, just a plain IDE to easily help understand OOP concepts.
 - [IntelliJ](https://www.jetbrains.com/idea/) - A commercial IDE developed by Jetbrains Inc.. Evangelists say that its a better IDE than Eclipse, personally I'm not a huge fan.
 - [jEdit](http://www.jedit.org/) - jEdit is more of a Programmer's Editor than a fully fledged IDE. Though it lacks the RAD features in Eclipse/Netbeans, it works pretty well as a lightweight text Editor.
