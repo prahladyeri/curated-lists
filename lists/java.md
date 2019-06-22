@@ -15,7 +15,7 @@
 - [google-gson](https://github.com/google/gson) - Helpful for converting java objects into json and vice versa.
 - [Apache Tomcat](http://tomcat.apache.org/) - A popular web server and Servlet container, the standard way of hosting and developing web apps in the Java world. The official alternative to the `Java EE`.
 - [Apache TomEE](http://tomee.apache.org/apache-tomee.html) - It so happens that Tomcat is great, but it doesn't stand up to some of the Oracle's certification standard for a web hosting platform. Hence `TomEE` was created, though its production usage is much less than `Tomcat`.
-- [Spring.io](https://spring.io) - A comprehensive open-source web framework in Java that began to address some major drawbacks in the `Java EE` way of development. It pioneered the Dependency-Injection pattern in Java world and its modular approach of bundling components acted as guiding stones for other frameworks like the php symfony.
+- [Spring.io](https://spring.io) - A comprehensive open-source web framework in Java that began to address some major drawbacks in the `Java EE` way of development. It pioneered the Dependency-Injection pattern in Java world and its modular approach of bundling components acted as a guiding stone for other frameworks like php's symfony.
 - [JHipster](https://jhipster.github.io/) - A development platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices.
 - [Apache log4j](http://logging.apache.org/log4j) - The standard logging component in the Java world, inspired `log4net` for C# and `log4php` for PHP.
 - [hibernate-ORM](http://hibernate.org/orm/) - An object relational mapper. It’s used for persisting of data in relational databases.
