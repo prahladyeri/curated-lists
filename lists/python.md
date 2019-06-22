@@ -6,7 +6,6 @@
 - [Python Package Index - The official python package repo](https://pypi.python.org/)
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python)
 - [Unofficial Windows Binaries for Python Extension Packages](www.lfd.uci.edu/~gohlke/pythonlibs/) - Must have resource for Windows users of Python. Provides all the compiled package files in pip installable(*.whl) files.
-- [Python Zeef List](https://python.zeef.com/alan.richmond)
 
 ## Libraries
 

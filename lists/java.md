@@ -1,7 +1,7 @@
 # Java Resources
 
 ## Official docs and other resources
-- [Java SE Official docs](https://docs.oracle.com/javase/7/docs)
+- [Java SE Official docs](https://docs.oracle.com/javase/8/docs)
 - [Java SE Official Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [Java Code Ranch - Learning resources for beginners](http://www.coderanch.com/how-to/java/JavaBeginnersFaq)
 - [Google - Java Development Tools](https://developers.google.com/java-dev-tools/)
@@ -25,16 +25,18 @@
 - [snmp4j](http://www.snmp4j.org) - An industry standard SNMP library for Java. It allows creation of both SNMP agents and admins thorough its extensive API.
 
 
-## IDE and other tools
-- [Eclipse](http://www.eclipse.org) - The standard and most popular Java IDE used by most Java professionals. Though it appears to be bloated and sometimes slow and not so well designed, it is presently the best available alternative in the Java world. It's pros, however, far far outweigh its cons - it has a plugin-based modular architecture covering not just Java, but PHP, Python, C/C++ and several other langauges. There is also an ADT plugin to develop Android Apps. Personally, I'm a big fan.
-- [Apache Netbeans](http://www.netbeans.org/) - Another great IDE, second only to Eclipse. This has an additional advantage of being supported by Oracle and it comes with a Swing/JavaFX designer built-in. However, it is less flexible than Eclipse when it comes to supporting a wide range of projects. It also lacks a python plugin and its android plugin isn't much evolved.
+## IDEs
+- [Eclipse](http://www.eclipse.org) - The standard and most popular Java IDE used by most Java professionals, especially in enterprises. Though it appears to be bloated and sometimes slow and not so well designed, it is presently the best available in the Java world. It's pros, however, far outweigh its cons - it has a plugin-based modular architecture covering not just Java, but PHP, Python, C/C++ and several other langauges. There is also an ADT plugin to develop Android Apps. Personally, a huge fan!
+- [Apache Netbeans](http://www.netbeans.org/) - Another great IDE, second only to Eclipse. This has an additional advantage of being supported by ~~Oracle~~Apache Software Foundation (ASF) and it comes with a Swing/JavaFX designer built-in. However, it is less flexible than Eclipse when it comes to supporting a wide range of projects. It also lacks a python plugin and its android plugin isn't much evolved.
+- [IntelliJ](https://www.jetbrains.com/idea/) - A commercial IDE developed by Jetbrains Inc. Evangelists claim that its better than Eclipse.
 - [BlueJ](http://www.bluej.org/) - An IDE specifically designed for the teaching of Java concepts to students. It doesn't have all the bells and whistles of Eclipse and others, just a plain IDE to easily help understand OOP concepts.
-- [IntelliJ](https://www.jetbrains.com/idea/) - A commercial IDE developed by Jetbrains Inc.. Evangelists say that its a better IDE than Eclipse, personally I'm not a huge fan.
 - [jEdit](http://www.jedit.org/) - jEdit is more of a Programmer's Editor than a fully fledged IDE. Though it lacks the RAD features in Eclipse/Netbeans, it works pretty well as a lightweight text Editor.
+
+## Tooling
 - [Apache Ant](http://ant.apache.org/) - The standard build testing tool in Java world, the inspiration behind `nant`, the .NET equivalent. Often used in conjunction with Maven or Gradle packaging tools.
 - [Apache Maven](https://maven.apache.org) - The standard package management tool in Java world, though to be very honest, this department is very fragmented and convoluted with `Gradle` emerging as an unofficial alternative and the [maven central](http://search.maven.org/), not being the only official source. Since Java is enterprise driven, a lot of them have their own maven centrals.
-- [Qulice](http://www.qulice.com/) - Qulice is a Quality policing tool for Java which performs all kinds of checks and validations on your Java code. There is a [maven plugin](http://www.qulice.com/qulice-maven-plugin/) available which is very helpful.
 - [Gradle](http://www.gradle.org/) - A strong and popular replacement for Maven, especially because of its terse syntax that allows you to do away with Maven's verbose XML.
+- [Qulice](http://www.qulice.com/) - Qulice is a Quality policing tool for Java which performs all kinds of checks and validations on your Java code. There is a [maven plugin](http://www.qulice.com/qulice-maven-plugin/) available which is very helpful.
 
 
 ## Online tutorials, books and puzzles
