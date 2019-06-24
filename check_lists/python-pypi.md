@@ -1,7 +1,7 @@
 # Checklist: Publishing a package to PyPi
 
 1. Register an account on [PyPi](https://pypi.org/) if you don't have one.
-2. Install `setuptools` and `twine` if they aren't already. Create a `setup.py` in your source folder as follows (check out [setuptools docs](https://setuptools.readthedocs.io) for more detailed setup options):
+2. Install `setuptools` and `twine` using `pip` if they aren't already. Create a `setup.py` in your source folder as follows (check out [setuptools docs](https://setuptools.readthedocs.io) for more detailed setup options):
 
 		# replace:
 		# <your_package> with your actual package name.
@@ -26,9 +26,9 @@
 
 3. Optional: Bump up the version number (and git commit) if this isn't your first release:
 
-	git add . && git commit -m "chore: released 1.0.1" && git push
+		git add . && git commit -m "chore: released 1.0.1" && git push
 
-4. Run `python setup.py sdist` from your source folder.
+4. Run `python setup.py sdist` from your source folder to generate a source distribution.
 5. Optional: Sign the newly generated package with your `gpg` signature:
 
 		gpg -a --detach-sign dist/<your-package>-1.0.0.tar.gz
