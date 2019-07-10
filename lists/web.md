@@ -35,6 +35,10 @@
 - [Backbone.js](https://github.com/jashkenas/backbone)- A light-weight JavaScript framework based on MVP paradigm, designed for developing single page applications.
 
 ## Component Libraries (JavaScript)
+- [jqueryui](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
+- [datatables.net](http://datatables.net/) - Add advanced interaction controls
+to your HTML tables the free & easy way.
+- [select2](https://github.com/select2/select2) - A jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 - [Material-UI](https://material-ui.com/) - A popular set of react components.
 - [Angular-Material](https://material.angular.io) - Material UI components for the angular framework.
