@@ -1,4 +1,4 @@
-# Metalist - One List to Rule Them All!
+# The Meta List - One List to Rule Them All!
 
 This is a curated meta list that contains links to other awesome curated lists.
 
@@ -18,6 +18,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## JavaScript
 
+- [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries.
@@ -53,6 +54,8 @@ This is a curated meta list that contains links to other awesome curated lists.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books.
+
 
 ## Metalist
 
