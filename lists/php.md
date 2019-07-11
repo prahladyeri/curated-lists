@@ -5,14 +5,19 @@
 - [PHP-FIG - Standards matter](http://www.php-fig.org/psr/psr-4/)
 - [A brief introduction to PHP Namespacing](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 
-## Web Frameworks, CMS
-- [Symfony](http://symfony.com) - Defacto PHP Framework, inspired by Java's spring.
-- [CodeIgniter](https://www.codeigniter.com/) - Another good PHP framework.
+## Frameworks
+- [Symfony](http://symfony.com) - Popular and highly used PHP framework, inspired by Java's spring.
+- [CodeIgniter](https://www.codeigniter.com/) - Another good PHP framework, created by Ellis Labs and presently maintained by British Columbia Institute of Technology (BCIT).
 - [Laravel](https://laravel.com) - Yet another PHP web framework, created and promoted by Taylor Otwell.
+- [yii](http://www.yiiframework.com/) - Developed by Yahoo Inc., the word literally means "simple and evolutionary" in Chinese language, and is also an acronym for "Yes, It Is!".
+- [cakephp](https://cakephp.org/) - Based on the MVC approach, modeled after Ruby on Rails.
+
+## CMS
 - [Drupal](https://drupal.org/) - Multi-purpose CMS, powers the White House.
 - [Wordpress](https://wordpress.org/) - Powers most blogs of this world.
+- [Fuelcms](https://www.getfuelcms.com/) - Built with CodeIgniter, FuelCMS is a popular and reputed name in the PHP world.
+- [Joomla](http://developer.joomla.org) - CMS helping both novice users and expert developers to create powerful websites and applications.
 - [Magento](http://magento.com/) - Powers many shopping carts.
-- [Joomla](http://developer.joomla.org) - Another good CMS/Framework.
 - [Limesurvey](https://www.limesurvey.org/) - Wonderful survey tool/CMS.
 
 ## Libraries
