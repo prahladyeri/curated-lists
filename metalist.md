@@ -8,6 +8,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter/blob/master/README.md) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.
 - [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) - A curated list of awesome tools for Sphinx Python Documentation Generator.
