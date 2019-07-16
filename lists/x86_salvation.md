@@ -16,7 +16,7 @@ Considering that almost every other linux distro and every major software vendor
 ## Software
 
 - MongoDB: MongoDB has absolutely stopped support for x86 arch through repos. The only way to install mongodb on a linux machine is to extract the [latest supported tar build](https://fastdl.mongodb.org/linux/mongodb-linux-i686-3.0.6.tgz) and installing the binaries yourself. Based on my testing, it works on ubuntu trusty.
-- Node.js: Node has [absolutely stopped supporting x86 since 10.x LTS version](https://github.com/nodesource/distributions/blob/master/README.md). The last Node LTS you can use on an x86 is 8.x using the instructions on the linked page.
+- Node.js: Node has [absolutely stopped supporting x86 since 10.x LTS version](https://github.com/nodesource/distributions/blob/master/README.md#deb). The last Node LTS you can use on an x86 is 8.x using the instructions on the linked page.
 - Java: Official JDK (Oracle) has stopped x86 support since Java 11. The last Oracle x86 JDK you can install is [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). The same is with Amazon Corretto and others, almost every major Java vendor has dropped support for x86 since the 8.x branch.
 - Python: Python has (thankfully!) maintained support for x86 as of now (v3.74) for [windows and mac](https://www.python.org/downloads/release/python-374/), and their source tar files should trivially compile to i386 on linux as major distros like debian are shipping i386 versions of it.
 
@@ -28,6 +28,7 @@ Considering that almost every other linux distro and every major software vendor
 - <https://stackoverflow.com/questions/43960037/is-it-possible-to-install-mongodb-on-32-bit-ubuntu-16-04-lts>
 - <https://askubuntu.com/questions/772181/how-can-i-install-mongodb-on-32-bit-ubuntu>
 - **Node.js**
+- [Discussion surrounding Node.js decision to drop 32-bit builds](https://github.com/nodejs/build/issues/885)
 - <https://nodejs.org/en/download/package-manager/>
 - <https://github.com/nodejs/help/issues/1384>
 - <https://github.com/nodesource/distributions/blob/master/README.md>
