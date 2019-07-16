@@ -9,6 +9,7 @@ Curated lists for a variety of awesome things.
 
 
 - [Meta List](metalist.md) - The one list to rule them all!
+- [i386 Salvation](lists/x86_salvation.md): Support information for the i386 architecture.
 - [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
 - [Freelance portals fees comparison](lists/freelancing_fees.md): Fee structure for freelancers on various marketplaces.
 - [Programming Resources](lists/programming.md): Resources helpful for programmers generally.
