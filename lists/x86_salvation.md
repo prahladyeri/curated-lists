@@ -19,7 +19,7 @@ Considering that almost every other linux distro and every major software vendor
 
 ### Languages, Interpreters and Runtimes
 
-- Node.js: Node has [absolutely stopped supporting x86 since 10.x LTS version](https://github.com/nodesource/distributions/blob/master/README.md#deb). The last Node LTS you can use on an x86 is 8.x using the instructions on the linked page.
+- Node.js: Node has [officially stopped supporting x86 since 10.x LTS version](https://github.com/nodesource/distributions/blob/master/README.md#deb). The last Node LTS you can use on an x86 is 8.x using the instructions on the linked page. However, they have plans to revive i386 builds [unofficially as mentioned here](https://unofficial-builds.nodejs.org/).
 - Java: Official JDK (Oracle) has stopped x86 support since Java 11. The last Oracle x86 JDK you can install is [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). The same is with Amazon Corretto and others, almost every major Java vendor has dropped support for x86 since the 8.x branch.
 - Python: Python has (thankfully!) maintained support for x86 as of now (v3.74) for [windows and mac](https://www.python.org/downloads/release/python-374/), and their source tar files should trivially compile to i386 on linux as major distros like debian are shipping i386 versions of it.
 - PHP: PHP has [maintained support for x86](https://windows.php.net/download#php-7.3) for windows as of now. Building PHP using C is also usually trivial for x86 on linux.
@@ -42,6 +42,9 @@ Considering that almost every other linux distro and every major software vendor
 - <https://nodejs.org/en/download/package-manager/>
 - <https://github.com/nodejs/help/issues/1384>
 - <https://github.com/nodesource/distributions/blob/master/README.md>
+- **Node.js (Unofficial i386 builds)**
+- <https://unofficial-builds.nodejs.org/download/>
+- <https://github.com/nodejs/unofficial-builds/>
 - **Java**
 - <https://stackoverflow.com/questions/55808777/amazon-corretto-11-32-bits>
 - **Python**
