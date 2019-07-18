@@ -1,10 +1,10 @@
-# i386 Salvation
+# x86 Salvation
 
-## Support information for the i386 architecture
+## Support information for the x86 (32-bit) architecture
 
-i386 computer architecture is increasingly becoming the dinosaur of the PC world these days, especially in the Linux zone.
+32-bit computer architecture is increasingly becoming the dinosaur of the PC world these days, especially in the Linux zone.
 
-Considering that almost every other linux distro and every major software vendor are announcing dropping support for i386, a day might soon come when words like `i386`, `x86` and `32-bit` will fade away from people's memory seeing how fast things move in the IT world. On that day, this list could be helpful to someone wanting to use an old i386 PC or laptop or VM for whatever reasons.
+Considering that almost every other linux distro and every major software vendor are announcing dropping support for x86, a day might soon come when words like `i386`, `x86` and `32-bit` will fade away from people's memory seeing how fast things move in the IT world. On that day, this list could be helpful to someone wanting to use an old x86 PC or laptop or VM for whatever reasons.
 
 ## Linux and BSD
 
