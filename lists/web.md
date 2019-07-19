@@ -12,6 +12,7 @@
 - [jQuery](http://www.jquery.com) - The most popular JavaScript library in vogue. A must-know for any web-developer.
 - [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider) - Slider plugin for the bootstrap framework.
 - [jQueryUI - Official docs](https://jqueryui.com) - A UI framework on top of `jQuery`, but lost traction lately due of Bootstrap and other frameworks.
+- [pagedown/](https://code.google.com/archive/p/pagedown/) - Markdown to HTML converter written in JavaScript ([used by StackOverflow](https://stackoverflow.com/a/40066280/849365)).
 - [to-markdown](https://github.com/domchristie/to-markdown) - A handly html-to-markdown converter written in JavaScript by Dom Christie.
 - [JSTree](https://www.jstree.com/) - Useful jQuery plugin to easily integrate trees in your web apps. The one on the left side of this page is built using jstree library.
 - [jsPlumb](https://jsplumbtoolkit.com/) - Useful JavaScript library for plugging-in "drag-drop" elements in your web-page.
@@ -68,3 +69,4 @@ to your HTML tables the free & easy way.
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [StackOverflow - Markdown to HTML JS converter](https://stackoverflow.com/a/40066280/849365)
