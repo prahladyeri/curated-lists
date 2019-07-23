@@ -12,6 +12,7 @@ Considering that almost every other linux distro and every major software vendor
 - [Ubuntu](https://ubuntu.com) - Ubuntu has stopped support for x86 since [16.04 LTS](http://releases.ubuntu.com/16.04.6/) which is the last downloadable distro with x86 support. However, you can use lighter variants like [lubuntu](https://lubuntu.net/) and [xubuntu](https://xubuntu.org/) who still support x86 (as of 2019) but its uncertain how long they'll do that.
 - [Linux Mint](https://linuxmint.com/download.php) - In a [recent blog post](https://blog.linuxmint.com/?p=3766), Linux Mint has announced that since the upstream (Ubuntu) has dropped support for 64-bit, Linux Mint will be forced to do the same with future versions of 20.x. 19.x is the last 32-bit release and will be supported until 2023.
 - [Fedora](https://getfedora.org/) - Thankfully, Fedora has retained support for [32-bit builds](https://download.fedoraproject.org/pub/fedora-secondary/releases/30/Workstation/i386/) as of now.
+- [OpenSUSE](https://software.opensuse.org/) - OpenSUSE LEAP has stopped support for x86 builds since at least 15.1. As of today, [their download page](https://software.opensuse.org/distributions/leap) provides for 64-bit ISOs only.
 - [Gentoo](https://www.gentoo.org/) - Gentoo is a difficult distribution for the average linux user to master but thankfully, [they do support 32-bit arch](https://www.gentoo.org/downloads/) as of now.
 - [FreeBSD](https://www.freebsd.org/) - FreeBSD still has [full support for i386](https://www.freebsd.org/platforms/index.html) as of now.
 
