@@ -34,7 +34,7 @@
 - [Mechanize](https://pypi.python.org/pypi/mechanize/) - A fully-fledged web-scraping framework written in Python.
 
 ### Spreadsheets/Documents
-- [openpyxl](http://openpyxl.readthedocs.org) - A pure python library to export/import data in `Microsoft Excel` format.
+- [openpyxl](https://openpyxl.readthedocs.io) - A pure python library to export/import data in `Microsoft Excel` format.
 - [xlrd](https://blogs.harvard.edu/rprasad/2014/06/16/reading-excel-with-python-xlrd/) - A pure python library to read Microsoft Excel 97 (*.xls) format workbooks.
 - [python-docx](https://python-docx.readthedocs.io) - Python library to write to work with Microsoft Word Documents.
 - [markdown](https://pypi.org/project/Markdown/) - Python library to work with markdown format.
@@ -46,6 +46,7 @@
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
 - [PyTest](https://github.com/pytest-dev/pytest) - Perhaps the De-facto testing module in python world.
 - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) - The standard documentation tool for python.
+- [readthedocs.org](https://readthedocs.org) - Online document hosting facility for pythonistas, based on Sphinx and integrates with github repositories and hooks.
 
 ### Others
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
