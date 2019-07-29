@@ -56,6 +56,7 @@
 - [pyglet](http://www.pyglet.org/) - Python graphics library.
 - [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
 - [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
+- [PySimpleGUI](https://pysimplegui.readthedocs.io/) - Another GUI toolkit similar to PyQT and tkinter.
 - [Tweepy](http://tweepy.readthedocs.io/) - Library to access tweets using the twitter api.
 - [pytz](https://pypi.org/project/pytz/) - Library to work with time-zones.
 - [tqdm](https://github.com/tqdm/tqdm) - Instantly make your loops show a smart progress meter.
@@ -67,6 +68,7 @@
 - [Bottle](http://bottlepy.org/) - A single module web framework for Python.
 
 ## Online tutorials, books, puzzles
+- [Dive Into Python - Mark Pilgrim](https://linux.die.net/diveintopython/html/toc/index.html) - Must read for all python learners and enthusiasts.
 - [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
 - [Writing a Virtual Machine in Python](http://pythonguy.wordpress.com/2008/04/17/writing-a-virtual-machine-in-python/)
 - [Coding Bat - Python](http://codingbat.com/python)
