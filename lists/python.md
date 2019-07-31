@@ -68,6 +68,7 @@
 - [Bottle](http://bottlepy.org/) - A single module web framework for Python.
 
 ## Online tutorials, books, puzzles
+- [Full Stack Python](https://fullstackpython.com) - Handy resource outlining the web development process using python frameworks and libraries.
 - [Dive Into Python - Mark Pilgrim](https://linux.die.net/diveintopython/html/toc/index.html) - Must read for all python learners and enthusiasts.
 - [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
 - [Writing a Virtual Machine in Python](http://pythonguy.wordpress.com/2008/04/17/writing-a-virtual-machine-in-python/)
