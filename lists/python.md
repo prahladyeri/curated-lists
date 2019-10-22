@@ -67,9 +67,10 @@
 - [Flask](http://flask.pocoo.org) - A minimalist web framework. While not as popular and stuffed as Django, Flask follows a more `lego block` approach to development - starting from a minimal core, and keep adding as needed. An excellent framework, nevertheless.
 - [Bottle](http://bottlepy.org/) - A single module web framework for Python.
 
-## Online tutorials, books, puzzles
+## Online tutorials, articles, books, puzzles
 - [Full Stack Python](https://fullstackpython.com) - Handy resource outlining the web development process using python frameworks and libraries.
 - [Dive Into Python - Mark Pilgrim](https://linux.die.net/diveintopython/html/toc/index.html) - Must read for all python learners and enthusiasts.
+- [Django vs. Flask: Picking the Right Python Web Framework](https://www.tivix.com/blog/django-vs-flask-picking-the-right-python-framework) - Excellent guide for choosing between django and flask, the two most popular python web frameworks.
 - [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
 - [Writing a Virtual Machine in Python](http://pythonguy.wordpress.com/2008/04/17/writing-a-virtual-machine-in-python/)
 - [Coding Bat - Python](http://codingbat.com/python)
