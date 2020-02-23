@@ -15,3 +15,4 @@
 - [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI)
 - [Bryan Lunduke: How I Became a Free Software Extremist](https://www.youtube.com/watch?v=kstKuHzfgjo)
 - [Red Hat Videos: Open Source Stories: Road to AI](https://www.youtube.com/watch?v=_sNNSEP-P7A&t=5s)
+- [The mind behind Linux|Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
