@@ -2,8 +2,8 @@
 
 | Content Mill  | Countries Allowed |
 | ------------- | ------------- |
-| [constant-content.com](https://constant-content.com)  | All  |
-| [contentgather.com](https://contentgather.com/)  | All  |
+| https://constant-content.com  | All  |
+| https://contentgather.com/  | All  |
 | https://www.scripted.com  | All (must be supported by Stripe to accept payments)  |
 | https://www.crowdcontent.com  | Arbitrary/Unclear  |
 | https://www.writeraccess.com  | US, UK, Ireland, Canada, Australia, New Zealand  |
