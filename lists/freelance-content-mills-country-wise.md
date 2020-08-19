@@ -9,3 +9,4 @@
 | https://www.writeraccess.com  | US, UK, Ireland, Canada, Australia, New Zealand  |
 | https://go.ebyline.com  | All (but strict approval process)  |
 | https://contently.com  | All  |
+| https://www.verblio.com/ | USA Only |
