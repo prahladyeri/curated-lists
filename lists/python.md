@@ -63,6 +63,7 @@
 - [faker](https://github.com/joke2k/faker) - Package to generate fake data to test your python apps.
 - [Google API Python Client](https://github.com/googleapis/google-api-python-client) - Goole API client for Python.
 - [Google API Python - OAuth2 library](https://github.com/googleapis/oauth2client) - Goole API client for Python.
+- [Flatlib](https://github.com/flatangle/flatlib) - Astrology library written in pure Python (supports both tropical and siderial systems).
 
 ## Web-Frameworks
 - [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
