@@ -17,6 +17,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites.
+- [Common Web Design/Development tools](http://www.reddit.com/r/Web_Design/comments/pi4gh/common_Web_Design_development_tools/)
 
 
 ## JavaScript
@@ -44,6 +45,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## Others
 
+- [Build Your Own X - Collection of resources to help you build things from scratch](https://github.com/danistefanovic/build-your-own-x)
 - [List of Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453) - Curated list of public time servers across the world to keep your computer clocks updated.
 - [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
