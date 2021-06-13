@@ -8,7 +8,10 @@
 ---
 
 ## Introductory Articles
-
+- [How students (or anyone) can make extra money through software freelancing ?
+](https://www.freecodecamp.org/news/how-students-or-anyone-can-make-extra-money-through-software-freelancing-4c802c43d1a1/)
+- [Life of a Freelance Programmer - Flexiple
+](https://flexiple.com/freelance/life-of-a-freelance-programmer/)
 - [I want to learn how to be a freelance programmer](http://programmers.stackexchange.com/questions/25458/what-to-learn-to-become-freelancer)
 - [How To Start Your Freelance Career & Get Your First Client](http://brentgalloway.me/how-to-start-your-freelance-career-get-your-first-client)
 - [How to become a freelance web developer](http://blog.careerfoundry.com/web-development/freelance-web-developer/)
