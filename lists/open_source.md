@@ -1,5 +1,11 @@
 # FOSS Resources
 
+## Books
+
+*   [Producing Open Source Software](http://producingoss.com/)
+*   [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+*   [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+
 ## Organizations
 
 - [Open Source Consortium (OSI)](https://opensource.com/resources/organizations)
