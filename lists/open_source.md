@@ -2,9 +2,10 @@
 
 ## Books
 
-*   [Producing Open Source Software](http://producingoss.com/)
-*   [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
-*   [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+* [Producing Open Source Software](http://producingoss.com/)
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
+* [Open Source for Business - A Practical Guide to Open Source Software Licensing](https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1)
 
 ## Organizations
 
