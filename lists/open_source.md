@@ -8,6 +8,13 @@
 * [Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 * [Open Source for Business - A Practical Guide to Open Source Software Licensing](https://www.amazon.com/Open-Source-Business-Practical-Licensing/dp/B086G6XDM1)
 
+## Articles
+
+- [Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+- [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html)
+- [Letter from RMS to Tim O'Reilly](https://www.gnu.org/philosophy/amazon-rms-tim.html)
+- [The Bug Nobody is Allowed to Understand](https://www.gnu.org/philosophy/bug-nobody-allowed-to-understand.html)
+
 ## Organizations
 
 - [Open Source Consortium (OSI)](https://opensource.com/resources/organizations)
