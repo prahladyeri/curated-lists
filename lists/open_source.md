@@ -13,6 +13,7 @@
 - [Philosophy of the GNU Project](https://www.gnu.org/philosophy/philosophy.html)
 - [Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
 - [GNU Software](https://www.gnu.org/software/software.html)
+- [Free Learning Resources - GNU](https://www.gnu.org/education/edu-free-learning-resources.html)
 - [Letter from RMS to Tim O'Reilly](https://www.gnu.org/philosophy/amazon-rms-tim.html)
 - [The Bug Nobody is Allowed to Understand](https://www.gnu.org/philosophy/bug-nobody-allowed-to-understand.html)
 - [How I do my computing - Richard Stallman](https://stallman.org/stallman-computing.html)
