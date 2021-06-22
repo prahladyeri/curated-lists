@@ -1,5 +1,10 @@
 # Programming Resources
 
+## Programming Blogs
+
+- [Prahlad Yeri](https://prahladyeri.com)
+- [Adam the Automator](https://adamtheautomator.com/)
+
 ## MOOC (Massive Online Open Courses)
 
 - [Free Code Camp](http://www.freecodecamp.com/map) - My personal favorite. But only try this one if you are already a programmer and just want to exercise your coding muscles.
