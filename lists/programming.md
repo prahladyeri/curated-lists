@@ -2,8 +2,9 @@
 
 ## Programming Blogs
 
-- [Prahlad Yeri](https://prahladyeri.com)
+- [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
+- [Prahlad Yeri](https://prahladyeri.com)
 
 ## MOOC (Massive Online Open Courses)
 
