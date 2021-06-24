@@ -8,6 +8,8 @@
 ---
 
 ## Introductory Articles
+- [HOW to BID on Upwork as a PRO](https://tekworx.training/upwork-bidding-strategy/)
+- [How to Bid on Upwork: Easy Tips for Success](https://toughnickel.com/self-employment/How-to-bid-on-Upwork)
 - [How students (or anyone) can make extra money through software freelancing ?
 ](https://www.freecodecamp.org/news/how-students-or-anyone-can-make-extra-money-through-software-freelancing-4c802c43d1a1/)
 - [Life of a Freelance Programmer - Flexiple
