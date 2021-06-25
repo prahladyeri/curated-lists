@@ -5,6 +5,8 @@
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Prahlad Yeri](https://prahladyeri.com)
+- [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
+- [Julia Evans](https://jvns.ca/)
 
 ## MOOC (Massive Online Open Courses)
 
