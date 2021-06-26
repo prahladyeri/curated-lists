@@ -8,6 +8,7 @@
 ---
 
 ## Introductory Articles
+- [Online Bidding Strategy: How to filter projects on Upwork](https://www.klientsolutech.com/online-bidding-strategy-how-to-filter-projects-on-upwork/)
 - [HOW to BID on Upwork as a PRO](https://tekworx.training/upwork-bidding-strategy/)
 - [How to Bid on Upwork: Easy Tips for Success](https://toughnickel.com/self-employment/How-to-bid-on-Upwork)
 - [How students (or anyone) can make extra money through software freelancing ?
