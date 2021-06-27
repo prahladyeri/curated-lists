@@ -7,6 +7,7 @@
 - [Prahlad Yeri](https://prahladyeri.com)
 - [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
 - [Julia Evans](https://jvns.ca/)
+- [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
 
 ## MOOC (Massive Online Open Courses)
 
