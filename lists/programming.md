@@ -1,9 +1,11 @@
 # Programming Resources
 
-## Programming Blogs
+## Programming Experts' Blogs
 
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
+- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
+- [Oliver Marshall](https://olivermarshall.net/)
 - [Prahlad Yeri](https://prahladyeri.com)
 - [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
 - [Julia Evans](https://jvns.ca/)
