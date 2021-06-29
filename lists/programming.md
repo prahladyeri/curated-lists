@@ -4,6 +4,7 @@
 
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
+- [A Weird Imagination](https://aweirdimagination.net/)
 - [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
 - [Oliver Marshall](https://olivermarshall.net/)
 - [Prahlad Yeri](https://prahladyeri.com)
