@@ -5,6 +5,7 @@
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Nick Basile](https://nick-basile.com/)
+- [Ircmaxell's blog](https://blog.ircmaxell.com/)
 - [Martin Thoma](https://martin-thoma.com/)
 - [A Weird Imagination](https://aweirdimagination.net/)
 - [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
