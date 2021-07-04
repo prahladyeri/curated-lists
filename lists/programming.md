@@ -4,6 +4,7 @@
 
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
+- [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
 - [Nick Basile](https://nick-basile.com/)
 - [Ian Bicking - Home Page](https://www.ianbicking.org/)
 - [Ircmaxell's blog](https://blog.ircmaxell.com/)
@@ -11,7 +12,6 @@
 - [A Weird Imagination](https://aweirdimagination.net/)
 - [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
 - [Oliver Marshall](https://olivermarshall.net/)
-- [Prahlad Yeri](https://prahladyeri.com)
 - [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
 - [Julia Evans](https://jvns.ca/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
