@@ -3,6 +3,7 @@
 ## Programming Experts' Blogs
 
 - [Joel on Software](https://www.joelonsoftware.com/)
+- [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
 - [Nick Basile](https://nick-basile.com/)
