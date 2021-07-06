@@ -5,6 +5,7 @@
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
+- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
 - [Nick Basile](https://nick-basile.com/)
 - [Ian Bicking - Home Page](https://www.ianbicking.org/)
