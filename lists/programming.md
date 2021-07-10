@@ -6,6 +6,7 @@
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
+- [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
