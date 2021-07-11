@@ -7,6 +7,7 @@
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
+- [Joseph Scott's Blog](https://blog.josephscott.org/)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
