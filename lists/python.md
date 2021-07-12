@@ -49,6 +49,7 @@
 - [readthedocs.org](https://readthedocs.org) - Online document hosting facility for pythonistas, based on Sphinx and integrates with github repositories and hooks.
 
 ### Others
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters.
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
 - [pygments](https://pypi.org/project/Pygments/) - A syntax highlighting package written in Python.
 - [pygame](http://pygame.org/) - A popular python gaming library.

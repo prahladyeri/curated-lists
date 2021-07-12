@@ -45,6 +45,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## Others
 
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - List of awesome projects for first time contributions to open source.
 - [Paid Community Writer Programs - A list of publications that pay writers to create developer content](https://github.com/malgamves/CommunityWriterPrograms)
 - [Build Your Own X - Collection of resources to help you build things from scratch](https://github.com/danistefanovic/build-your-own-x)
 - [List of Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453) - Curated list of public time servers across the world to keep your computer clocks updated.
