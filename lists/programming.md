@@ -9,6 +9,7 @@
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
 - [Joseph Scott's Blog](https://blog.josephscott.org/)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
+- [Schneier on Security](https://www.schneier.com/)
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
