@@ -1,12 +1,13 @@
 # Programming Resources
 
-## Programming Experts' Blogs
+## Programming Blogs
 
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/)
 - [Joseph Scott's Blog](https://blog.josephscott.org/)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
 - [Schneier on Security](https://www.schneier.com/)
