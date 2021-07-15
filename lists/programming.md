@@ -7,7 +7,8 @@
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
-- [The Crazy Programmer](https://www.thecrazyprogrammer.com/)
+- [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
 - [Joseph Scott's Blog](https://blog.josephscott.org/)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
 - [Schneier on Security](https://www.schneier.com/)
