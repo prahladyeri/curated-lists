@@ -7,6 +7,7 @@
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
+- [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS.
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
 - [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
 - [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
