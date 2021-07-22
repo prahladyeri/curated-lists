@@ -7,6 +7,7 @@
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
+- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 - [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
 - [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
 - [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
