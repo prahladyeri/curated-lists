@@ -2,35 +2,36 @@
 
 ## Blogs
 
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
-- [Adam the Automator](https://adamtheautomator.com/)
-- [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
-- [Bruce Eckel's Blog](http://www.mindviewinc.com/Index.php)
-- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
-- [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
-- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
-- [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
-- [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS.
-- [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
-- [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
-- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
-- [Joseph Scott's Blog](https://blog.josephscott.org/)
-- [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
-- [Schneier on Security](https://www.schneier.com/)
-- [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
-- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
-- [Nick Basile](https://nick-basile.com/)
-- [Ian Bicking - Home Page](https://www.ianbicking.org/)
-- [Ircmaxell's blog](https://blog.ircmaxell.com/)
-- [Martin Thoma](https://martin-thoma.com/)
-- [A Weird Imagination](https://aweirdimagination.net/)
-- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
-- [Oliver Marshall](https://olivermarshall.net/)
-- [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
+- [dev.to](https://dev.to/) - Popular programming blog cum forum featuring useful articles and discussions.
+- [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS.
+- [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
+- [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
+- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
+- [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
+- [Adam the Automator](https://adamtheautomator.com/)
+- [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
+- [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
+- [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
 - [Julia Evans](https://jvns.ca/)
+- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
+- [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
+- [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
+- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
+- [Martin Thoma](https://martin-thoma.com/)
+- [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
+- [Oliver Marshall](https://olivermarshall.net/)
+- [Ircmaxell's blog](https://blog.ircmaxell.com/)
+- [Nick Basile](https://nick-basile.com/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
+- [A Weird Imagination](https://aweirdimagination.net/)
+- [Joseph Scott's Blog](https://blog.josephscott.org/)
+- [Ian Bicking - Home Page](https://www.ianbicking.org/)
+- [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
 ## MOOC (Massive Online Open Courses)
 
