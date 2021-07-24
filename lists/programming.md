@@ -2,6 +2,7 @@
 
 ## Blogs
 
+- [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
 - [dev.to](https://dev.to/) - Popular programming blog cum forum featuring useful articles and discussions.
 - [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS.
