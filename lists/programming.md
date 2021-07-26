@@ -2,6 +2,7 @@
 
 ## Blogs
 
+- [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business.
 - [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
 - [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
