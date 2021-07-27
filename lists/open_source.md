@@ -1,5 +1,18 @@
 # FOSS Resources
 
+## Blogs
+
+- [Planet GNOME](https://planet.gnome.org/)
+- [Planet KDE](https://planetkde.org/)
+- [Planet Linux Kernel](http://planet.kernel.org/)
+- [Qt blog](http://blog.qt.io/)
+- [Red Hat Developer Blog](https://developerblog.redhat.com/)
+- [Planet Mozilla](http://planet.mozilla.org/)
+- [Fedora Magazine](https://fedoramagazine.org/)
+- [Planet Arch Linux](https://planet.archlinux.org/)
+- [Lxer](http://lxer.com/)
+- [OMG Ubuntu](https://www.omgubuntu.co.uk/)
+
 ## Books
 
 * [Producing Open Source Software](http://producingoss.com/) - Karl Fogel's free book covering all aspects of open source project management.
