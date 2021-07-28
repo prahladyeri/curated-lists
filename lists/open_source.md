@@ -12,6 +12,7 @@
 - [Planet Arch Linux](https://planet.archlinux.org/)
 - [Lxer](http://lxer.com/)
 - [OMG Ubuntu](https://www.omgubuntu.co.uk/)
+- [Phoronix - To keep up with the hardware stuff](https://www.phoronix.com/)
 
 ## Books
 
