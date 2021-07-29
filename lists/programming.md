@@ -57,31 +57,31 @@
 
 ## Programming practice to exercise your coding muscles	
 	
-- [Advent of code](http://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in.
-- [CodingBat - python and java](http://codingbat.com/) - Coding puzzles and problems in *python* and *java*.
-- [PySchools - python](http://www.pyschools.com/quiz/view_ranking) - Programming practice tests specific to *python*.
+- [Advent of code](https://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in.
+- [CodingBat - python and java](https://codingbat.com/) - Coding puzzles and problems in *python* and *java*.
+- [PySchools - python](https://www.pyschools.com/quiz/view_ranking) - Programming practice tests specific to *python*.
 - [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level.
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) - A programming puzzle a day keeps woes and dispair away. A subreddit where programming problems are posted and peer-reviewed every day.
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python) - Pointer to more *python* practice resources.
-- [Code Wars](http://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
+- [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
 ## Q/A sites for troubleshooting a problem:
 
-- [Stack Overflow](http://stackoverflow.com) - No need to say anything there!
-- [Unix and Linux Q/A](http://unix.stackexchange.com/) - This is where I usually go if Google cannot help me with a linux problem.
-- [Super User](http://superuser.com/) - Though not specific to programming, but very useful nevertheless.
+- [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
+- [Unix and Linux Q/A](https://unix.stackexchange.com/) - This is where I usually go if Google cannot help me with a linux problem.
+- [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
 - [Dev.to](https://dev.to) - Recently open sourced, this discussion site is geared towards beginners. Its more of a programming social network than a Q/A site though.
-- [Code Project](http://www.codeproject.com/) - If you are into Microsoft Technologies like ASP.NET/C#, this site is for you.
+- [Code Project](https://www.codeproject.com/) - If you are into Microsoft Technologies like ASP.NET/C#, this site is for you.
 
 ## Other Programming resources
 
 - [Reddit Programming Help](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this site, whether its learning, tips, guidance or just the satisfaction of helping a fellow developer.
-- [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind could be found here (Except the patented ones of course!).
+- [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here.
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
-- [UPC Database](http://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+- [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
 
 ## Pointers to other programming resources
 
