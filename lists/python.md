@@ -41,6 +41,7 @@
 - [Pandoc](https://pandoc.org) - Wonderful tool to convert document from one format to another, supports markdown, reST, doc, docx, pdf and a number of other formats.
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A mind-blowing XML parsing library that is widely used in web-scraping scripts and applications in python.
 - [lxml](https://lxml.de) - Library to process xml/html with python.
+- [PyYAML](https://github.com/yaml/pyyaml) - The next generation YAML parser and emitter for Python.
 
 ### Build and DevOps
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
