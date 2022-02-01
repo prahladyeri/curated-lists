@@ -37,6 +37,18 @@
 - [Ian Bicking - Home Page](https://www.ianbicking.org/)
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
+## Vlogs/Youtube/Podcasts
+
+- [Changelog](https://www.youtube.com/c/Changelog) - News and podcast for developers.
+- [Python Bytes](https://www.youtube.com/c/PythonBytesPodcast) - Weekly podcast by Michael Kennedy and Brian Okken.
+- [PHP Roundtable](https://www.youtube.com/c/PHPRoundtable) - A nerdy gathering of developers discussing topics that PHP nerds care about.
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia) - The best webdev and coding tutorials.
+- [Free Code Camp](https://www.youtube.com/c/Freecodecamp) - Learn to code for free.
+- [Edureka](https://www.youtube.com/c/edurekaIN) - Live and interactive e-learning platform.
+- [Real Python](https://www.youtube.com/c/realpython) - Python tutorials and training videos.
+- [Indie Hackers](https://www.youtube.com/channel/UC36zt_eM_gZQXayw_pAdASg) - Interviews of programmers who turned their side-projects into profitable businesses.
+- [Jupiter Broadcasting](https://www.youtube.com/c/JupiterBroadcasting) - Tech podcast, content from different sources.
+
 ## MOOC (Massive Online Open Courses)
 
 - [SoloLearn](https://www.sololearn.com/) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too!

@@ -45,15 +45,16 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## Others
 
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Awesome list of Important Podcasts for software engineers.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - List of awesome projects for first time contributions to open source.
-- [Paid Community Writer Programs - A list of publications that pay writers to create developer content](https://github.com/malgamves/CommunityWriterPrograms)
+- [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of publications that pay writers to create developer content.
 - [Build Your Own X - Collection of resources to help you build things from scratch](https://github.com/danistefanovic/build-your-own-x)
 - [List of Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453) - Curated list of public time servers across the world to keep your computer clocks updated.
-- [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
 - [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - A curated list of youtube channels about programming.
 - [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming.
