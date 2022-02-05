@@ -9,9 +9,6 @@ Curated lists for a variety of awesome things.
 ## Lists
 
 - [Meta List](metalist.md) - The one list to rule them all!
-- [i386 Salvation](lists/x86_salvation.md): Support information for the i386 architecture.
-- [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
-- [Freelance portals fees comparison](lists/freelancing_fees.md): Fee structure for freelancers on various marketplaces.
 - [Programming Resources](lists/programming.md): Resources helpful for programmers generally.
 - [WebDev Resources](lists/web.md): Resources for web development.
 - [Python Resources](lists/python.md): Resources for python programming.
@@ -20,6 +17,8 @@ Curated lists for a variety of awesome things.
 - [Android Resources](lists/android.md): Resources for android programming.
 - [Free Programming Books](lists/books.md): List of free online programming books.
 - [FOSS Resources](lists/open_source.md): Resources for Free and Open Source Software (FOSS) enthusiasts.
+- [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
+- [i386 Salvation](lists/x86_salvation.md): Support information for the i386 architecture.
 
 ## Checklists:
 

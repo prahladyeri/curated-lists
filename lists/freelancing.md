@@ -11,10 +11,8 @@
 - [Online Bidding Strategy: How to filter projects on Upwork](https://www.klientsolutech.com/online-bidding-strategy-how-to-filter-projects-on-upwork/)
 - [HOW to BID on Upwork as a PRO](https://tekworx.training/upwork-bidding-strategy/)
 - [How to Bid on Upwork: Easy Tips for Success](https://toughnickel.com/self-employment/How-to-bid-on-Upwork)
-- [How students (or anyone) can make extra money through software freelancing ?
-](https://www.freecodecamp.org/news/how-students-or-anyone-can-make-extra-money-through-software-freelancing-4c802c43d1a1/)
-- [Life of a Freelance Programmer - Flexiple
-](https://flexiple.com/freelance/life-of-a-freelance-programmer/)
+- [How students (or anyone) can make extra money through software freelancing](https://www.freecodecamp.org/news/how-students-or-anyone-can-make-extra-money-through-software-freelancing-4c802c43d1a1/)
+- [Life of a Freelance Programmer - Flexiple](https://flexiple.com/freelance/life-of-a-freelance-programmer/)
 - [I want to learn how to be a freelance programmer](http://programmers.stackexchange.com/questions/25458/what-to-learn-to-become-freelancer)
 - [How To Start Your Freelance Career & Get Your First Client](http://brentgalloway.me/how-to-start-your-freelance-career-get-your-first-client)
 - [How to become a freelance web developer](http://blog.careerfoundry.com/web-development/freelance-web-developer/)
@@ -54,15 +52,11 @@
 
 ## Marketplaces
 
-- [Upwork](https://www.upwork.com): Upwork is like the "bread and butter" for freelance programmers, its history goes back all the way to the merging of two different platforms called **eLance** and **oDesk** who used to rule the freelance marketplace once upon a time! You must be careful in choosing your clients here though in all fairness, they've done a good job of vetting the platform in recent years.
+- [Upwork](https://www.upwork.com): Upwork is like the "bread and butter" for freelance programmers, its history goes back all the way to the merging of two different platforms called **eLance** and **oDesk** who used to rule the freelance marketplace once upon a time. However, the fees are slightly higher higher at 20% though it gets lesser as your sales increase.
 - [Fiverr](https://www.fiverr.com): A good freelance site in its own niche for quick and short-term jobs with limited budgets. Fiverr is different from typical platforms where the client posts a requirement and many freelancers bid on that like a tender system. On Fiverr, the freelancer creates something called a "gig" or service which the client pays for and thus starts a contract. Despite the name, you get many good paying projects which can continue well into long term.
-- [FiveSquid](https://www.fivesquid.com): Its the British version of Fiverr, only difference is that you get paid in British Pounds (GBP) instead of USD. Also, the website lacks some features compared to Fiverr (such as the ability to send a customized offer in the free membership plan, read various statistics about your gigs, etc).
-- [Guru](http://www.guru.com): Yet another freelance portal, maybe not as good as Upwork/Fiverr, but still better than Freelancer.com.
-- [Freelancer.com](https://www.freelancer.com): Though its the second most popular portal in the freelance world after Upwork, there have been reports of many scammy things from here. A major red flag is that they want developers to pay the commission upfront, even before they are paid for their first project. You also need to be VERY careful, not to click on their shady membership adverts that trick you into handing back all your hard earned money to them.
-- [Golance](https://golance.com): Joined this site recently, seems very promising from what I've heard on Reddit, personally, I'm yet to land on a project here.
-- [Toptal](https://www.toptal.com/#expect-top-tier-devs): Toptal is a global network of top software engineers and designers with a hiring rate of less than 3%. Toptal works with clients to understand their project/team needs and custom-matches them with pre-screened developers and designers who join their teams on a full-time, part-time, or hourly basis.
-- [/r/ForHire](http://www.reddit.com/r/ForHire): Yet another good place to find jobs, though some of their rules are way too silly and appear prejudiced. For example, I was banned from this subreddit, just because my hourly rate was "too low".
-- [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-
+- [FiveSquid](https://www.fivesquid.com): It's the British version of Fiverr, only difference is that you get paid in GBP instead of USD.
+- [Guru](http://www.guru.com): Yet another freelance portal though not as popular as Upwork/Fiverr among freelancers.
+- [Freelancer.com](https://www.freelancer.com): Few years ago, this site had got infamous for scams but recently, they seem to have done a nice job of keeping bad actors out. Nevertheless, a freelancer should always be on alert for such things irrespective of which platform it is.
+- [Toptal](https://www.toptal.com/#expect-top-tier-devs): They market themselves as a global network of top software engineers and designers with a hiring rate of less than 3%. However, cracking their super difficult algorithms and making it to the interview rounds is like near impossible unless you're a Newton or an Einstein!
 
 If you know any other good freelancing website, just send me a change-request.
