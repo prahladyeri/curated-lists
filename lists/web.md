@@ -1,5 +1,11 @@
 # WebDev Resources
 
+## Free or Creative Commons Assets
+- [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
+- [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
+- [Pexels](https://www.pexels.com/) - Royalty free images.
+- [Unsplash](https://unsplash.com/) - Royalty free images.
+
 ## Official docs and other resources
 - [Tailwind Components](https://tailwindcomponents.com/) - An inspirational collection of tailwind styles.
 - [Mozilla - Official docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -7,12 +13,19 @@
 - [A List Apart - Excellent Design learnings](http://alistapart.com/articles)
 - [Pointer to more WebDev resources](https://www.reddit.com/r/webdev/comments/1v7en8/webdev_resources/)
 - [HTML5 Coding essentials - Free course on edX.org](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x)
+- [W3Schools](https://www.w3schools.com/default.asp) - A collection of helpful tutorials for new developers.
 
-## Libraries
+## CSS Frameworks
+- [Twitter Bootstrap](https://github.com/twbs/bootstrap) - A popular `CSS/JavaScript` framework by Twitter Inc., again an "off-the-shelf" reusable component for backend & front-end developers alike.
+- [Zurb Foundation](https://github.com/zurb/foundation) - A viable alternative to Twitter Bootstrap. Powers a lot of high-profile websites.
+- [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
+- [Tailwind](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
+
+## JavaScript Libraries
 - [jQuery](http://www.jquery.com) - The most popular JavaScript library in vogue. A must-know for any web-developer.
 - [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider) - Slider plugin for the bootstrap framework.
 - [jQueryUI - Official docs](https://jqueryui.com) - A UI framework on top of `jQuery`, but lost traction lately due of Bootstrap and other frameworks.
-- [pagedown/](https://code.google.com/archive/p/pagedown/) - Markdown to HTML converter written in JavaScript ([used by StackOverflow](https://stackoverflow.com/a/40066280/849365)).
+- [pagedown](https://code.google.com/archive/p/pagedown/) - Markdown to HTML converter written in JavaScript ([used by StackOverflow](https://stackoverflow.com/a/40066280/849365)).
 - [to-markdown](https://github.com/domchristie/to-markdown) - A handly html-to-markdown converter written in JavaScript by Dom Christie.
 - [JSTree](https://www.jstree.com/) - Useful jQuery plugin to easily integrate trees in your web apps. The one on the left side of this page is built using jstree library.
 - [jsPlumb](https://jsplumbtoolkit.com/) - Useful JavaScript library for plugging-in "drag-drop" elements in your web-page.
@@ -24,18 +37,7 @@
 - [Jed](https://github.com/SlexAxton/Jed) - Internationalization/Localization library for JavaScript.
 - [highcharts](http://www.highcharts.com/) - Interactive JavaScript charting library. But remember, its free only for personal/non-commercial use.
 
-## Frameworks (CSS)
-- [Twitter Bootstrap](https://github.com/twbs/bootstrap) - A popular `CSS/JavaScript` framework by Twitter Inc., again an "off-the-shelf" reusable component for backend & front-end developers alike.
-- [Zurb Foundation](https://github.com/zurb/foundation) - A viable alternative to Twitter Bootstrap. Powers a lot of high-profile websites.
-- [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
-- [Tailwind](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
-
-## Frameworks (JavaScript)
-- [AngularJS - Official docs](https://angularjs.org/) - A mind-blowing MVC framework to lay out a framework for large MVC apps on the front-end. Extensively used along with `Twitter Bootstrap`.
-- [Vue.js](https://en.wikipedia.org/wiki/Vue.js) - Open source JavaScript framework for building user interfaces and single page applications.
-- [Backbone.js](https://github.com/jashkenas/backbone)- A light-weight JavaScript framework based on MVP paradigm, designed for developing single page applications.
-
-## Component Libraries (JavaScript)
+## JavaScript Components
 - [jqueryui](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 - [datatables.net](http://datatables.net/) - Add advanced interaction controls
 to your HTML tables the free & easy way.
@@ -45,6 +47,10 @@ to your HTML tables the free & easy way.
 - [Angular-Material](https://material.angular.io) - Material UI components for the angular framework.
 - [primeng](https://primefaces.org/primeng) - Another beautiful UI component library for angular framework.
 
+## JavaScript Frameworks
+- [AngularJS - Official docs](https://angularjs.org/) - A mind-blowing MVC framework to lay out a framework for large MVC apps on the front-end. Extensively used along with `Twitter Bootstrap`.
+- [Vue.js](https://en.wikipedia.org/wiki/Vue.js) - Open source JavaScript framework for building user interfaces and single page applications.
+- [Backbone.js](https://github.com/jashkenas/backbone)- A light-weight JavaScript framework based on MVP paradigm, designed for developing single page applications.
 
 ## Toolchain
 - [Google page speed insights](https://developers.google.com/speed/pagespeed/insights/) - Google website testing tool.
@@ -57,11 +63,6 @@ to your HTML tables the free & easy way.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit (version-2)(Google recommends).
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - Version-1 of the above.
 - [node-sass](https://github.com/sass/node-sass) - A sass compiler (Node.js bindings to libsass).
-
-## Assets
-- [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
-- [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
-- [Iconfinder](https://www.iconfinder.com/) - If the above resources cannot deliver what you need, you will most probably find it on iconfinder. But not all icons are FOSS, so be sure to look up their terms of use.
 
 ## Articles
 - [Just Starting Out with CSS & HTML - CSS-Tricks](https://css-tricks.com/guides/beginner/)
