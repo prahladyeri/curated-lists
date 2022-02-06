@@ -22,7 +22,7 @@ Curated lists for a variety of awesome things.
 
 ## Checklists:
 
-- [Python-PyPI](check_lists/python-pypi.md) - Creating a Python Package Release on PyPI.
+- [Python-PyPI](check_lists/python-pypi.md) - Checklist: Publishing a package to PyPi.
 - [Travel 101: HUGE List of things to pack before leaving for a short vacation or journey](https://freelancemag.blogspot.com/2021/12/travel-101-huge-list-of-things-to-pack.html)
 - [Pastime 101: HUGE List of Ideas for passing time when you are bored](https://freelancemag.blogspot.com/2020/12/pastime-101-huge-list-of-ideas-for.html)
 - [Dealing With Writer's Block: The Ultimate Checklist](https://prahladyeri.com/blog/2022/01/dealing-with-writers-block-the-ultimate-checklist.html)
