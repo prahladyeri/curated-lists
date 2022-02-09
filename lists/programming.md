@@ -59,24 +59,18 @@
 - [Stanford Online](http://online.stanford.edu/about) - Another great university that provisions learning content through the online channel. Again, no certificates, but still great course content.
 - [Coursera](https://www.coursera.org/courses?query=php) - Comprehensive curriculum and large number of programming courses to choose from. No free certificates though.
 - [edX.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now.
+- [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 
-## Integrated Development Environments (IDE)
+## Puzzles, quizzes and riddles to exercise your coding muscles	
 
-- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
-- [atom/atom](https://github.com/atom/atom): Similar to above, Atom is another JavaScript editor, quite popular these days.
-- [Netbeans](https://netbeans.apache.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
-- [Eclipse](https://eclipse.org): Another Java veteran's IDE, a strong competitor to Netbeans.
-
-## Programming practice to exercise your coding muscles	
-	
+- [Kattis](https://open.kattis.com/) - Keep solving coding problems and keep earning reputation points for you, your university and your country!
+- [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level.
 - [Advent of code](https://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in.
 - [CodingBat - python and java](https://codingbat.com/) - Coding puzzles and problems in *python* and *java*.
 - [PySchools - python](https://www.pyschools.com/quiz/view_ranking) - Programming practice tests specific to *python*.
-- [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level.
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) - A programming puzzle a day keeps woes and dispair away. A subreddit where programming problems are posted and peer-reviewed every day.
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python) - Pointer to more *python* practice resources.
 - [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
-- [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
 ## Q/A sites for troubleshooting a problem:
@@ -86,6 +80,13 @@
 - [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
 - [Dev.to](https://dev.to) - Recently open sourced, this discussion site is geared towards beginners. Its more of a programming social network than a Q/A site though.
 - [Code Project](https://www.codeproject.com/) - If you are into Microsoft Technologies like ASP.NET/C#, this site is for you.
+
+## Integrated Development Environments (IDE)
+
+- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
+- [atom/atom](https://github.com/atom/atom): Similar to above, Atom is another JavaScript editor, quite popular these days.
+- [Netbeans](https://netbeans.apache.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
+- [Eclipse](https://eclipse.org): Another Java veteran's IDE, a strong competitor to Netbeans.
 
 ## Other Programming resources
 
