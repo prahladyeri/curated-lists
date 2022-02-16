@@ -6,6 +6,12 @@
 4. [Marketplaces](#marketplaces)
 
 ---
+## Helpful resources for freelancers
+
+- [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
+- [gauravmak/awesome-freelancing](https://github.com/gauravmak/awesome-freelancing) - A curated list of resources to help you on your freelancing journey.
+- [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - Curated list of awesome tools to build your freelance career (in france)
+- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I've been curating this for the past 7 years.
 
 ## Introductory Articles
 - [Online Bidding Strategy: How to filter projects on Upwork](https://www.klientsolutech.com/online-bidding-strategy-how-to-filter-projects-on-upwork/)
