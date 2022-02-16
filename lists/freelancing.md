@@ -1,12 +1,13 @@
 # List of various freelancing resources
 
+1. [Helpful Resources](#helpful-resources)
 1. [Introductory Articles](#introductory-articles)
 2. [Programming Languages](#programming-languages)
 3. [Tools and Resources](#tools-and-resources)
 4. [Marketplaces](#marketplaces)
 
 ---
-## Helpful resources for freelancers
+## Helpful Resources
 
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [gauravmak/awesome-freelancing](https://github.com/gauravmak/awesome-freelancing) - A curated list of resources to help you on your freelancing journey.
