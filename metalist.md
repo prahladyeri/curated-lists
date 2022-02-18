@@ -6,10 +6,10 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## PHP/Python/WebDev
 
-- [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
-- [awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
-- [awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter/blob/master/README.md) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
+- [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+- [codeigniter-id/awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 - [awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django.

@@ -4,6 +4,10 @@
 - [PHP Official docs](http://php.net/manual/en/)
 - [PHP-FIG - Standards matter](http://www.php-fig.org/psr/psr-4/)
 - [A brief introduction to PHP Namespacing](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
+- [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
+- [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+- [codeigniter-id/awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 
 ## Frameworks
 - [Symfony](http://symfony.com) - Popular and highly used PHP framework, inspired by Java's spring.
