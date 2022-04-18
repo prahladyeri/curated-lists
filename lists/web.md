@@ -21,6 +21,11 @@
 - [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
 - [Tailwind](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
 
+## CSS Templates
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4.
+- [SB-Admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap.
+- [Gentelella Admin](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template.
+
 ## JavaScript Libraries
 - [jQuery](http://www.jquery.com) - The most popular JavaScript library in vogue. A must-know for any web-developer.
 - [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider) - Slider plugin for the bootstrap framework.
