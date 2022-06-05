@@ -52,6 +52,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## Others
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
 - [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - A curated list of youtube channels about programming.
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Awesome list of Important Podcasts for software engineers.
