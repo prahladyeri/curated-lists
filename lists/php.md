@@ -15,6 +15,7 @@
 - [Laravel](https://laravel.com) - Yet another PHP web framework, created and promoted by Taylor Otwell.
 - [yii](http://www.yiiframework.com/) - Developed by Yahoo Inc., the word literally means "simple and evolutionary" in Chinese language, and is also an acronym for "Yes, It Is!".
 - [cakephp](https://cakephp.org/) - Based on the MVC approach, modeled after Ruby on Rails.
+- [Laminas Project](https://getlaminas.org/) (formerly zend framework) - An open source, object-oriented web application framework implemented in PHP 7 and licensed under the New BSD License.
 
 ## CMS
 - [Drupal](https://drupal.org/) - Multi-purpose CMS, powers the White House.
