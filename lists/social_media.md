@@ -2,7 +2,7 @@
 
 Whether you call them forums, micro-blogs, discussion threads, Q/A sites or whatever, social media is an ever expanding force as more and more people across the world are born and/or getting digital. It's important to know all the good ones, not just the popular ones.
 
-**General Social Media**
+**General Social Networking**
 
 - [Twitter](https://twitter.com/) - For better or for worse, Twitter is like the de-facto of social networking because this is where you'll find most *real* people who are out there for networking. In a world of continuously increasing complexity and decreasing attention span, you must give it to their vision of coming up with the idea of micro blogging (very small posts) more than a decade ago! This forum is almost perfect except for a slight political bias when it comes to moderation or content censorship.
 - [Facebook](https://www.facebook.com/) - This "grand old website" in the social networking world isn't going away anytime soon! Despite the appalling competition and low entry barrier for hosting a forum website in today's digital age, Facebook continues to thrive and be on top due to its sheer network effect of the past.
