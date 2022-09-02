@@ -15,6 +15,7 @@ Curated lists for a variety of awesome things.
 - [PHP Resources](lists/php.md): Resources for php programming.
 - [Java Resources](lists/java.md): Resources for java programming.
 - [Android Resources](lists/android.md): Resources for android programming.
+- [Social Networking](lists/social_media.md) - Social Networking resources.
 - [Free Programming Books](lists/books.md): List of free online programming books.
 - [Open Source Resources](lists/open_source.md): Resources for Free and Open Source Software (FOSS) enthusiasts.
 - [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
