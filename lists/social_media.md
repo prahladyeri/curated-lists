@@ -1,4 +1,4 @@
-# Social Media
+# Social Networking
 
 Whether you call them forums, micro-blogs, discussion threads, Q/A sites or whatever, social media is an ever expanding force as more and more people across the world are born and/or getting digital. It's important to know all the good ones, not just the popular ones.
 
