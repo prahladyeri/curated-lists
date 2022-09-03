@@ -53,8 +53,10 @@
 - [PHPStorm](http://www.jetbrains.com/phpstorm) - Another great IDE which has a big number of fans.
 - [Zend IDE](http://www.zend.com/products/studio) - A proprietary `php` IDE.
 
-## Online tutorials, books, puzzles
+## Online tutorials, books, puzzles, forums
 - [PHP the right way](http://www.phptherightway.com/)
 - [HTMLgoodies PHP tutorials](http://www.htmlgoodies.com/beyond/php)
 - [Tizag PHP tutorials](http://www.tizag.com/phpT)
 - [Nettuts+](http://net.tutsplus.com/category/tutorials/php)
+- [PHP T-Point - Tutorials](https://www.phptpoint.com/)
+- [PHP Freaks - Forums](https://forums.phpfreaks.com/)
