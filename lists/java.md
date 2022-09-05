@@ -7,7 +7,6 @@
 - [Google - Java Development Tools](https://developers.google.com/java-dev-tools/)
 - [Maven Central - The official Java package repository](http://mvnrepository.com/)
 
-
 ## Libraries and Frameworks
 - [jUnit](http://junit.org/) - The standard unit testing tool in Java world, the inspiration behind `nunit`, the equivalent for unit testing used in the .NET world.
 - [Apache Commons](http://commons.apache.org/) - The most popular and highly used libraries in the Java World.
@@ -23,7 +22,6 @@
 - [selenium](https://github.com/SeleniumHQ/selenium) - A variety of tools and libraries enabling web browser automation.
 - [Takes](http://www.takes.org/) - Takes is an open source object-oriented and immutable Java web framework.
 - [snmp4j](http://www.snmp4j.org) - An industry standard SNMP library for Java. It allows creation of both SNMP agents and admins thorough its extensive API.
-
 
 ## IDEs
 - [Eclipse](http://www.eclipse.org) - The standard and most popular Java IDE used by most Java professionals, especially in enterprises. Though it appears to be bloated and sometimes slow and not so well designed, it is presently the best available in the Java world. It's pros, however, far outweigh its cons - it has a plugin-based modular architecture covering not just Java, but PHP, Python, C/C++ and several other langauges. There is also an ADT plugin to develop Android Apps. Personally, a huge fan!
@@ -52,3 +50,15 @@
 - [Concurrency Updates](http://openjdk.java.net/jeps/155)
 - [New DateTime API (JSR 310)](http://sourceforge.net/apps/mediawiki/threeten/index.php?title=User_Guide)
 - [Type Annotations & Pluggable Type Systems](http://docs.oracle.com/javase/tutorial/java/annotations/type_annotations.html)
+
+
+## Open Source Projects
+
+- [spring.io - projects](https://spring.io/projects)
+- [Powerstone](http://sourceforge.net/projects/powerstone/)
+- [Tudu Lists](http://sourceforge.net/projects/tudu/)
+- [Alfresco Content Management](https://www.alfresco.com/products/community/download)
+- [SpringSide](http://sourceforge.net/projects/springside/)
+- [Plazma](http://sourceforge.net/projects/plazma/)
+- [agileexpress](http://sourceforge.net/projects/agileexpress/)
+- [openerp](http://sourceforge.net/projects/theopenerp/)

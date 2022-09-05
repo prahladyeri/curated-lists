@@ -49,6 +49,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
+- [Open Source Spring-MVC projects](https://stackoverflow.com/questions/2604655/any-open-source-spring-sample-project-thats-bigger-than-petclinic)
 
 ## Others
 
