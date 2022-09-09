@@ -37,6 +37,10 @@
 - [Ian Bicking - Home Page](https://www.ianbicking.org/)
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
+## Programming Forums
+- [Sitepoint Community Forums](https://www.sitepoint.com/community/)
+- [Github Community Discussions](https://github.com/community/community/discussions)
+
 ## Vlogs/Youtube/Podcasts
 
 - [Changelog](https://www.youtube.com/c/Changelog) - News and podcast for developers.
