@@ -38,6 +38,8 @@
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
 ## Programming Forums
+- [CodeRanch Forums](https://coderanch.com/forums/)
+- [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
 - [Sitepoint Community Forums](https://www.sitepoint.com/community/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
 
