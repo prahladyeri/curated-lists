@@ -38,9 +38,10 @@
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
 ## Programming Forums
+- [Sitepoint Community Forums](https://www.sitepoint.com/community/)
+- [Freecodecamp forums](https://forum.freecodecamp.org/)
 - [CodeRanch Forums](https://coderanch.com/forums/)
 - [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
-- [Sitepoint Community Forums](https://www.sitepoint.com/community/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
 
 ## Vlogs/Youtube/Podcasts
