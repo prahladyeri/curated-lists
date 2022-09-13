@@ -42,9 +42,10 @@
 - [Freecodecamp forums](https://forum.freecodecamp.org/)
 - [CodeRanch Forums](https://coderanch.com/forums/)
 - [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
+- [Hackernoon contributors club](https://community.hackernoon.com/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
 
-## Vlogs/Youtube/Podcasts
+## Vlogs/Youtube
 
 - [Changelog](https://www.youtube.com/c/Changelog) - News and podcast for developers.
 - [Python Bytes](https://www.youtube.com/c/PythonBytesPodcast) - Weekly podcast by Michael Kennedy and Brian Okken.
@@ -55,6 +56,12 @@
 - [Real Python](https://www.youtube.com/c/realpython) - Python tutorials and training videos.
 - [Indie Hackers](https://www.youtube.com/channel/UC36zt_eM_gZQXayw_pAdASg) - Interviews of programmers who turned their side-projects into profitable businesses.
 - [Jupiter Broadcasting](https://www.youtube.com/c/JupiterBroadcasting) - Tech podcast, content from different sources.
+
+## Podcasts
+
+- [Oxycast](https://oxylabs.io/resources/oxycast) - A tech podcast related to web scraping hosted by Oxylabs, a leading proxy solutions provider.
+- [How I built this](https://www.npr.org/series/490248027/how-i-built-this) - As the name indicates, they bring together entrepreneurs, inventors, etc. who have created innovative and mind blowing things to discuss how these things came about. The podcast is intended for a general audience, not just technical people.
+- [Thoughtworks Technology Podcast](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) - Primarily a programming podcast.
 
 ## MOOC (Massive Online Open Courses)
 
