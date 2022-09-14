@@ -42,6 +42,7 @@
 - [Java practice tests](http://www.javatpoint.com/examaccess)
 - [Reddit r/Java](http://www.reddit.com/r/java)
 - [Oracle Java community](https://home.java.net/forums)
+- [Free Java Tutorial](https://www.scaler.com/topics/java/)
 
 ## New in Java 8
 - [Lambda Expressions](http://cr.openjdk.java.net/~briangoetz/lambda/lambda-state-final.html)
