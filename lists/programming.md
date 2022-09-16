@@ -44,6 +44,7 @@
 - [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
 - [Hackernoon contributors club](https://community.hackernoon.com/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
+- [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
 
 ## Vlogs/Youtube
 
