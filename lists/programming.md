@@ -37,7 +37,10 @@
 - [Ian Bicking - Home Page](https://www.ianbicking.org/)
 - [Bruce Eckel's Blog](https://www.bruceeckel.com/)
 
-## Programming Forums
+## Coding forums and discussion sites
+
+- [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
+- [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
 - [Sitepoint Community Forums](https://www.sitepoint.com/community/)
 - [Freecodecamp forums](https://forum.freecodecamp.org/)
 - [CodeRanch Forums](https://coderanch.com/forums/)
@@ -45,6 +48,15 @@
 - [Hackernoon contributors club](https://community.hackernoon.com/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
 - [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
+- [Dev.to](https://dev.to) - More of a social media for coders, geared towards beginners.
+- [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
+- [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
+
+## Podcasts
+
+- [Oxycast](https://oxylabs.io/resources/oxycast) - A tech podcast related to web scraping hosted by Oxylabs, a leading proxy solutions provider.
+- [How I built this](https://www.npr.org/series/490248027/how-i-built-this) - As the name indicates, they bring together entrepreneurs, inventors, etc. who have created innovative and mind blowing things to discuss how these things came about. The podcast is intended for a general audience, not just technical people.
+- [Thoughtworks Technology Podcast](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) - Primarily a programming podcast.
 
 ## Vlogs/Youtube
 
@@ -58,11 +70,6 @@
 - [Indie Hackers](https://www.youtube.com/channel/UC36zt_eM_gZQXayw_pAdASg) - Interviews of programmers who turned their side-projects into profitable businesses.
 - [Jupiter Broadcasting](https://www.youtube.com/c/JupiterBroadcasting) - Tech podcast, content from different sources.
 
-## Podcasts
-
-- [Oxycast](https://oxylabs.io/resources/oxycast) - A tech podcast related to web scraping hosted by Oxylabs, a leading proxy solutions provider.
-- [How I built this](https://www.npr.org/series/490248027/how-i-built-this) - As the name indicates, they bring together entrepreneurs, inventors, etc. who have created innovative and mind blowing things to discuss how these things came about. The podcast is intended for a general audience, not just technical people.
-- [Thoughtworks Technology Podcast](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) - Primarily a programming podcast.
 
 ## MOOC (Massive Online Open Courses)
 
@@ -88,33 +95,19 @@
 - [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
-## Q/A sites for troubleshooting a problem:
-
-- [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
-- [Unix and Linux Q/A](https://unix.stackexchange.com/) - This is where I usually go if Google cannot help me with a linux problem.
-- [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
-- [Dev.to](https://dev.to) - Recently open sourced, this discussion site is geared towards beginners. Its more of a programming social network than a Q/A site though.
-- [Code Project](https://www.codeproject.com/) - If you are into Microsoft Technologies like ASP.NET/C#, this site is for you.
-
 ## Integrated Development Environments (IDE)
 
-- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ than an IDE but one of the most popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
+- [notepad++](https://notepad-plus-plus.org/): Less of an IDE and more of a code-editor to be honest but happens to be my favorite.
+- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ but highly popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
 - [atom/atom](https://github.com/atom/atom): Similar to above, Atom is another JavaScript editor, quite popular these days.
 - [Netbeans](https://netbeans.apache.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
 - [Eclipse](https://eclipse.org): Another Java veteran's IDE, a strong competitor to Netbeans.
 
-## Other Programming resources
+
+
+## Reddit Programming Help
 
 - [Reddit Programming Help](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this site, whether its learning, tips, guidance or just the satisfaction of helping a fellow developer.
-- [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here.
-- [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
-- [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
-- [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
-
-## Pointers to other programming resources
-
-### Reddit
-
 - [Programming Wiki](https://www.reddit.com/r/learnprogramming/wiki)
 - [Wiki/Online resources](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_online_resources)
 - [Books/Offline resources](http://www.reddit.com/r/learnprogramming/wiki/books)
@@ -122,3 +115,9 @@
 ## Libraries and APIs
 
 - [Octokit client libraries](https://developer.github.com/libraries/) - Octokit library is used to access the github API. This comes in multiple flavors and languages including .NET, Ruby and Java.
+
+## Other Programming resources
+- [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here.
+- [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
+- [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
+- [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
