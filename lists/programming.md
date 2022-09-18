@@ -50,7 +50,9 @@
 - [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
 - [Dev.to](https://dev.to) - More of a social media for coders, geared towards beginners.
 - [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
+- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
 - [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
+
 
 ## Podcasts
 
