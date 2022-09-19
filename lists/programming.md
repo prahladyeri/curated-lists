@@ -52,6 +52,7 @@
 - [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
 - [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
+- [Dzone](https://dzone.com/) - Yet another portal where coders can write articles and have discussions with other coders. They also provide you with [refcardz](https://dzone.com/refcardz) for programming languages and frameworks which are nothing but mind-blowing infographic PDFs to help you with learning and recall.
 
 
 ## Podcasts
