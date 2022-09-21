@@ -1,47 +1,38 @@
 # Programming Resources
 
-## Blogs
+## Top programming authors
 
-- [Hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community.
-- [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business.
-- [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
-- [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
+- [Ian Bicking - Home Page](https://www.ianbicking.org/)
 - [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
-- [dev.to](https://dev.to/) - Popular programming blog cum forum featuring useful articles and discussions.
-- [CSS-Tricks](https://css-tricks.com/) - A front-end coding blog mostly on CSS.
-- [SitePoint Blog](https://www.sitepoint.com/blog/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
-- [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
-- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
-- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
-- [Schneier on Security](https://www.schneier.com/)
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
-- [Julia Evans](https://jvns.ca/)
 - [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
+- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
+- [Joel on Software](https://www.joelonsoftware.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- [Julia Evans](https://jvns.ca/)
 - [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
-- [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
-- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
-- [Martin Thoma](https://martin-thoma.com/)
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
+- [Martin Thoma](https://martin-thoma.com/)
 - [Oliver Marshall](https://olivermarshall.net/)
-- [Ircmaxell's blog](https://blog.ircmaxell.com/)
-- [Nick Basile](https://nick-basile.com/)
+- [Joseph Scott](https://blog.josephscott.org/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
+- [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
+- [Ircmaxell's blog](https://blog.ircmaxell.com/)
+- [Bruce Eckel](https://www.bruceeckel.com/)
 - [A Weird Imagination](https://aweirdimagination.net/)
-- [Joseph Scott's Blog](https://blog.josephscott.org/)
-- [Ian Bicking - Home Page](https://www.ianbicking.org/)
-- [Bruce Eckel's Blog](https://www.bruceeckel.com/)
+- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
+- [Nick Basile](https://nick-basile.com/)
 
-## Coding forums and discussion sites
+## Coding forums, weblogs and discussion sites
 
 - [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
 - [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
-- [Sitepoint Community Forums](https://www.sitepoint.com/community/)
+- [Sitepoint Community Forums](https://www.sitepoint.com/community/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
 - [Freecodecamp forums](https://forum.freecodecamp.org/)
 - [CodeRanch Forums](https://coderanch.com/forums/)
 - [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
@@ -53,7 +44,12 @@
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
 - [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
 - [Dzone](https://dzone.com/) - Yet another portal where coders can write articles and have discussions with other coders. They also provide you with [refcardz](https://dzone.com/refcardz) for programming languages and frameworks which are nothing but mind-blowing infographic PDFs to help you with learning and recall.
-
+- [Hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community.
+- [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business.
+- [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
+- [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
+- [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
+- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
 ## Podcasts
 
