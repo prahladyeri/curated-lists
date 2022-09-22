@@ -18,6 +18,7 @@
 - [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Martin Thoma](https://martin-thoma.com/)
+- [Rick Brewster](https://blog.getpaint.net/) - Author of Paint.NET, popular open source C# app.
 - [Oliver Marshall](https://olivermarshall.net/)
 - [Joseph Scott](https://blog.josephscott.org/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
