@@ -44,6 +44,8 @@
 - [python-docx](https://python-docx.readthedocs.io) - Python library to write to work with Microsoft Word Documents.
 - [markdown](https://pypi.org/project/Markdown/) - Python library to work with markdown format.
 - [Pandoc](https://pandoc.org) - Wonderful tool to convert document from one format to another, supports markdown, reST, doc, docx, pdf and a number of other formats.
+- [PyPDF2](https://pypdf2.readthedocs.io/) - Handly PDF library for reading text from PDF documents and writing to them, upgraded from the old PyPDF library to work with Python 3.
+- [pdfminer](https://pdfminersix.readthedocs.io/) - Another PDF read/write library, alternative to PyPDF2 which works slower but apparently is more reliable for fetching text from PDF.
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - A mind-blowing XML parsing library that is widely used in web-scraping scripts and applications in python.
 - [lxml](https://lxml.de) - Library to process xml/html with python.
 - [PyYAML](https://github.com/yaml/pyyaml) - The next generation YAML parser and emitter for Python.
