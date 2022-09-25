@@ -54,6 +54,8 @@
 - [Zend IDE](http://www.zend.com/products/studio) - A proprietary `php` IDE.
 
 ## Online tutorials, books, puzzles, forums
+- [w3schools - PHP](https://www.w3schools.com/php/)
+- [CodeIgniter forums](https://forum.codeigniter.com/)
 - [PHP the right way](http://www.phptherightway.com/)
 - [HTMLgoodies PHP tutorials](http://www.htmlgoodies.com/beyond/php)
 - [Tizag PHP tutorials](http://www.tizag.com/phpT)
