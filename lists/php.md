@@ -45,6 +45,7 @@
 - [PHPExcel](https://github.com/PHPOffice/PHPExcel) - A pure `php` library to export/import data in `Microsoft Excel` format.
 - [phpList](https://www.phplist.org/) - Mailing list software.
 - [php-markdown](https://github.com/michelf/php-markdown) - A handy markdown-converter (to/from html) in php.
+- [Archon](https://github.com/HWGehring/Archon) - Data Analysis package for PHP, the rought equivalent of Python's PANDAS.
 
 ## IDE and Tools
 - [Composer](https://getcomposer.org/doc/) - De-facto package manager for `php`.
