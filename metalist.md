@@ -26,6 +26,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 ## JavaScript
 
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
