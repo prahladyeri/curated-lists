@@ -14,6 +14,7 @@ Curated lists for a variety of awesome things.
 - [Python Resources](lists/python.md): Resources for python programming.
 - [PHP Resources](lists/php.md): Resources for php programming.
 - [Java Resources](lists/java.md): Resources for java programming.
+- [C# Resources](lists/csharp.md): Resources for C# programming.
 - [Android Resources](lists/android.md): Resources for android programming.
 - [Social Networking](lists/social_media.md) - Social Networking resources.
 - [Free Programming Books](lists/books.md): List of free online programming books.
