@@ -1,6 +1,6 @@
 # Miscellaneous Resources
 
-# Sample data for testing and research purposes
+# Sample data for testing
 
 - [Northwind and pubs sample databases for SQL-Server - Microsoft](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs) - Northwind Database is a sample database provided by Microsoft, based on a fictional company called Northwind Traders.
 - [jpwhite3/northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3/) - SQLite version of Northwind database.

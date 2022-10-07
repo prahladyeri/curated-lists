@@ -20,6 +20,7 @@ Curated lists for a variety of awesome things.
 - [Free Programming Books](lists/books.md): List of free online programming books.
 - [Open Source Resources](lists/open_source.md): Resources for Free and Open Source Software (FOSS) enthusiasts.
 - [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
+- [Miscellaneous Resources](lists/misc.md): Miscellaneous resources for various things.
 - [i386 Salvation](lists/x86_salvation.md): Support information for the i386 architecture.
 
 ## Checklists:
