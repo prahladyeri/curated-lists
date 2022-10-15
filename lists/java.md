@@ -38,6 +38,7 @@
 
 
 ## Online tutorials, books and puzzles
+- [Baeldung](https://www.baeldung.com/) - Perhaps the most popular tutorial site among java enthusiasts. 
 - [WSIT Tutorial](https://docs.oracle.com/cd/E17802_01/webservices/webservices/reference/tutorials/wsit/doc/Examples_glassfish6.html) - Useful tutorial on creating a `WSDL` client using core Java tools itself like `wsimport`.
 - [Java practice tests](http://www.javatpoint.com/examaccess)
 - [Reddit r/Java](http://www.reddit.com/r/java)
