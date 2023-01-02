@@ -21,7 +21,7 @@ Curated lists for a variety of awesome things.
 - [Open Source Resources](lists/open_source.md): Resources for Free and Open Source Software (FOSS) enthusiasts.
 - [Freelance Resources](lists/freelancing.md): Web services that give developers opportunities to do some freelance work for money.
 - [Miscellaneous Resources](lists/misc.md): Miscellaneous resources for various things.
-- [i386 Salvation](lists/x86_salvation.md): Support information for the i386 architecture.
+- [Motivational articles by the curator](lists/motivational.md): Selected articles, blog posts, quora answers, etc. authored by the curator.
 
 ## Checklists:
 
