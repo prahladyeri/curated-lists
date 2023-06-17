@@ -9,6 +9,7 @@ Curated lists for a variety of awesome things.
 ## Lists
 
 - [Meta List](metalist.md) - The one list to rule them all.
+- [Tools](lists/tools.md) - Software tools to make your life easier.
 - [Programming Resources](lists/programming.md): Resources helpful for programmers generally.
 - [Web Development Resources](lists/web.md): Resources for web development.
 - [Python Resources](lists/python.md): Resources for python programming.

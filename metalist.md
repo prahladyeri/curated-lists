@@ -25,6 +25,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## JavaScript
 
+- [domchristie/turndown](https://github.com/domchristie/turndown) - An HTML to Markdown converter written in JavaScript.
 - [uhub/awesome-javascript](https://github.com/uhub/awesome-javascript) - A curated list of awesome JavaScript frameworks, libraries and software.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
