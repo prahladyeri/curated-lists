@@ -68,3 +68,10 @@
 - [Nettuts+](http://net.tutsplus.com/category/tutorials/php)
 - [PHP T-Point - Tutorials](https://www.phptpoint.com/)
 - [PHP Freaks - Forums](https://forums.phpfreaks.com/)
+
+## Blogs and Help sites
+
+- [PHP Gurukul](https://phpgurukul.com/) - PHP Programming Blog with many examples and sample projects, started by a Delhiite named Anuj Kumar.
+- [www.phpclasses.org](https://www.phpclasses.org/) - PHP Classes Repository.
+- [php\[architect\]](https://www.phparch.com/) - A magazine dedicated to PHP programming language. It was founded in 2002 by Marco Tabini and his group The BlueParabola.
+- [phpmagazine.net](https://phpmagazine.net/) - Stay up-to-date on the latest trends and developments in PHP programming with PHPMagazine.net.
