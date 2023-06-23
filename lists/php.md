@@ -71,6 +71,7 @@
 
 ## Blogs and Help sites
 
+- [Laravel News](https://laravel-news.com) - Laravel News is the official blog of Laravel.
 - [PHP Gurukul](https://phpgurukul.com/) - PHP Programming Blog with many examples and sample projects, started by a Delhiite named Anuj Kumar.
 - [www.phpclasses.org](https://www.phpclasses.org/) - PHP Classes Repository.
 - [php\[architect\]](https://www.phparch.com/) - A magazine dedicated to PHP programming language. It was founded in 2002 by Marco Tabini and his group The BlueParabola.
