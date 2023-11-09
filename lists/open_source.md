@@ -10,9 +10,10 @@
 
 ### For all open source projects including commons and permissive (Apache/MIT/BSD/etc.)
 
+- [Tango Desktop Project](http://tango.freedesktop.org/Tango_Icon_Library) - CC By SA
+- [Lazarus Project Icons](https://forum.lazarus.freepascal.org/index.php/topic,59266.msg441849.html) - The Lazarus IDE Project (Delphi fork) has gratefully provided a collection of general purpose icons under CC-Zero license, credits Roland Hahn.
 - [Google Fonts](https://fonts.google.com/icons) - Material symbols and icons.
 - [Fontawesome](https://fontawesome.com/) - Designed for the web, may not work that well for desktop apps.
-- [Tango Desktop Project](http://tango.freedesktop.org/Tango_Icon_Library) - CC By SA
 - [famfamfam-silk](https://github.com/legacy-icons/famfamfam-silk)
 
 ## Blogs
