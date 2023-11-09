@@ -1,5 +1,20 @@
 # FOSS Resources
 
+## Free Icons
+
+### For commons licensed projects only (GPL/LGPL/MPL/etc.)
+
+- [Crystal Icon set](https://commons.wikimedia.org/wiki/Crystal_Clear) by Everaldo Coelho.
+- [Nuvola](https://en.wikipedia.org/wiki/Nuvola) by David Vignoni, originally created for KDE.
+- [Oxygen Project](https://en.wikipedia.org/wiki/Oxygen_Project) by KDE team.
+
+### For all open source projects including commons and permissive (Apache/MIT/BSD/etc.)
+
+- [Google Fonts](https://fonts.google.com/icons) - Material symbols and icons.
+- [Fontawesome](https://fontawesome.com/) - Designed for the web, may not work that well for desktop apps.
+- [Tango Desktop Project](http://tango.freedesktop.org/Tango_Icon_Library) - CC By SA
+- [famfamfam-silk](https://github.com/legacy-icons/famfamfam-silk)
+
 ## Blogs
 
 - [Planet GNOME](https://planet.gnome.org/)
