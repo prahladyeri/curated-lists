@@ -3,6 +3,9 @@
 ## General blog posts
 - [Frugal Living 101: HUGE list of ways to curb your home expenses during COVID times](https://the-evolving-web.blogspot.com/2020/12/frugal-living-101-huge-list-of-ways-to.html)
 - [4 practical habits to induce a better sleeping pattern](https://the-evolving-web.blogspot.com/2020/02/4-practical-habits-to-induce-better.html)
+- [How I made my web pages load 10x faster](https://prahladyeri.github.io/blog/2023/06/how-i-made-my-site-10x-faster.html)
+- [Python recipe: Combine multiple images into one PDF](https://prahladyeri.github.io/blog/2019/10/python-recipe-combine-images-pdf.html)
+- [Ten useful LibreOffice Macro Recipes](https://prahladyeri.github.io/blog/2016/02/ten-libreoffice-macro-recipes.html)
 
 ## Quora posts and answers
 

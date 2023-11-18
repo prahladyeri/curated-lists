@@ -50,11 +50,19 @@
 - [lxml](https://lxml.de) - Library to process xml/html with python.
 - [PyYAML](https://github.com/yaml/pyyaml) - The next generation YAML parser and emitter for Python.
 
-### Build and DevOps
+### Build and Tooling
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
 - [PyTest](https://github.com/pytest-dev/pytest) - Perhaps the De-facto testing module in python world.
 - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) - The standard documentation tool for python.
 - [readthedocs.org](https://readthedocs.org) - Online document hosting facility for pythonistas, based on Sphinx and integrates with github repositories and hooks.
+
+### Graphical User Interfaces
+- [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
+- [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
+- [pyglet](http://www.pyglet.org/) - Python graphics library.
+- [PySimpleGUI](https://pysimplegui.readthedocs.io/) - Another GUI toolkit similar to PyQT and tkinter.
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) -  Freeze (package) Python programs into stand-alone executables.
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) -  Create standalone executables from Python scripts, with the same performance and is cross-platform.
 
 ### Others
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters.
@@ -62,10 +70,6 @@
 - [pygments](https://pypi.org/project/Pygments/) - A syntax highlighting package written in Python.
 - [pygame](http://pygame.org/) - A popular python gaming library.
 - [panda3d](https://www.panda3d.org/) - Python graphics library.
-- [pyglet](http://www.pyglet.org/) - Python graphics library.
-- [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
-- [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
-- [PySimpleGUI](https://pysimplegui.readthedocs.io/) - Another GUI toolkit similar to PyQT and tkinter.
 - [Tweepy](http://tweepy.readthedocs.io/) - Library to access tweets using the twitter api.
 - [pytz](https://pypi.org/project/pytz/) - Library to work with time-zones.
 - [tqdm](https://github.com/tqdm/tqdm) - Instantly make your loops show a smart progress meter.
