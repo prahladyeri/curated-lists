@@ -56,6 +56,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 
 ## Others
 
+- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
 - [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - A curated list of youtube channels about programming.
