@@ -7,7 +7,9 @@
 - [Google - Java Development Tools](https://developers.google.com/java-dev-tools/)
 - [Maven Central - The official Java package repository](http://mvnrepository.com/)
 
-## Libraries and Frameworks
+## Libraries
+- [jedit syntax package](http://syntax.jedit.org/) - The reusable syntax highlighting component used in the [jedit code editor](http://www.jedit.org/) software.
+- [RSyntaxTextArea](https://github.com/bobbylight/RSyntaxTextArea) - Yet another syntax editor component for Java Swing UIs.
 - [jUnit](http://junit.org/) - The standard unit testing tool in Java world, the inspiration behind `nunit`, the equivalent for unit testing used in the .NET world.
 - [Apache Commons](http://commons.apache.org/) - The most popular and highly used libraries in the Java World.
 - [Guava](https://github.com/google/guava) - Google core libraries for java.
