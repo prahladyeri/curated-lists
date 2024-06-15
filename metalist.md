@@ -1,8 +1,6 @@
 # The Meta List - One List to Rule Them All!
 
-This is a curated meta list that contains links to other awesome curated lists.
-
-# Programming
+This is a curated meta list that contains links to other awesome curated lists, mostly technology related.
 
 ## PHP/Python/WebDev
 
@@ -82,7 +80,7 @@ This is a curated meta list that contains links to other awesome curated lists.
 - [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 
 
-## Metalist
+## Metalists
 
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).

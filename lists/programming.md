@@ -33,24 +33,30 @@
 
 - [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
 - [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
+- [Daniweb](https://www.daniweb.com/articles/latest/recommended) - This is one of the oldest classical web forum on the Internet which is still thriving! The web-masters are great folks and the discussion is centered around web development and technologies like PHP.
 - [Sitepoint Community Forums](https://www.sitepoint.com/community/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
 - [Freecodecamp forums](https://forum.freecodecamp.org/)
+- [Eclipse Forums](https://www.eclipse.org/forums/index.php/i/)
 - [CodeRanch Forums](https://coderanch.com/forums/)
 - [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
 - [Hackernoon contributors club](https://community.hackernoon.com/)
 - [Github Community Discussions](https://github.com/community/community/discussions)
-- [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
+- [WordPress community forum](https://wordpress.org/support/forums/)
 - [Dev.to](https://dev.to) - More of a social media for coders, geared towards beginners.
 - [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
 - [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
 - [Dzone](https://dzone.com/) - Yet another portal where coders can write articles and have discussions with other coders. They also provide you with [refcardz](https://dzone.com/refcardz) for programming languages and frameworks which are nothing but mind-blowing infographic PDFs to help you with learning and recall.
+- [AnandTech Forums](https://forums.anandtech.com/)
+- [Lazarus IDE \(FreePascal\) community forum](https://forum.lazarus.freepascal.org/)
 - [Hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community.
 - [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business.
 - [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
 - [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
 - [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
 - [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
+- [MIT App Inventor Community](https://community.appinventor.mit.edu/top?period=weekly) - Community forum maintained by MIT for Android  developer. Beware and cautioned if you don't belong to the chosen tribe though, you might face some extraordinary toxicity and racism here.
+- [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
 
 ## Podcasts
 
