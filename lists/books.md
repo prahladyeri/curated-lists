@@ -60,13 +60,13 @@
 
 ### JavaScript
 
-*   (frontend)[Crockford's JavaScript](http://www.crockford.com/javascript/)
+*   (frontend) [Crockford's JavaScript](http://www.crockford.com/javascript/)
 *   [Eloquent JavaScript](http://eloquentjavascript.net/)
 *   [Essential Javascript & jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 *   [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 *   [jQuery Fundamentals](http://jqfundamentals.com/legacy/) (starts with JavaScript basics)
 *   [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
-*   (backend)[Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
+*   (backend) [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
 *   [The Node Beginner Book](http://nodebeginner.org/)
 *   [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
 *   [Mixu's Node Book](http://book.mixu.net/)
@@ -82,7 +82,7 @@
 *   [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 *   [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 
-### C/C++
+### C / C++
 
 *   [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 *   [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
