@@ -1,33 +1,33 @@
 # Programming Resources
 
-## Top programming authors
+## Top programming author blogs
 
-- [Ian Bicking - Home Page](https://www.ianbicking.org/)
-- [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
-- [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
-- [Adam the Automator](https://adamtheautomator.com/)
-- [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
-- [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
-- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
-- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
-- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. JOOQ tidbits.
 - [Joel on Software](https://www.joelonsoftware.com/)
-- [Schneier on Security](https://www.schneier.com/)
+- [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
+- [Adam the Automator](https://adamtheautomator.com/)
+- [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
 - [Julia Evans](https://jvns.ca/)
-- [Krasimir Tsonev - Writer, Speaker and Coder](https://krasimirtsonev.com/)
-- [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
-- [Martin Thoma](https://martin-thoma.com/)
+- [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
 - [Rick Brewster](https://blog.getpaint.net/) - Author of Paint.NET, popular open source C# app.
-- [Oliver Marshall](https://olivermarshall.net/)
-- [Joseph Scott](https://blog.josephscott.org/)
+- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
+- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
+- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons.
+- [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
+- [Ian Bicking - Home Page](https://www.ianbicking.org/)
+- [Ircmaxell's blog](https://blog.ircmaxell.com/)
+- [Krasimir Tsonev](https://krasimirtsonev.com/) - Writer, Speaker and Coder.
+- [Bruce Eckel](https://www.bruceeckel.com/)
+- [Schneier on Security](https://www.schneier.com/)
+- `Caution: below don't have a tranco domain rank:`
+- [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
 - [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
-- [Ircmaxell's blog](https://blog.ircmaxell.com/)
-- [Bruce Eckel](https://www.bruceeckel.com/)
 - [A Weird Imagination](https://aweirdimagination.net/)
 - [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
 - [Nick Basile](https://nick-basile.com/)
+- [Oliver Marshall](https://olivermarshall.net/)
+- [Joseph Scott](https://blog.josephscott.org/)
 
 ## Coding forums, weblogs and discussion sites
 
@@ -55,7 +55,7 @@
 - [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
 - [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
 - [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
-- [MIT App Inventor Community](https://community.appinventor.mit.edu/top?period=weekly) - Community forum maintained by MIT for Android  developer. Beware and cautioned if you don't belong to the chosen tribe though, you might face some extraordinary toxicity and racism here.
+- [MIT App Inventor Community](https://community.appinventor.mit.edu/top?period=weekly) - Community forum for Android developers. Beware and cautioned if you don't belong to the chosen tribe though, you might face some extraordinary toxicity and racism here.
 - [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
 
 ## Podcasts
