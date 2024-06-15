@@ -33,7 +33,7 @@
 
 - [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
 - [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
-- [Daniweb](https://www.daniweb.com/articles/latest/recommended) - This is one of the oldest classical web forum on the Internet which is still thriving! The web-masters are great folks and the discussion is centered around web development and technologies like PHP.
+- [Daniweb](https://www.daniweb.com/articles/latest/recommended) - This is one of the oldest web forum on the Internet which is still thriving! The web-masters are great folks and the discussion is mostly centered around web development and technologies like PHP.
 - [Sitepoint Community Forums](https://www.sitepoint.com/community/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
 - [Freecodecamp forums](https://forum.freecodecamp.org/)
 - [Eclipse Forums](https://www.eclipse.org/forums/index.php/i/)
@@ -46,7 +46,7 @@
 - [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
 - [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
-- [Dzone](https://dzone.com/) - Yet another portal where coders can write articles and have discussions with other coders. They also provide you with [refcardz](https://dzone.com/refcardz) for programming languages and frameworks which are nothing but mind-blowing infographic PDFs to help you with learning and recall.
+- [Dzone](https://dzone.com/) - They have programming articles and also [refcardz](https://dzone.com/refcardz) or infographic PDFs to help you with learning and recall.
 - [AnandTech Forums](https://forums.anandtech.com/)
 - [Lazarus IDE \(FreePascal\) community forum](https://forum.lazarus.freepascal.org/)
 - [Hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community.
