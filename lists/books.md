@@ -1,6 +1,34 @@
 # Free Online Programming Books
 
-### (Also have a look at [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) which has a far greater collection).
+- [Python](#python)
+- [PHP](#php)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Web Design](#web-design)
+- [SQL](#web-design)
+- [C/C++](#c-c)
+- [Graphics Programming](#graphics-programming)
+- [Others](#others)
+
+### Python
+
+*   [Building Skills in Python Version 2.5](http://homepage.mac.com/s_lott/books/python.html)
+*   [Byte of Python](http://www.swaroopch.com/notes/Python)
+*   [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
+*   [Dive into Python](http://www.diveintopython.net/)
+*   [Dive into Python 3](http://diveintopython3.ep.io/)
+*   [The Django Book](http://djangobook.com/)
+*   [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
+*   [Invent Your Own Computer Games With Python](http://inventwithpython.com/)
+*   [Learn Python The Hard Way](http://learnpythonthehardway.org)
+*   [Natural Language Processing with Python](http://www.nltk.org/book)
+*   [Python Bibliotheca](http://openbookproject.net/pybiblio/)
+*   [Python for Fun](http://www.openbookproject.net/py4fun/)
+*   [Snake Wrangling For Kids](http://www.briggs.net.nz/log/writing/snake-wrangling-for-kids/ "SWFK")
+*   [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
+*   [Thinking in Python](http://www.mindview.net/Books/TIPython/)
+*   [Djangobook.com](http://djangobook.com/)
+
 
 ### PHP
 
@@ -20,57 +48,41 @@
 *   [OSGi in Practice](http://njbartlett.name/files/osgibook_preview_20091217.pdf) (PDF)
 *   [Category wise tutorials - J2EE](http://www.mkyong.com/)
 *   [Introduction to Programming Using Java - David J. Eck](http://math.hws.edu/javanotes/index.html)
+*   [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)
+*   [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
+*   [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
+*   [Repository Management with Nexus](http://www.sonatype.com/books/nexus-book/reference/)
+*   [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
+*   (android)[Agile Android Software Development](http://www.agiledroid.com/) - Etienne Savard (PDF, epub, mobi - need email confirmation)
+*   [Building Android Apps with HTML, CSS, and JavaScript (Phased out by Oreilly)](http://ofps.oreilly.com/titles/9781449383268/)
+*   [Learning Android (Phased out by Oreilly)](http://ofps.oreilly.com/titles/9781449390501/)
 
-### Python
-
-*   [Building Skills in Python Version 2.5](http://homepage.mac.com/s_lott/books/python.html)
-*   [Byte of Python](http://www.swaroopch.com/notes/Python)
-*   [Data Structures and Algorithms in Python](http://www.brpreiss.com/books/opus7/html/book.html)
-*   [Dive into Python](http://www.diveintopython.net/)
-*   [Dive into Python 3](http://diveintopython3.ep.io/)
-*   [The Django Book](http://djangobook.com/)
-*   [How to Think Like a Computer Scientist: Learning with Python](http://www.greenteapress.com/thinkpython/thinkCSpy/)
-*   [Invent Your Own Computer Games With Python](http://inventwithpython.com/)
-*   [Learn Python The Hard Way](http://learnpythonthehardway.org)
-*   [Natural Language Processing with Python](http://www.nltk.org/book)
-*   [Python Bibliotheca](http://openbookproject.net/pybiblio/)
-*   [Python for Fun](http://www.openbookproject.net/py4fun/)
-*   [Snake Wrangling For Kids](http://www.briggs.net.nz/log/writing/snake-wrangling-for-kids/ "SWFK")
-*   [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF)
-*   [Thinking in Python](http://www.mindview.net/Books/TIPython/)
-
-### Django
-
-*   [Djangobook.com](http://djangobook.com/)
-
-### JavaScript (Node.js specific)
-
-*   [Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
-*   [The Node Beginner Book](http://nodebeginner.org/)
-*   [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
-*   [Mixu's Node Book](http://book.mixu.net/)
-
-### HTML / CSS
-
-*   [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
-*   [HTML Dog Tutorials](http://www.htmldog.com/)
 
 ### JavaScript
 
-*   [Crockford's JavaScript](http://www.crockford.com/javascript/)
+*   (frontend)[Crockford's JavaScript](http://www.crockford.com/javascript/)
 *   [Eloquent JavaScript](http://eloquentjavascript.net/)
 *   [Essential Javascript & jQuery Design Patterns for Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
 *   [JavaScript Essentials](http://www.techotopia.com/index.php/JavaScript_Essentials)
 *   [jQuery Fundamentals](http://jqfundamentals.com/legacy/) (starts with JavaScript basics)
 *   [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en/JavaScript/Guide)
+*   (backend)[Up and Running with Node](http://ofps.oreilly.com/titles/9781449398583/)
+*   [The Node Beginner Book](http://nodebeginner.org/)
+*   [Mastering Node.js](http://visionmedia.github.com/masteringnode/)
+*   [Mixu's Node Book](http://book.mixu.net/)
 
-### SQL (implementation agnostic)
+### Web Design
+
+*   [Dive Into HTML5](http://fortuito.us/diveintohtml5/)
+*   [HTML Dog Tutorials](http://www.htmldog.com/)
+
+### SQL
 
 *   [Developing Time-Oriented Database Applications in SQL](http://www.cs.arizona.edu/people/rts/publications.html)
 *   [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com/)
 *   [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 
-### C / C++
+### C/C++
 
 *   [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 *   [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
@@ -88,10 +100,6 @@
 *   [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
 *   Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
-### Autotools
-
-*   [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
-
 ### Graphics Programming
 
 *   [DirectX manual](http://www.xmission.com/~legalize/book/download/index.html) (draft)
@@ -102,8 +110,9 @@
 *   [Graphics Programming Black Book](http://www.gamedev.net/reference/articles/article1698.asp)
 *   [ShaderX series](http://tog.acm.org/resources/shaderx/)
 
-### Language Agnostic
+### Others
 
+*   [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
 *   [97 Things Every Programmer Should Know](http://programmer.97things.oreilly.com/)
 *   [Algorithms and Data-Structures](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) (PDF)
 *   [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms.html) (draft)
@@ -177,102 +186,41 @@
 *   [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) (PDF, code written in Python)
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 *   [Understanding IP Addressing: Everything you ever wanted to know](http://www.apnic.net/__data/assets/pdf_file/0020/8147/501302.pdf) (PDF)
-
-### ASP.NET MVC
-
 *   [NerdDinner Walkthrough](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
-
-### Assembly Language
-
-*   [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
-*   [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
-*   [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-
-### Bash
-
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 *   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
 *   [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 *   [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
-
-### C#
-
-*   See **.NET** below
-
-### Clojure
-
+*   [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
+*   [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
+*   [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 *   [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
 *   [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-
-### CoffeeScript
-
 *   [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
 *   [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
-
-### ColdFusion
-
 *   [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
-
-### DB2
-
 *   [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
 *   [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
 *   [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
-
-### Delphi / Pascal
-
 *   [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
 *   [The Tomes of Delphi](http://www.lulu.com/content/435417)
-
-### Emacs
-
 *   [GNU Emacs Manual, 16th Edition, v. 22](http://shop.fsf.org/product/gnu-emacs-manual-16th-edition/)
 *   [An Introduction to Programming in Emacs Lisp, 3rd Edition](http://www.gnu.org/software/emacs/emacs-lisp-intro/)
-
-### Erlang
-
 *   [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
-
-### Flex
-
 *   [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
-
-### F#
-
 *   [The F# Survival Guide](http://www.ctocorner.com/fsharp/book/ch0.aspx)
 *   [F Sharp Programming](http://en.wikibooks.org/wiki/F_Sharp_Programming) in Wikibooks
 *   [Real World Functional Programming](http://msdn.microsoft.com/en-us/library/hh314518.aspx) (MSDN Chapters)
-
-### Forth
-
 *   [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 *   [Thinking Forth](http://thinking-forth.sourceforge.net/)
-
-### Git
-
 *   [Pro Git](http://progit.org/book/)
 *   [The Git Community Book](http://book.git-scm.com/index.html)
 *   [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
-
-### Go
-
 *   [The Go Tutorial](http://golang.org/doc/go_tutorial.html)
-
-### Grails
-
 *   [Getting Start with Grails](http://www.infoq.com/minibooks/grails-getting-started)
-
-### Haskell
-
 *   [Learn You a Haskell](http://learnyouahaskell.com/chapters)
 *   [Real World Haskell](http://book.realworldhaskell.org/read/)
-
-### LaTeX
-
 *   [The Not So Short Introduction to LaTeX](http://tobi.oetiker.ch/lshort/lshort.pdf)
-
-### Linux
-
 *   [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 *   [GNU Autoconf, Automake and Libtool](http://sources.redhat.com/autobook/download.html)
 *   [GTK+/Gnome Application Development](http://www.linuxtopia.org/online_books/gui_toolkit_guides/gtk+_gnome_application_development/index.html)
@@ -280,9 +228,6 @@
 *   [Linux Device Drivers](http://lwn.net/Kernel/LDD3/) by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman
 *   [The Linux Kernel Module Programming Guide](http://tldp.org/LDP/lkmpg/2.6/html/)
 *   [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
-
-### Lisp
-
 *   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 *   [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky
 *   [Common Lisp Quick Reference](http://clqr.boundp.org/)
@@ -292,22 +237,8 @@
 *   [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 *   [Successful Lisp: How to Understand and Use Common Lisp](http://psg.com/~dlamkins/sl/) - David Lamkins
 *   [Sketchy LISP](http://www.bcl.hamilton.ie/~nmh/t3x.org/zzz/) - Nils Holm
-
-### Lua
-
 *   [Programming In Lua](http://www.lua.org/pil/) (for version 5)
-
-### Mathematica
-
 *   [Mathematica® programming: an advanced introduction by Leonid Shifrin](http://www.mathprogramming-intro.org/)
-
-### Maven
-
-*   [Better Builds with Maven](http://www.maestrodev.com/better-build-maven)
-*   [Maven by Example](http://www.sonatype.com/books/mvnex-book/reference/public-book.html)
-*   [Maven: The Complete Reference](http://www.sonatype.com/books/mvnref-book/reference/public-book.html)
-*   [Repository Management with Nexus](http://www.sonatype.com/books/nexus-book/reference/)
-*   [Developing with Eclipse and Maven](http://www.sonatype.com/books/m2eclipse-book/reference/)
 
 ### Mercurial
 
@@ -477,11 +408,3 @@
 ### Windows Phone
 
 *   [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
-
-### Android
-
-*   [Agile Android Software Development](http://www.agiledroid.com/) - Etienne Savard (PDF, epub, mobi - need email confirmation)
-*   [Building Android Apps with HTML, CSS, and JavaScript (Phased out by Oreilly)](http://ofps.oreilly.com/titles/9781449383268/)
-*   [Learning Android (Phased out by Oreilly)](http://ofps.oreilly.com/titles/9781449390501/)
-
-
