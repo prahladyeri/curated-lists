@@ -14,7 +14,7 @@
 ## Database Access
 - [MySqlConnector - Community Maintained MySql Driver](https://mysqlconnector.net/) - [nuget](https://www.nuget.org/packages/MySqlConnector/)
 - [Official MySQL C# drivers from Oracle - GPL](https://dev.mysql.com/downloads/connector/net/) - [nuget](https://www.nuget.org/packages/MySql.Data)
-- [Official SQLite C# driver - Public Domain](https://system.data.sqlite.org/) - [nuget](https://www.nuget.org/packages/system.data.sqlite/)
+- [Official SQLite C# driver](https://system.data.sqlite.org/) - [nuget](https://www.nuget.org/packages/system.data.sqlite/)
 
 ## Others
 - [Newtonsoft.Json - JSON manipulation](https://github.com/JamesNK/Newtonsoft.Json) - [nuget](https://www.nuget.org/packages/Newtonsoft.Json)
@@ -23,6 +23,7 @@
 - [ClosedXML, Excel manipulation library - XLSX/XLSM Only](https://github.com/ClosedXML/ClosedXML) - [nuget](https://www.nuget.org/packages/ClosedXML)
 - [ExcelDataReader, Excel library - both XLS/XLSX formats](https://github.com/ExcelDataReader/ExcelDataReader) - [nuget](https://www.nuget.org/packages/ExcelDataReader)
 - [ZXing.NET - Barcode reading/creation](https://github.com/micjahn/ZXing.Net/) - [nuget](https://github.com/micjahn/ZXing.Net/)
+
 
 
 
