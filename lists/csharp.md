@@ -25,4 +25,5 @@
 - [BouncyCastle - cryptographic library helpful for digitally signing documents](https://www.bouncycastle.org/download/bouncy-castle-c/) - [nuget](https://www.nuget.org/packages/BouncyCastle)
 - [ClosedXML, Excel manipulation library - XLSX/XLSM Only](https://github.com/ClosedXML/ClosedXML) - [nuget](https://www.nuget.org/packages/ClosedXML)
 - [ExcelDataReader, Excel library - both XLS/XLSX formats](https://github.com/ExcelDataReader/ExcelDataReader) - [nuget](https://www.nuget.org/packages/ExcelDataReader)
-- [ZXing.NET - Barcode reading/creation] - [nuget](https://github.com/micjahn/ZXing.Net/)
+- [ZXing.NET - Barcode reading/creation](https://github.com/micjahn/ZXing.Net/) - [nuget](https://github.com/micjahn/ZXing.Net/)
+
