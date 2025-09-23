@@ -11,10 +11,10 @@ Curated lists for a variety of awesome things.
 - [Tools](lists/tools.md) - Software tools to make your life easier.
 - [Programming Resources](lists/programming.md) - Resources helpful for programmers generally.
 - [Web Development Resources](lists/web.md) - Resources for web development.
-- [Python Resources](lists/python.md) - Resources for python programming.
-- [PHP Resources](lists/php.md) - Resources for php programming.
-- [Java Resources](lists/java.md) - Resources for java programming.
 - [C# Resources](lists/csharp.md) - Resources for C# programming.
+- [PHP Resources](lists/php.md) - Resources for php programming.
+- [Python Resources](lists/python.md) - Resources for python programming.
+- [Java Resources](lists/java.md) - Resources for java programming.
 - [Android Resources](lists/android.md) - Resources for android programming.
 - [Social Networking](lists/social_media.md) - Social Networking resources.
 - [Blogging](lists/blogging.md) - Blogging resources.
