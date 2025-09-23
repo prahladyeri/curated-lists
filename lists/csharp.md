@@ -1,18 +1,14 @@
 # C# Programming Resources
 
-# Apps
-
+## Apps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen.
 - [Paint.NET](https://blog.getpaint.net/) - It's no longer open source as the author seems to be quite annoyed! But a wonderful C# paint program nevertheless.
 
-# Tooling and Packaging
-
+## Tooling and Packaging
 - [nuget](https://www.nuget.org/) - The official .NET package manager.
 - [.NET Core/5/6/9+](https://dotnet.microsoft.com/) - The absolutely free and open source (FOSS) version of .NET.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - The dotnet decompiler.
 - [monodevelop](https://www.monodevelop.com/) - The platform independent .NET IDE, supports CLR languages like C#, VB.NET, etc.
-
-# Libraries and Drivers
 
 ## Database Access
 - [MySqlConnector - Community Maintained MySql Driver](https://mysqlconnector.net/) - [nuget](https://www.nuget.org/packages/MySqlConnector/)
@@ -26,4 +22,5 @@
 - [ClosedXML, Excel manipulation library - XLSX/XLSM Only](https://github.com/ClosedXML/ClosedXML) - [nuget](https://www.nuget.org/packages/ClosedXML)
 - [ExcelDataReader, Excel library - both XLS/XLSX formats](https://github.com/ExcelDataReader/ExcelDataReader) - [nuget](https://www.nuget.org/packages/ExcelDataReader)
 - [ZXing.NET - Barcode reading/creation](https://github.com/micjahn/ZXing.Net/) - [nuget](https://github.com/micjahn/ZXing.Net/)
+
 
