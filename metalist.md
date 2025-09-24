@@ -1,9 +1,8 @@
-# The Meta List - One List to Rule Them All!
+# The Meta List
 
 This is a curated meta list that contains links to other awesome curated lists, mostly technology related.
 
 ## PHP/Python/WebDev
-
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
@@ -22,7 +21,6 @@ This is a curated meta list that contains links to other awesome curated lists, 
 
 
 ## JavaScript
-
 - [domchristie/turndown](https://github.com/domchristie/turndown) - An HTML to Markdown converter written in JavaScript.
 - [uhub/awesome-javascript](https://github.com/uhub/awesome-javascript) - A curated list of awesome JavaScript frameworks, libraries and software.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
@@ -40,20 +38,22 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 
 ## Windows/.NET/C#
-
+- [awesome-dotnet-winforms](https://github.com/tbolon/awesome-dotnet-winforms) - .NET WinForms Libraries.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks, and software.
 - [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - A curated list of awesome C-Sharp frameworks, libraries and software.
 
-## Java/Android
+## Pascal
+- [Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things.
+- [jbsolucoes/pascalawesome](https://github.com/jbsolucoes/pascalawesome) - Pascal Awesome (Delphi/Lazarus/FPC).
 
+## Java/Android
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java.
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Open Source Spring-MVC projects](https://stackoverflow.com/questions/2604655/any-open-source-spring-sample-project-thats-bigger-than-petclinic)
 
 ## Others
-
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
@@ -81,7 +81,6 @@ This is a curated meta list that contains links to other awesome curated lists, 
 
 
 ## Metalists
-
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
