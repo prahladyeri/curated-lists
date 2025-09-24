@@ -29,6 +29,6 @@ Curated lists for a variety of awesome things.
 - [Python-PyPI](check_lists/python-pypi.md) - Publishing a package to PyPi.
 - [Travel 101: HUGE List of things to pack before leaving for a short vacation or journey](https://freelancemag.blogspot.com/2021/12/travel-101-huge-list-of-things-to-pack.html)
 - [Pastime 101: HUGE List of Ideas for passing time when you are bored](https://freelancemag.blogspot.com/2020/12/pastime-101-huge-list-of-ideas-for.html)
-- [Dealing With Writer's Block: The Ultimate Checklist](https://prahladyeri.com/blog/2022/01/dealing-with-writers-block-the-ultimate-checklist.html)
-- [Checklist to Generate A Never Ending Supply of Blog Posts](https://prahladyeri.com/blog/2022/01/how-to-generate-a-never-ending-supply-of-blog-posts.html)
+- [Dealing With Writer's Block: The Ultimate Checklist](https://prahladyeri.github.io/blog/2022/01/dealing-with-writers-block-the-ultimate-checklist.html)
+- [Checklist to Generate A Never Ending Supply of Blog Posts](https://prahladyeri.github.io/blog/2022/01/how-to-generate-a-never-ending-supply-of-blog-posts.html)
 - [Frugal Living 101: HUGE list of ways to curb your home expenses during COVID times](https://the-evolving-web.blogspot.com/2020/12/frugal-living-101-huge-list-of-ways-to.html)
