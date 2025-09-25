@@ -1,13 +1,18 @@
 ## 🛰️ Important articles and links
 - [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) Infamous PHP Critique written in 2012, helped language evolve a lot since.
 - [Re-visiting »PHP: a fractal of bad design« in 2020](http://maettig.com/2020-09-16-revisiting-a-fractal-of-bad-design)
+- [PHP 8 Features Overview](https://www.php.net/releases/8.0/)
 - [PHP Delusions](https://phpdelusions.net/) - PHP evolves and improves because it accepts criticism gracefully.
+- [OWASP - PHP Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Security_Cheat_Sheet.html)
 
 ## 📘 Official docs and other resources
 - [PHP Official docs](http://php.net/manual/en/)
 - [PHP-FIG - Standards matter](http://www.php-fig.org/psr/psr-4/)
 - [A brief introduction to PHP Namespacing](https://mattstauffer.co/blog/a-brief-introduction-to-php-namespacing)
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [PHP RFCs](https://www.php.net/rfc) - For keeping up with proposed changes.
+- [PHPStan](https://phpstan.org/) - Popular tool for type safety and static analysis.
+- [Psalm](https://psalm.dev/) - Popular tool for type safety and static analysis.
 - [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 - [codeigniter-id/awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
