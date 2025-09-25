@@ -28,8 +28,9 @@
 - [Laminas Project](https://getlaminas.org/) (formerly zend framework) - An open source, object-oriented web application framework implemented in PHP 7 and licensed under the New BSD License.
 
 ## 📝 CMS
-- [Drupal](https://drupal.org/) - Multi-purpose CMS, powers the White House.
-- [Wordpress](https://wordpress.org/) - Powers most blogs of this world.
+- [Wordpress](https://wordpress.org/) - Blogging CMS, powers many websites on this planet.
+- [Drupal](https://drupal.org/) - Multi-purpose CMS, used to be very popular at one time.
+- [Backdrop CMS](https://backdropcms.org/) - Fork of Drupal 7, lighter-weight for smaller sites.
 - [Fuelcms](https://www.getfuelcms.com/) - Built with CodeIgniter, FuelCMS is a popular and reputed name in the PHP world.
 - [Joomla](http://developer.joomla.org) - CMS helping both novice users and expert developers to create powerful websites and applications.
 - [Magento](http://magento.com/) - Powers many shopping carts.
@@ -39,6 +40,7 @@
 ## 🛠️ Libraries
 - [phpunit](https://github.com/sebastianbergmann/phpunit/) - Standard unit testing framework in the php world.
 - [prophecy](https://packagist.org/packages/phpspec/prophecy) - Highly opinionated mocking framework for PHP.
+- [Carbon](https://carbon.nesbot.com/) - Popular date/time handling library.
 - [mockery](https://packagist.org/packages/mockery/mockery) - Simple yet flexible PHP mock object framework.
 - [php-parser](https://packagist.org/packages/nikic/php-parser) - PHP parser written in PHP.
 - [guzzle](https://github.com/guzzle/guzzle) - HTTP client library for PHP.
@@ -57,11 +59,13 @@
 - [EclipsePDT](https://eclipse.org/pdt/) - The IDE used by most professional `php` developers.
 - [PHPStorm](http://www.jetbrains.com/phpstorm) - Another great IDE which has a big number of fans.
 - [Zend IDE](http://www.zend.com/products/studio) - A proprietary `php` IDE.
+- [Xdebug](https://xdebug.org/) - Debugging and profiling tool for PHP.
 
 ## 📚 Online tutorials, books, puzzles, forums
-- [w3schools - PHP](https://www.w3schools.com/php/)
-- [CodeIgniter forums](https://forum.codeigniter.com/)
+- [w3schools - PHP](https://www.w3schools.com/php/) - Useful resource to learn PHP.
+- [PHP Internals Book](https://www.phpinternalsbook.com/) - Understanding the internals of PHP itself.
 - [PHP the right way](http://www.phptherightway.com/)
+- [CodeIgniter forums](https://forum.codeigniter.com/)
 - [HTMLgoodies PHP tutorials](http://www.htmlgoodies.com/beyond/php)
 - [Tizag PHP tutorials](http://www.tizag.com/phpT)
 - [Nettuts+](http://net.tutsplus.com/category/tutorials/php)
@@ -71,6 +75,7 @@
 ## 🌐 Blogs and Help sites
 
 - [Laravel News](https://laravel-news.com) - Laravel News is the official blog of Laravel.
+- [PHPWeekly](https://www.phpweekly.com/) - Weekly newsletter of PHP news, tutorials, and packages.
 - [PHP Gurukul](https://phpgurukul.com/) - PHP Programming Blog with many examples and sample projects, started by a Delhiite named Anuj Kumar.
 - [www.phpclasses.org](https://www.phpclasses.org/) - PHP Classes Repository.
 - [php\[architect\]](https://www.phparch.com/) - A magazine dedicated to PHP programming language. It was founded in 2002 by Marco Tabini and his group The BlueParabola.
