@@ -12,7 +12,9 @@
 * **[Krita](https://krita.org/en/)** – A professional free and open-source painting program.
 
 ### 🧪 Development Tools
+* **[Notepad++](https://notepad-plus-plus.org/)** - Lightweight, highly useful code-editor for Windows.
 * **[Visual Studio Code](https://code.visualstudio.com/)** – A free, open-source code editor with support for debugging, task running, and version control.
+* **[ConEmu](https://github.com/ConEmu/ConEmu)** - Customizable Windows terminal with tabs, splits.
 * **[Git](https://git-scm.com/)** – A free and open-source distributed version control system to track changes in source code during software development.
 * **[Docker](https://www.docker.com/)** – A platform for developing, shipping, and running applications inside containers.
 * **[Postman](https://www.postman.com/)** – A collaboration platform for API development.
@@ -27,11 +29,6 @@
 * **[Transmission](https://transmissionbt.com/)** – A fast, easy, and free multi-platform BitTorrent client.
 * **[Wireshark](https://www.wireshark.org/)** – A network protocol analyzer for Unix and Windows.
 
-### 🧠 AI & Machine Learning
-* **[TensorFlow](https://www.tensorflow.org/)** – An open-source machine learning framework for everyone.
-* **[PyTorch](https://pytorch.org/)** – An open-source machine learning library based on the Torch library.
-* **[Scikit-learn](https://scikit-learn.org/)** – A simple and efficient tools for predictive data analysis built on NumPy, SciPy, and matplotlib.
-
 ### 🎮 Gaming & Entertainment
 * **[Steam](https://store.steampowered.com/)** – A digital distribution platform for video games.
 * **[GOG Galaxy](https://www.gog.com/galaxy)** – A DRM-free gaming platform.
@@ -43,10 +40,14 @@
 * **[Jupyter Notebook](https://jupyter.org/)** – An open-source web application that allows creation and sharing of documents that contain live code, equations, visualizations, and narrative text.
 
 ### 🛠️ Miscellaneous Tools
-* **[Notepad++](https://notepad-plus-plus.org/)** – A free source code editor and Notepad replacement.
 * **[7-Zip](https://www.7-zip.org/)** – A free and open-source file archiver.
+* **[Rufus](https://rufus.ie/)** - Create bootable pen drives the easy way.
 * **[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)** – A slim, free, open-source PDF reader for Windows.
 
+### 🧠 AI & Machine Learning
+* **[TensorFlow](https://www.tensorflow.org/)** – An open-source machine learning framework for everyone.
+* **[PyTorch](https://pytorch.org/)** – An open-source machine learning library based on the Torch library.
+* **[Scikit-learn](https://scikit-learn.org/)** – A simple and efficient tools for predictive data analysis built on NumPy, SciPy, and matplotlib.
 
 ### 💡 Grammar Checkers
 * **[LanguageTool](https://github.com/languagetool-org/languagetool)** – Open-source style and grammar checker for **25+ languages**. Works as a **desktop app, browser extension, LibreOffice plugin, and server API**.
@@ -55,3 +56,4 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
