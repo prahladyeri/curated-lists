@@ -1,4 +1,4 @@
-# C# Programming Resources
+# C# Resources
 
 ## 📂 Apps
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen.
@@ -23,6 +23,7 @@
 - [ClosedXML, Excel manipulation library - XLSX/XLSM Only](https://github.com/ClosedXML/ClosedXML) - [nuget](https://www.nuget.org/packages/ClosedXML)
 - [ExcelDataReader, Excel library - both XLS/XLSX formats](https://github.com/ExcelDataReader/ExcelDataReader) - [nuget](https://www.nuget.org/packages/ExcelDataReader)
 - [ZXing.NET - Barcode reading/creation](https://github.com/micjahn/ZXing.Net/) - [nuget](https://github.com/micjahn/ZXing.Net/)
+
 
 
 
