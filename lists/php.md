@@ -18,9 +18,11 @@
 - [codeigniter-id/awesome-codeigniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 
 ## 🧰 Frameworks
-- [Symfony](http://symfony.com) - Popular and highly used PHP framework, inspired by Java's spring.
-- [CodeIgniter](https://www.codeigniter.com/) - Another good PHP framework, created by Ellis Labs and presently maintained by British Columbia Institute of Technology (BCIT).
-- [Laravel](https://laravel.com) - Yet another PHP web framework, created and promoted by Taylor Otwell.
+- [Laravel](https://laravel.com) - Most popular PHP web framework, developed by Taylor Otwell.
+- [Lumen](https://lumen.laravel.com/) - Micro-framework based on Laravel for building APIs quickly.
+- [Symfony](http://symfony.com) - Another highly used PHP framework, inspired by Java's spring.
+- [CodeIgniter](https://www.codeigniter.com/) - Another great PHP framework, created by Ellis Labs and presently maintained by British Columbia Institute of Technology (BCIT).
+- [Slim](https://www.slimframework.com/) - Lightweight micro-framework for APIs.
 - [yii](http://www.yiiframework.com/) - Developed by Yahoo Inc., the word literally means "simple and evolutionary" in Chinese language, and is also an acronym for "Yes, It Is!".
 - [cakephp](https://cakephp.org/) - Based on the MVC approach, modeled after Ruby on Rails.
 - [Laminas Project](https://getlaminas.org/) (formerly zend framework) - An open source, object-oriented web application framework implemented in PHP 7 and licensed under the New BSD License.
