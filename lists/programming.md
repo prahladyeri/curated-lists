@@ -85,7 +85,6 @@
 - [SoloLearn](https://www.sololearn.com/) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too!
 - [Free Code Camp](https://www.freecodecamp.org) - Fun and gamified way of learning web development. You can even try this if you already are a programmer and just want to exercise your coding muscles.
 - [Saylor Academy](https://learn.saylor.org) - Non profit Australian Academy offering various CS courses. Highly recommended!
-- [Open2Study](https://www.open2study.com/courses) - Launched in April 2013 by a [collaboration of several Australian universities](http://www.thegoodmooc.com/2013/06/a-review-of-open2study.html). The number of programming specific courses is currently small, but should grow in future considering that they are more leaning towards career-oriented than core academic courses.
 - [MIT Open Courseware](http://ocw.mit.edu/index.htm) - One of the best online resource to get learning content. However, you won't get any certificates on course completion.
 - [Stanford Online](http://online.stanford.edu/about) - Another great university that provisions learning content through the online channel. Again, no certificates, but still great course content.
 - [Coursera](https://www.coursera.org/courses?query=php) - Comprehensive curriculum and large number of programming courses to choose from. No free certificates though.
@@ -108,27 +107,22 @@
 
 - [notepad++](https://notepad-plus-plus.org/): Less of an IDE and more of a code-editor to be honest but happens to be my favorite.
 - [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ but highly popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
-- [atom/atom](https://github.com/atom/atom): Similar to above, Atom is another JavaScript editor, quite popular these days.
 - [Netbeans](https://netbeans.apache.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
 - [Eclipse](https://eclipse.org): Another Java veteran's IDE, a strong competitor to Netbeans.
 
+## Coding Forums
 
-
-## Reddit Programming Help
-
-- [Reddit Programming Help](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this site, whether its learning, tips, guidance or just the satisfaction of helping a fellow developer.
+- [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
 - [Programming Wiki](https://www.reddit.com/r/learnprogramming/wiki)
 - [Wiki/Online resources](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_online_resources)
 - [Books/Offline resources](http://www.reddit.com/r/learnprogramming/wiki/books)
 
-## Libraries and APIs
-
-- [Octokit client libraries](https://developer.github.com/libraries/) - Octokit library is used to access the github API. This comes in multiple flavors and languages including .NET, Ruby and Java.
-
 ## Other Programming resources
+- [CP-Algorithms (e-maxx)](https://cp-algorithms.com/)
 - [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here.
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
-- [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
+- [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
