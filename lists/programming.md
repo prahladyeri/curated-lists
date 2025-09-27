@@ -103,12 +103,13 @@
 - [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
-## Integrated Development Environments (IDE)
+## IDEs and Editors
 
-- [notepad++](https://notepad-plus-plus.org/): Less of an IDE and more of a code-editor to be honest but happens to be my favorite.
-- [microsoft/vscode](https://github.com/microsoft/vscode): This is more like a glorified notepad++ but highly popular and currently trending. It runs a bit slower though due to it being written in JavaScript.
-- [Netbeans](https://netbeans.apache.org/): The conservative Java veteran's IDE! Unlike the above two, this one is a fully fledged IDE and supports advanced things like code refactoring and navigation.
-- [Eclipse](https://eclipse.org): Another Java veteran's IDE, a strong competitor to Netbeans.
+- [notepad++](https://notepad-plus-plus.org/): Lightest and must-have code-editor for winodws.
+- [microsoft/vscode](https://github.com/microsoft/vscode): Feature filled Editor or light-weight IDE, perhaps the most popular of our times. But the official version comes with telemetry and proprietary features, better go for vscodium instead if you prefer FOSS 👇
+- [vscodium](https://github.com/VSCodium/vscodium/): Open source version of vscode without telemetry, but only mainstream plugins work in this version like omnisharp (C#) and intelliphense (PHP), no copilot and other proprietary stuff.
+- [Eclipse](https://eclipse.org): The Java veteran's effective IDE.
+- [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
 
 ## Coding Forums
 
@@ -123,6 +124,4 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
-
-
 
