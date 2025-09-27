@@ -23,7 +23,6 @@
 - [Krasimir Tsonev](https://krasimirtsonev.com/) - Writer, Speaker and Coder.
 - [Bruce Eckel](https://www.bruceeckel.com/)
 - [Schneier on Security](https://www.schneier.com/)
-- `Caution: below don't have a tranco domain rank:`
 - [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
 - [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
 - [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
@@ -131,4 +130,5 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
