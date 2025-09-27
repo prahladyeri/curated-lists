@@ -4,6 +4,10 @@
 
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
+- [Martin Fowler](https://martinfowler.com/) – His blog is seminal for software architecture, refactoring, and agile practices.
+- [Kent Beck](https://tidyfirst.substack.com/) – Father of XP, TDD, and agile methodology.
+- [Steve Yegge](https://steve-yegge.blogspot.com/) - Famous essays on programming culture, Google/Amazon, platforms.
+- [Paul Graham (Essays)](https://www.paulgraham.com/articles.html) - Foundational writings on programming, startups, Lisp, etc.
 - [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
 - [Adam the Automator](https://adamtheautomator.com/)
 - [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
@@ -127,3 +131,4 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
