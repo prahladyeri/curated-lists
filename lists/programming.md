@@ -9,6 +9,7 @@
 - [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
 
 ## Compilers and Interpreters
+- [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
 - [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) - C/C++ toolchain for your Windows PC.
 - [Official CPython Interpreter](https://www.python.org/downloads/)
 - [Ruby Interpreter](https://www.ruby-lang.org/en/downloads/)
@@ -129,6 +130,7 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
 
