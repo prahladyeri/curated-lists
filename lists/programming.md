@@ -1,6 +1,19 @@
 # Programming Resources
 
-## Top programming author blogs
+## IDEs and Editors
+
+- [notepad++](https://notepad-plus-plus.org/): Lightest and must-have code-editor for winodws.
+- [microsoft/vscode](https://github.com/microsoft/vscode): Feature filled Editor or light-weight IDE, perhaps the most popular of our times. But the official version comes with telemetry and proprietary features, better go for vscodium instead if you prefer FOSS 👇
+- [vscodium](https://github.com/VSCodium/vscodium/): Open source version of vscode without telemetry, but only mainstream plugins work in this version like omnisharp (C#) and intelliphense (PHP), no copilot and other proprietary stuff.
+- [Eclipse](https://eclipse.org): The Java veteran's effective IDE.
+- [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
+
+## Compilers and Interpreters
+- [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) - C/C++ toolchain for your Windows PC.
+- [Official CPython Interpreter](https://www.python.org/downloads/)
+- [Ruby Interpreter](https://www.ruby-lang.org/en/downloads/)
+
+## Expert programmer blogs
 
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
@@ -103,19 +116,6 @@
 - [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
-## IDEs and Editors
-
-- [notepad++](https://notepad-plus-plus.org/): Lightest and must-have code-editor for winodws.
-- [microsoft/vscode](https://github.com/microsoft/vscode): Feature filled Editor or light-weight IDE, perhaps the most popular of our times. But the official version comes with telemetry and proprietary features, better go for vscodium instead if you prefer FOSS 👇
-- [vscodium](https://github.com/VSCodium/vscodium/): Open source version of vscode without telemetry, but only mainstream plugins work in this version like omnisharp (C#) and intelliphense (PHP), no copilot and other proprietary stuff.
-- [Eclipse](https://eclipse.org): The Java veteran's effective IDE.
-- [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
-
-## Compilers and Interpreters
-- [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) - C/C++ toolchain for your Windows PC.
-- [Official CPython Interpreter](https://www.python.org/downloads/)
-- [Ruby Interpreter](https://www.ruby-lang.org/en/downloads/)
-
 ## Coding Forums
 
 - [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
@@ -129,5 +129,6 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
