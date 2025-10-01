@@ -111,6 +111,11 @@
 - [Eclipse](https://eclipse.org): The Java veteran's effective IDE.
 - [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
 
+## Compilers and Interpreters
+- [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) - C/C++ toolchain for your Windows PC.
+- [Official CPython Interpreter](https://www.python.org/downloads/)
+- [Ruby Interpreter](https://www.ruby-lang.org/en/downloads/)
+
 ## Coding Forums
 
 - [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
@@ -124,4 +129,5 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
