@@ -1,20 +1,20 @@
 # Programming Resources
 
-## IDEs and Editors
+## 📃 IDEs and Editors
 
-- [notepad++](https://notepad-plus-plus.org/): Lightest and must-have code-editor for winodws.
-- [microsoft/vscode](https://github.com/microsoft/vscode): Feature filled Editor or light-weight IDE, perhaps the most popular of our times. But the official version comes with telemetry and proprietary features, better go for vscodium instead if you prefer FOSS 👇
+- [notepad++](https://notepad-plus-plus.org/): Must have code-editor for Windows platform.
+- [microsoft/vscode](https://github.com/microsoft/vscode): Call it feature filled code editor or light IDE, perhaps the most popular of our times.
 - [vscodium](https://github.com/VSCodium/vscodium/): Open source version of vscode without telemetry, but only mainstream plugins work in this version like omnisharp (C#) and intelliphense (PHP), no copilot and other proprietary stuff.
 - [Eclipse](https://eclipse.org): The Java veteran's effective IDE.
 - [Netbeans](https://netbeans.apache.org/): Another popular Java IDE. Sadly, Apache didn't do much justice to it after Oracle pushed it to the incubator.
 
-## Compilers and Interpreters
+## 🔡 Compilers and Interpreters
 - [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
 - [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) - C/C++ toolchain for your Windows PC.
 - [Official CPython Interpreter](https://www.python.org/downloads/)
 - [Ruby Interpreter](https://www.ruby-lang.org/en/downloads/)
 
-## Expert programmer blogs
+## 📚 Expert programmer blogs
 
 - [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
 - [Joel on Software](https://www.joelonsoftware.com/)
@@ -46,7 +46,7 @@
 - [Oliver Marshall](https://olivermarshall.net/)
 - [Joseph Scott](https://blog.josephscott.org/)
 
-## Coding forums, weblogs and discussion sites
+## 🌐 Coding forums, weblogs and discussion sites
 
 - [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
 - [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
@@ -74,14 +74,18 @@
 - [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 - [MIT App Inventor Community](https://community.appinventor.mit.edu/top?period=weekly) - Community forum for Android developers. Beware and cautioned if you don't belong to the chosen tribe though, you might face some extraordinary toxicity and racism here.
 - [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
+- [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
+- [Programming Wiki](https://www.reddit.com/r/learnprogramming/wiki)
+- [Wiki/Online resources](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_online_resources)
+- [Books/Offline resources](http://www.reddit.com/r/learnprogramming/wiki/books)
 
-## Podcasts
+## 🎤 Podcasts
 
 - [Oxycast](https://oxylabs.io/resources/oxycast) - A tech podcast related to web scraping hosted by Oxylabs, a leading proxy solutions provider.
 - [How I built this](https://www.npr.org/series/490248027/how-i-built-this) - As the name indicates, they bring together entrepreneurs, inventors, etc. who have created innovative and mind blowing things to discuss how these things came about. The podcast is intended for a general audience, not just technical people.
 - [Thoughtworks Technology Podcast](https://open.spotify.com/show/6RBb4pGRgOFTmtCDSfTWvu) - Primarily a programming podcast.
 
-## Vlogs/Youtube
+## 📹 Vlogs/Youtube
 
 - [Changelog](https://www.youtube.com/c/Changelog) - News and podcast for developers.
 - [Python Bytes](https://www.youtube.com/c/PythonBytesPodcast) - Weekly podcast by Michael Kennedy and Brian Okken.
@@ -93,8 +97,7 @@
 - [Indie Hackers](https://www.youtube.com/channel/UC36zt_eM_gZQXayw_pAdASg) - Interviews of programmers who turned their side-projects into profitable businesses.
 - [Jupiter Broadcasting](https://www.youtube.com/c/JupiterBroadcasting) - Tech podcast, content from different sources.
 
-
-## MOOC (Massive Online Open Courses)
+## 🏫 MOOC (Massive Online Open Courses)
 
 - [SoloLearn](https://www.sololearn.com/) - My personal favorite! They have a mind blowing quiz/gamified way of teaching programming and what's more, they provide free online/PDF certificates on successful completion too!
 - [Free Code Camp](https://www.freecodecamp.org) - Fun and gamified way of learning web development. You can even try this if you already are a programmer and just want to exercise your coding muscles.
@@ -105,7 +108,7 @@
 - [edX.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now.
 - [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 
-## Puzzles, quizzes and riddles to exercise your coding muscles	
+## 🎲 Puzzles, quizzes and riddles to exercise your coding muscles	
 
 - [Kattis](https://open.kattis.com/) - Keep solving coding problems and keep earning reputation points for you, your university and your country!
 - [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level.
@@ -117,20 +120,10 @@
 - [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
-## Coding Forums
-
-- [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
-- [Programming Wiki](https://www.reddit.com/r/learnprogramming/wiki)
-- [Wiki/Online resources](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_online_resources)
-- [Books/Offline resources](http://www.reddit.com/r/learnprogramming/wiki/books)
-
-## Other Programming resources
+## 🌐 Other Programming resources
 - [CP-Algorithms (e-maxx)](https://cp-algorithms.com/)
 - [Dictionary of Algorithms and Data Structure](http://xlinux.nist.gov/dads/) - Visit this site if you run out of ideas for program creation. Almost every algorithm invented by mankind can be found here.
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
-
-
-
 
