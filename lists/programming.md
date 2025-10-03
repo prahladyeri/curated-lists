@@ -16,68 +16,41 @@
 
 ## 📚 Expert programmer blogs
 
-- [Coding Horror Blog - Jeff Atwood](https://blog.codinghorror.com/)
-- [Joel on Software](https://www.joelonsoftware.com/)
-- [Martin Fowler](https://martinfowler.com/) – His blog is seminal for software architecture, refactoring, and agile practices.
-- [Kent Beck](https://tidyfirst.substack.com/) – Father of XP, TDD, and agile methodology.
-- [Steve Yegge](https://steve-yegge.blogspot.com/) - Famous essays on programming culture, Google/Amazon, platforms.
-- [Paul Graham (Essays)](https://www.paulgraham.com/articles.html) - Foundational writings on programming, startups, Lisp, etc.
-- [Scott Hanselman - Coder, Blogger, Teacher, Speaker, Author](https://www.hanselman.com/)
-- [Adam the Automator](https://adamtheautomator.com/)
-- [Ray Wenderlich](https://www.raywenderlich.com/) - Tutorials for iPhone & iOS Developers and Gamers
-- [Julia Evans](https://jvns.ca/)
-- [Alvina Alexander - Java, Scala, Unix, MacOS Tutorials](https://alvinalexander.com/)
-- [Rick Brewster](https://blog.getpaint.net/) - Author of Paint.NET, popular open source C# app.
-- [Dedoimedo - A place to learn a lot about a lot](https://www.dedoimedo.com/)
-- [The Crazy Programmer](https://www.thecrazyprogrammer.com/) - It will guide you through the simplest basics of Java, Android, PHP, SQL and many more languages.
-- [Java, SQL and jOOQ](https://blog.jooq.org/) - Best Practices and Lessons.
-- [Chris Siebenmann](https://utcc.utoronto.ca/~cks/space/blog/)
-- [Ian Bicking - Home Page](https://www.ianbicking.org/)
-- [Ircmaxell's blog](https://blog.ircmaxell.com/)
-- [Krasimir Tsonev](https://krasimirtsonev.com/) - Writer, Speaker and Coder.
-- [Bruce Eckel](https://www.bruceeckel.com/)
-- [Schneier on Security](https://www.schneier.com/)
-- [Thinkdiff - Story telling by a computer programmer](https://thinkdiff.net/)
-- [Tim Hopper - Machine Learning, Photography](https://tdhopper.com/)
-- [Coding Alpha](https://www.codingalpha.com/) - Programming articles, codes and how-to tutorials for beginners.
-- [A Weird Imagination](https://aweirdimagination.net/)
-- [Boutros AbiChedid](https://bacsoftwareconsulting.com/blog/index.php/about/)
-- [Nick Basile](https://nick-basile.com/)
-- [Oliver Marshall](https://olivermarshall.net/)
-- [Joseph Scott](https://blog.josephscott.org/)
+* [Coding Horror – Jeff Atwood](https://blog.codinghorror.com/)
+* [Joel on Software – Joel Spolsky](https://www.joelonsoftware.com/)
+* [Martin Fowler](https://martinfowler.com/)
+* [Kent Beck](https://tidyfirst.substack.com/)
+* [Steve Yegge](https://steve-yegge.blogspot.com/)
+* [Paul Graham (Essays)](https://www.paulgraham.com/articles.html)
+* [Scott Hanselman](https://www.hanselman.com/)
+* [Julia Evans](https://jvns.ca/)
+* [Java, SQL and jOOQ – Lukas Eder](https://blog.jooq.org/)
+* [Schneier on Security](https://www.schneier.com/) – not strictly programming, but seminal in security/crypto.
+* [Brendan Eich](https://brendaneich.com/) – creator of JavaScript.
+* [John Resig](https://johnresig.com/blog/) – creator of jQuery.
+* [Dan Abramov](https://overreacted.io/) – co-author of Redux, React core team.
+* [Guido van Rossum (Python)](https://gvanrossum.github.io/) – Python’s creator (not a frequent blogger, but historically important).
+* [Lambda the Ultimate](http://lambda-the-ultimate.org/) – programming languages theory hub.
+* [Ars Technica’s Dev section](https://arstechnica.com/information-technology/) – not a personal blog, but very influential in developer reporting.
 
 ## 🌐 Coding forums, weblogs and discussion sites
 
-- [Stack Overflow](https://stackoverflow.com) - The bread and butter of most programmers.
-- [Super User](https://superuser.com/) - Though not specific to programming, but very useful nevertheless.
-- [Daniweb](https://www.daniweb.com/articles/latest/recommended) - This is one of the oldest web forum on the Internet which is still thriving! The web-masters are great folks and the discussion is mostly centered around web development and technologies like PHP.
-- [Sitepoint Community Forums](https://www.sitepoint.com/community/) - An online community of web professionals, prides itself on being "the web's best resource" for web developers to keep up-to-date and learn JavaScript, CSS, UX, WordPress, PHP and more.
-- [Freecodecamp forums](https://forum.freecodecamp.org/)
-- [Eclipse Forums](https://www.eclipse.org/forums/index.php/i/)
-- [CodeRanch Forums](https://coderanch.com/forums/)
-- [CodeProject Community Lounge](https://www.codeproject.com/Lounge.aspx)
-- [Hackernoon contributors club](https://community.hackernoon.com/)
-- [Github Community Discussions](https://github.com/community/community/discussions)
-- [WordPress community forum](https://wordpress.org/support/forums/)
-- [Dev.to](https://dev.to) - More of a social media for coders, geared towards beginners.
-- [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
-- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Yet another social coding and discussion site, quite reputed and popular in programming circles.
-- [Hashnode](https://hashnode.com/) - Yet another discussion site where you can make blog posts, adding to the diverse geek culture.
-- [Dzone](https://dzone.com/) - They have programming articles and also [refcardz](https://dzone.com/refcardz) or infographic PDFs to help you with learning and recall.
-- [AnandTech Forums](https://forums.anandtech.com/)
-- [Lazarus IDE \(FreePascal\) community forum](https://forum.lazarus.freepascal.org/)
-- [Hackr.io](https://hackr.io/blog) - Insightful articles by the Hackr programming and Design community.
-- [CodePen Blog](https://blog.codepen.io/) - The co-founders of CodePen talk about the ins and outs of running a web software business.
-- [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
-- [Better Programming](https://medium.com/better-programming) - Programming advice. They cover code tutorials, leadership and management, productivity and coffee.
-- [Stack Abuse](https://stackabuse.com/) - News, articles, and ideas for software engineers and web developers.
-- [Codrops](https://tympanus.net/codrops/) - Web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
-- [MIT App Inventor Community](https://community.appinventor.mit.edu/top?period=weekly) - Community forum for Android developers. Beware and cautioned if you don't belong to the chosen tribe though, you might face some extraordinary toxicity and racism here.
-- [PHPFreaks - PHP discussion forum](https://forums.phpfreaks.com/)
-- [Learn Programming subreddit](http://www.reddit.com/r/learnprogramming) - A must-visit place for every programmer. You will definitely gain something from this sub, whether it's learning, tips, guidance or just the satisfaction of helping a fellow developer.
-- [Programming Wiki](https://www.reddit.com/r/learnprogramming/wiki)
-- [Wiki/Online resources](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_online_resources)
-- [Books/Offline resources](http://www.reddit.com/r/learnprogramming/wiki/books)
+* [Stack Overflow](https://stackoverflow.com) – Core Q&A hub for programming.
+* [FreeCodeCamp Forum](https://forum.freecodecamp.org/) – Very active, beginner-friendly, great for mentorship and open-source.
+* [Dev.to](https://dev.to) – Social blogging for developers, huge community.
+* [GeeksForGeeks](https://www.geeksforgeeks.org/) – Popular tutorials and discussions, especially in India & CS circles.
+* [Hashnode](https://hashnode.com/) – Blogging platform for devs, well-regarded alternative to Medium.
+* [DZone](https://dzone.com/) – Longstanding, respected hub with tutorials + refcardz.
+* [GitHub Community Discussions](https://github.com/community/community/discussions) – Official space for dev collaboration and meta topics.
+* [Lazarus/Pascal Coding Forum](https://forum.lazarus.freepascal.org/)
+* [Eclipse Forum](https://www.eclipse.org/forums/index.php/i/)
+* [Code Project](https://www.codeproject.com/) - If you are into C#/VB.NET, this site is for you.
+* [Reddit r/learnprogramming](http://www.reddit.com/r/learnprogramming) – Massive, highly active community.
+* [A Technologists POV](https://medium.com/a-technologists-pov) - A Publication focused on software development and developing as a technology leader.
+* [Hacker News](https://news.ycombinator.com/) – Essential for dev/startup culture, news, and discussion.
+* [Lobsters](https://lobste.rs/) – Hacker News-style, but smaller and more curated.
+* [Ars Technica – IT/Dev section](https://arstechnica.com/information-technology/) – Longstanding publication with serious dev/tech journalism.
+* [Mozilla Hacks Blog](https://hacks.mozilla.org/) – Authoritative on web standards, JS, and browsers.
 
 ## 🎤 Podcasts
 
@@ -126,4 +99,5 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
