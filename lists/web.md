@@ -1,11 +1,5 @@
 # WebDev Resources
 
-## Free or Creative Commons Assets
-- [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
-- [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
-- [Pexels](https://www.pexels.com/) - Royalty free images.
-- [Unsplash](https://unsplash.com/) - Royalty free images.
-
 ## Official docs and other resources
 - [Tailwind Components](https://tailwindcomponents.com/) - An inspirational collection of tailwind styles.
 - [Mozilla - Official docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -56,6 +50,53 @@ to your HTML tables the free & easy way.
 - [AngularJS - Official docs](https://angularjs.org/) - A mind-blowing MVC framework to lay out a framework for large MVC apps on the front-end. Extensively used along with `Twitter Bootstrap`.
 - [Vue.js](https://en.wikipedia.org/wiki/Vue.js) - Open source JavaScript framework for building user interfaces and single page applications.
 - [Backbone.js](https://github.com/jashkenas/backbone)- A light-weight JavaScript framework based on MVP paradigm, designed for developing single page applications.
+
+## Creative Commons Assets
+- [Google Fonts](https://www.google.com/fonts/) - Get professional quality fonts for free - courtesy of Google Inc.
+- [FontAwesome.io](http://fontawesome.io/examples/) - Open source vector based fonts covering all varieties, a boon for Web Developers.
+- [Pexels](https://www.pexels.com/) - Royalty free images.
+- [Unsplash](https://unsplash.com/) - Royalty free images.
+* [**Google Fonts**](https://www.google.com/fonts/) – Free, professional-quality fonts provided by Google. Easy to integrate via CSS, with extensive language support and variable fonts for modern responsive design.
+* [**FontAwesome**](https://fontawesome.io/) – Open-source vector icons and font toolkit covering thousands of symbols. Ideal for buttons, menus, and UI elements without using images.
+* [**Pexels**](https://www.pexels.com/) – High-resolution, royalty-free stock photos and videos. Searchable, curated collections, great for hero sections, backgrounds, or placeholders.
+* [**Unsplash**](https://unsplash.com/) – Popular source of royalty-free images contributed by photographers worldwide. Offers wide variety and professional quality, often used in landing pages and blogs.
+* [**Pixabay**](https://pixabay.com/) – Free images, illustrations, vectors, and videos under Creative Commons CC0 license. Perfect for websites, apps, and multimedia projects.
+* [**OpenClipart**](https://openclipart.org/) – Thousands of free vector clipart images, fully editable in SVG format. Useful for icons, infographics, and lightweight graphics.
+* [**Freesound**](https://freesound.org/) – Creative Commons-licensed sound effects and audio snippets. Handy for interactive websites, games, or prototypes.
+* [**The Noun Project**](https://thenounproject.com/) – Extensive library of icons with flexible licensing options. Free for attribution; subscription available for royalty-free use.
+* [**Coverr**](https://coverr.co/) – Free stock videos for headers, hero sections, and background animations on websites. No attribution required.
+* [**Google Material Icons**](https://material.io/resources/icons/) – Free, high-quality icons designed for web and mobile interfaces. Easily customizable and scalable.
+
+
+## **Illustrations & Graphics**
+
+* [**Undraw**](https://undraw.co/illustrations) – Open-source illustrations, customizable via color. Perfect for dashboards, landing pages, and onboarding flows.
+* [**Humaaans**](https://www.humaaans.com/) – Mix-and-match vector illustrations of people, fully free for commercial use. Great for diverse user-centric UI mockups.
+* [**IRA Design by Creative Tim**](https://iradesign.io/) – Modular, free vector illustrations with adjustable colors and layers. Ideal for modern web apps.
+* [**ManyPixels**](https://www.manypixels.co/gallery) – Free, royalty-free illustrations with monthly updates. Supports commercial and personal projects.
+
+## **Icons & UI Components**
+
+* [**Feather Icons**](https://feathericons.com/) – Open-source, minimalistic icons perfect for modern web design.
+* [**Heroicons**](https://heroicons.com/) – Beautiful, MIT-licensed SVG icons, designed for Tailwind CSS and responsive web projects.
+* [**Bootstrap Icons**](https://icons.getbootstrap.com/) – Free, vector-based icons, easy to integrate with Bootstrap or any frontend framework.
+
+## **Animations & Motion**
+
+* [**LottieFiles**](https://lottiefiles.com/) – Free, lightweight animations in JSON format. Integrates with web, mobile apps, and frameworks like React and Flutter.
+* [**Animate.css**](https://animate.style/) – Open-source CSS animation library for subtle UI animations (fade, bounce, slide, etc.).
+* [**Motion One**](https://motion.dev/) – Tiny, performant JavaScript library for modern web animations, perfect for micro-interactions.
+
+## **UI Kits & Templates**
+
+* [**Tailwind UI (Free Components)**](https://tailwindui.com/components) – While premium, the free section provides well-designed, responsive components ready to drop into projects.
+* [**UI Kitten**](https://akveo.github.io/react-native-ui-kitten/) – Free React Native UI Kit, open-source, customizable for web-adjacent mobile projects.
+* [**Bootstrap Templates**](https://startbootstrap.com/) – Free, fully responsive HTML templates built with Bootstrap, ready for landing pages, portfolios, or dashboards.
+
+## **3D & Interactive Assets**
+
+* [**Mixamo**](https://www.mixamo.com/) – Free 3D character animations that can be embedded or converted for web apps and games.
+* [**Three.js Examples & Assets**](https://threejs.org/examples/) – Open-source 3D models and interactive components for web-based 3D scenes.
 
 ## Toolchain
 - [Google page speed insights](https://developers.google.com/speed/pagespeed/insights/) - Google website testing tool.
