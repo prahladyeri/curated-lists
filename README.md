@@ -15,24 +15,28 @@ Every font, every icon set, every UI component or framework in this list represe
 By using these resources responsibly, crediting their creators, and giving back where we can, we honor that shared labor and keep the cycle of innovation alive.
 
 
-## Lists
+## General Lists
 
 - [Meta List](metalist.md) - The one list to rule them all.
 - [Tools](lists/tools.md) - Software tools to make your life easier.
+
+## Programming Lists
 - [Programming Resources](lists/programming.md) - Resources helpful for programmers generally.
-- [Web Development Resources](lists/web.md) - Resources for web development.
 - [C# Resources](lists/csharp.md) - Resources for C# programming.
 - [PHP Resources](lists/php.md) - Resources for php programming.
 - [Python Resources](lists/python.md) - Resources for python programming.
 - [Java Resources](lists/java.md) - Resources for java programming.
 - [Android Resources](lists/android.md) - Resources for android programming.
-- [Social Networking](lists/social_media.md) - Social Networking resources.
-- [Blogging](lists/blogging.md) - Blogging resources.
 - [Free Programming Books](lists/books.md) - List of free online programming books.
+
+## Web Development Lists 
+- [Web Development Resources](lists/web.md) - Resources for web development.
 - [Open Source Resources](lists/open_source.md) - Resources for Free and Open Source Software (FOSS) enthusiasts.
+- [Blogging](lists/blogging.md) - Blogging resources.
 - [Freelance Resources](lists/freelancing.md) - Web services that give developers opportunities to do some freelance work for money.
 - [Miscellaneous Resources](lists/misc.md) - Miscellaneous resources for various things.
 - [Motivational articles by the curator](lists/motivational.md) - Selected articles, blog posts, quora answers, etc. authored by the curator.
+- [Social Networking](lists/social_media.md) - Social Networking resources.
 
 ## Checklists:
 
