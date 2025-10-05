@@ -29,7 +29,7 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React components and libraries.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - Awesome things related to Tailwind CSS
 - [Windy Toolbox](https://windytoolbox.com/) - Curated collection of Tailwind CSS resources, tools, components, and templates.
-- [Tailwind Components](https://github.com/bradlc/tailwind-components) - A collection of ready-to-use Tailwind UI components.
+- [Tailwind Components](https://github.com/bradlc/) - Author of a collection of ready-to-use Tailwind UI components.
 - [Tailwind UI Kits & Templates](https://github.com/aniftyco/awesome-tailwind) - UI kits, templates, and design resources for Tailwind CSS.
 
 ### Build Systems & Tooling
@@ -98,4 +98,5 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
+
 
