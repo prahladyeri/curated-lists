@@ -71,6 +71,7 @@ to your HTML tables the free & easy way.
 ## **Illustrations & Graphics**
 
 * [**Undraw**](https://undraw.co/illustrations) – Open-source illustrations, customizable via color. Perfect for dashboards, landing pages, and onboarding flows.
+* [**Open Peeps**](https://openpeeps.com/) - Hand-drawn character illustrations. Very modern, flexible style.
 * [**Humaaans**](https://www.humaaans.com/) – Mix-and-match vector illustrations of people, fully free for commercial use. Great for diverse user-centric UI mockups.
 * [**IRA Design by Creative Tim**](https://iradesign.io/) – Modular, free vector illustrations with adjustable colors and layers. Ideal for modern web apps.
 * [**ManyPixels**](https://www.manypixels.co/gallery) – Free, royalty-free illustrations with monthly updates. Supports commercial and personal projects.
