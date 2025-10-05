@@ -23,6 +23,21 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites.
 - [Common Web Design/Development tools](http://www.reddit.com/r/Web_Design/comments/pi4gh/common_Web_Design_development_tools/)
 
+### Frontend Frameworks & Libraries
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - Awesome React resources, libraries, and tutorials.
+- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material.
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React components and libraries.
+- [Tailwind Toolbox](https://github.com/taofedegbare/awesome-tailwindcss) - Curated collection of Tailwind CSS resources, tools, components, and templates.
+- [Tailwind Components](https://github.com/bradlc/tailwind-components) - A collection of ready-to-use Tailwind UI components.
+- [Tailwind UI Kits & Templates](https://github.com/aniftyco/awesome-tailwind) - UI kits, templates, and design resources for Tailwind CSS.
+
+### Build Systems & Tooling
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources.
+- [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js.
+- [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, plugins, and tutorials.
+- [awesome-vite](https://github.com/vitejs/awesome-vite) - A curated list of awesome resources, plugins, and boilerplates for Vite.
+- [awesome-rollup](https://github.com/rollup/awesome) - Curated list of awesome Rollup plugins and resources.
+- [awesome-parcel](https://github.com/parkererickson/awesome-parcel) - Awesome Parcel resources, plugins, and tutorials.
 
 ## JavaScript
 - [domchristie/turndown](https://github.com/domchristie/turndown) - An HTML to Markdown converter written in JavaScript.
@@ -30,16 +45,10 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more.
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources.
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Catalog of React Components & Libraries.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - ⚡️ Delightful Node.js packages and resources.
-- [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js.
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
-- [airbnb/javascript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide.
-- [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript.
-- [projects-and-companies-using-backbone](https://github.com/jashkenas/backbone/wiki/projects-and-companies-using-backbone) - Projects and Companies using Backbone by Jeremy Ashkenas.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [airbnb/javascript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide.
+- [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about JavaScript.
+- [projects-and-companies-using-backbone](https://github.com/jashkenas/backbone/wiki/projects-and-companies-using-backbone) - Projects and Companies using Backbone by Jeremy Ashkenas.
 
 ## Windows/.NET/C#
 - [awesome-dotnet-winforms](https://github.com/tbolon/awesome-dotnet-winforms) - .NET WinForms Libraries.
@@ -83,10 +92,8 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 
-
 ## Metalists
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
-
