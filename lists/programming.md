@@ -61,6 +61,7 @@
 ## 📹 Vlogs/Youtube
 
 - [Changelog](https://www.youtube.com/c/Changelog) - News and podcast for developers.
+- [CodeSource](https://www.youtube.com/@CodeSource) - Documentaries showcasing interesting stories in tech world.
 - [Python Bytes](https://www.youtube.com/c/PythonBytesPodcast) - Weekly podcast by Michael Kennedy and Brian Okken.
 - [PHP Roundtable](https://www.youtube.com/c/PHPRoundtable) - A nerdy gathering of developers discussing topics that PHP nerds care about.
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia) - The best webdev and coding tutorials.
@@ -99,5 +100,6 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
