@@ -10,6 +10,7 @@
 * **[Inkscape](https://inkscape.org/)** – A professional vector graphics editor for Windows, macOS, and Linux.
 * **[GIMP](https://www.gimp.org/)** – A free and open-source raster graphics editor used for tasks such as photo retouching, image composition, and image authoring.
 * **[Krita](https://krita.org/en/)** – A professional free and open-source painting program.
+* **[Paint.NET](https://blog.getpaint.net/)** - It's no longer open source as the author seems to be quite annoyed! But a wonderful C# paint program nevertheless.
 
 ### 🧪 Development Tools
 * **[Notepad++](https://notepad-plus-plus.org/)** - Lightweight, highly useful code-editor for Windows.
@@ -43,6 +44,8 @@
 * **[7-Zip](https://www.7-zip.org/)** – A free and open-source file archiver.
 * **[Rufus](https://rufus.ie/)** - Create bootable pen drives the easy way.
 * **[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)** – A slim, free, open-source PDF reader for Windows.
+* **[ffmpeg](https://www.ffmpeg.org/)** - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+* **[ShareX/ShareX](https://github.com/ShareX/ShareX)** - Free and open source program that lets you capture or record any area of your screen.
 
 ### 🧠 AI & Machine Learning
 * **[TensorFlow](https://www.tensorflow.org/)** – An open-source machine learning framework for everyone.
@@ -56,4 +59,5 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
