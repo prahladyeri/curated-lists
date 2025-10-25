@@ -3,6 +3,7 @@
 This is a curated meta list that contains links to other awesome curated lists, mostly technology related.
 
 ## Uncategorized
+- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Free online courses and certifications for budget stressed folks.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
@@ -108,6 +109,7 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
+
 
 
 
