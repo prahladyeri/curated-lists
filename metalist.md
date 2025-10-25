@@ -2,6 +2,34 @@
 
 This is a curated meta list that contains links to other awesome curated lists, mostly technology related.
 
+## Uncategorized
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Free online courses and certifications for budget stressed folks.
+- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
+- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
+- [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - A curated list of youtube channels about programming.
+- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Awesome list of Important Podcasts for software engineers.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - List of awesome projects for first time contributions to open source.
+- [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of publications that pay writers to create developer content.
+- [Build Your Own X - Collection of resources to help you build things from scratch](https://github.com/danistefanovic/build-your-own-x)
+- [List of Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453) - Curated list of public time servers across the world to keep your computer clocks updated.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
+- [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming.
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
+- [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books.
+- [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
+
+
 ## PHP
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
@@ -75,37 +103,12 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Open Source Spring-MVC projects](https://stackoverflow.com/questions/2604655/any-open-source-spring-sample-project-thats-bigger-than-petclinic)
 
-## Others
-- [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
-- [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
-- [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels) - A curated list of youtube channels about programming.
-- [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Awesome list of Important Podcasts for software engineers.
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science.
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners) - List of awesome projects for first time contributions to open source.
-- [30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
-- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) - A list of publications that pay writers to create developer content.
-- [Build Your Own X - Collection of resources to help you build things from scratch](https://github.com/danistefanovic/build-your-own-x)
-- [List of Top Public Time Servers](https://gist.github.com/mutin-sa/eea1c396b1e610a2da1e5550d94b0453) - Curated list of public time servers across the world to keep your computer clocks updated.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!
-- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials.
-- [programming-talks](https://github.com/hellerve/programming-talks) - Awesome & Interesting Talks concerning Programming.
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful.
-- [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books.
-- [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
-- [pomerium/awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
-
 ## Metalists
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
+
 
 
 
