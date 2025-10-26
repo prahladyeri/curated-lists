@@ -5,6 +5,11 @@ This is a curated meta list that contains links to other awesome curated lists, 
 ## Uncategorized
 - [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - Free online courses and certifications for budget stressed folks.
+- [cloudcommunity/Free-for-Open-Source](https://github.com/cloudcommunity/Free-for-Open-Source) - A curated collection of free resources for open source projects and maintainers.
+- [cloudcommunity/Free-for-Nonprofits](https://github.com/cloudcommunity/Free-for-Nonprofits) - A curated collection of free resources for nonprofit organizations, charities, and NGOs.
+- [cloudcommunity/Free-for-Startups](https://github.com/cloudcommunity/Free-for-Startups) - A curated collection of free resources for startups and entrepreneurs.
+- [cloudcommunity/Free-for-Communities](https://github.com/cloudcommunity/Free-for-Communities) - A curated collection of free resources for developer groups, tech communities, and user groups.
+- [cloudcommunity/Free-for-Education](https://github.com/cloudcommunity/Free-for-Education) - A curated collection of free resources for students, educators, and educational institutions.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology.
@@ -109,6 +114,7 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
+
 
 
 
