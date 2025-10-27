@@ -5,7 +5,7 @@
 - [PEP-8 - Guidelines for writing python code](https://www.python.org/dev/peps/pep-0008)
 - [Python Package Index - The official python package repo](https://pypi.python.org/)
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python)
-- [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/) - Must have resource for Windows users of Python. Provides all the compiled package files in pip installable(*.whl) files.
+- [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/) - Provides all the compiled package files in pip installable `*.whl` files.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django.
