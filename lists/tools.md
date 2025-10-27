@@ -48,11 +48,6 @@
 * **[ffmpeg](https://www.ffmpeg.org/)** - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 * **[ShareX/ShareX](https://github.com/ShareX/ShareX)** - Free and open source program that lets you capture or record any area of your screen.
 
-### 🧠 AI & Machine Learning
-* **[TensorFlow](https://www.tensorflow.org/)** – An open-source machine learning framework for everyone.
-* **[PyTorch](https://pytorch.org/)** – An open-source machine learning library based on the Torch library.
-* **[Scikit-learn](https://scikit-learn.org/)** – A simple and efficient tools for predictive data analysis built on NumPy, SciPy, and matplotlib.
-
 ### 💡 Grammar Checkers
 * **[LanguageTool](https://github.com/languagetool-org/languagetool)** – Open-source style and grammar checker for **25+ languages**. Works as a **desktop app, browser extension, LibreOffice plugin, and server API**.
 * **[Vale](https://github.com/errata-ai/vale)** – A **syntax-aware, rule-based linter for prose**. Focused on enforcing style guides and writing consistency rather than AI-powered grammar suggestions. Ideal for writers or teams wanting **automated, customizable style enforcement** in Markdown, LaTeX, or plain text.
@@ -60,6 +55,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
