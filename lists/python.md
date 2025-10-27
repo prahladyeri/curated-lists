@@ -1,6 +1,6 @@
 # Python Programming Resources
 
-## Official docs and other resources
+### 📚 Official docs and other resources
 - [Python Official docs](https://docs.python.org/)
 - [PEP-8 - Guidelines for writing python code](https://www.python.org/dev/peps/pep-0008)
 - [Python Package Index - The official python package repo](https://pypi.python.org/)
@@ -12,33 +12,33 @@
 - [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI.
 - [yoloseem/awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc) - A curated list of awesome tools for Sphinx Python Documentation Generator.
 
-## Libraries
-
-### Database Connectivity
+### 💾 Database Connectivity
 - [mysql-connector-python](mysql-connector-python) - Official mysql client library by Oracle.
 - [PyMySQL](https://pypi.org/project/PyMySQL/) - A pure-Python MySQL client library, based on PEP 249. [Apparently faster than the official driver](https://stackoverflow.com/a/25724855/849365)
 - [mysqlclient](https://pypi.org/project/mysqlclient/) - Another mysql client library implementation.  [Apparently, the fastest implementation as it is C based](https://stackoverflow.com/a/25724855/849365). Django's recommended, also used by debian and ubuntu repos for `python3-mysqldb` package.
 - [psycopg2](https://pypi.org/project/psycopg2/) - Most popular postgresql driver for python.
 - [SQLAlchemy](http://www.sqlalchemy.org/) - The "bread and butter" [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping) library in the python world. Extremely versatile and flexible enough to work with almost any RDBMS known to mankind.
 
-### Scientific/Statistical
+### 🧮 Scientific/Statistical
 - [scipy](https://docs.scipy.org) - Important python package for mathematicians and statisticians.
 - [numpy](http://www.numpy.org/) - A package for scientific computing.
 - [matplotlib](http://matplotlib.org/) - A 2d plotting library.
 - [pandas](http://pandas.pydata.org/) - High performance Data Analysis library for Python.
-- [nltk](http://www.nltk.org/) - Widely used Python library in the field of *Natural Language Processing*.
 
-### Machine Learning
-- [gpt-2](https://github.com/openai/gpt-2) - Neuralnet/AI library, Code from the paper "Language Models are Unsupervised Multitask Learners".
-- [scikit-learn](https://scikit-learn.org/) - A free software machine learning library for the Python programming language.
-- [tensorflow](https://www.tensorflow.org/) - A free and open-source software library for dataflow and differentiable programming across a range of tasks.
+### 🧠 AI & Machine Learning
+* **[TensorFlow](https://www.tensorflow.org/)** – An open-source machine learning framework for everyone.
+* **[PyTorch](https://pytorch.org/)** – An open-source machine learning library based on the Torch library.
+* **[Scikit-learn](https://scikit-learn.org/)** – A simple and efficient tools for predictive data analysis built on NumPy, SciPy, and matplotlib.
+* **[nltk](http://www.nltk.org/)** - Widely used Python library in the field of Natural Language Processing.
+* **[spacy](https://spacy.io/)** - Industrial-Strength Natural Language Processing.
+* **[gpt-2](https://github.com/openai/gpt-2)** - Neuralnet/AI library, Code from the paper "Language Models are Unsupervised Multitask Learners".
 
-### Networking/Scraping
+### 🌐 Networking/Scraping
 - [requests](http://docs.python-requests.org/en/latest/) - A popular library for handling HTTP requests.
 - [Twisted](https://twistedmatrix.com/) - An event driven networking engine written in python. Twisted is to python what System.Net is to C# or java.net package is to Java.
 - [Mechanize](https://pypi.python.org/pypi/mechanize/) - A fully-fledged web-scraping framework written in Python.
 
-### Spreadsheets/Documents
+### 🔡 Spreadsheets/Documents
 - [openpyxl](https://openpyxl.readthedocs.io) - A pure python library to export/import data in `Microsoft Excel` format.
 - [xlrd](https://blogs.harvard.edu/rprasad/2014/06/16/reading-excel-with-python-xlrd/) - A pure python library to read Microsoft Excel 97 (*.xls) format workbooks.
 - [python-docx](https://python-docx.readthedocs.io) - Python library to write to work with Microsoft Word Documents.
@@ -50,13 +50,13 @@
 - [lxml](https://lxml.de) - Library to process xml/html with python.
 - [PyYAML](https://github.com/yaml/pyyaml) - The next generation YAML parser and emitter for Python.
 
-### Build and Tooling
+### 🧰 Build and Tooling
 - [Twine](https://github.com/pypa/twine/) - Utility for interacting with PyPi packaging system.
 - [PyTest](https://github.com/pytest-dev/pytest) - Perhaps the De-facto testing module in python world.
 - [sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html) - The standard documentation tool for python.
 - [readthedocs.org](https://readthedocs.org) - Online document hosting facility for pythonistas, based on Sphinx and integrates with github repositories and hooks.
 
-### Graphical User Interfaces
+### 🖌️ Graphical User Interfaces
 - [PySide](https://en.wikipedia.org/wiki/PySide) - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
 - [Kivy](https://en.wikipedia.org/wiki/Kivy) - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
 - [pyglet](http://www.pyglet.org/) - Python graphics library.
@@ -64,7 +64,30 @@
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) -  Freeze (package) Python programs into stand-alone executables.
 - [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) -  Create standalone executables from Python scripts, with the same performance and is cross-platform.
 
-### Others
+## 🕸️ Web-Frameworks
+- [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
+- [Flask](http://flask.pocoo.org) - A minimalist web framework. While not as popular and stuffed as Django, Flask follows a more `lego block` approach to development - starting from a minimal core, and keep adding as needed. An excellent framework, nevertheless.
+- [Bottle](http://bottlepy.org/) - A single module web framework for Python.
+
+## 📖 Online tutorials, articles, books, puzzles
+- [Full Stack Python](https://fullstackpython.com) - Handy resource outlining the web development process using python frameworks and libraries.
+- [Dive Into Python - Mark Pilgrim](https://linux.die.net/diveintopython/html/toc/index.html) - Must read for all python learners and enthusiasts.
+- [Django vs. Flask: Picking the Right Python Web Framework](https://www.tivix.com/blog/django-vs-flask-picking-the-right-python-framework) - Excellent guide for choosing between django and flask, the two most popular python web frameworks.
+- [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
+- [Writing a Virtual Machine in Python](http://pythonguy.wordpress.com/2008/04/17/writing-a-virtual-machine-in-python/)
+- [Coding Bat - Python](http://codingbat.com/python)
+- [Simple Python Programs](https://wiki.python.org/moin/SimplePrograms)
+- [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+- [Learn Python, Break Python - A beginners guide](http://learnpythonbreakpython.com/)
+- [Automate boring stuff with Python](http://automatetheboringstuff.com/)
+
+## 📺 Popular Youtube channels
+
+- [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+
+### 💻 Others
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters.
 - [Pelican](https://github.com/getpelican/pelican) - A static site generator that supports markdown and reST syntax. Written in python.
 - [pygments](https://pypi.org/project/Pygments/) - A syntax highlighting package written in Python.
@@ -77,26 +100,3 @@
 - [Google API Python Client](https://github.com/googleapis/google-api-python-client) - Goole API client for Python.
 - [Google API Python - OAuth2 library](https://github.com/googleapis/oauth2client) - Goole API client for Python.
 - [Flatlib](https://github.com/flatangle/flatlib) - Astrology library written in pure Python (supports both tropical and siderial systems).
-
-## Web-Frameworks
-- [Django](https://www.djangoproject.com/) - A popular web framework written in Python. Often touted as the web framework for busy journalists with deadlines, Django is very flexible and can be adapted to any web project needs.
-- [Flask](http://flask.pocoo.org) - A minimalist web framework. While not as popular and stuffed as Django, Flask follows a more `lego block` approach to development - starting from a minimal core, and keep adding as needed. An excellent framework, nevertheless.
-- [Bottle](http://bottlepy.org/) - A single module web framework for Python.
-
-## Online tutorials, articles, books, puzzles
-- [Full Stack Python](https://fullstackpython.com) - Handy resource outlining the web development process using python frameworks and libraries.
-- [Dive Into Python - Mark Pilgrim](https://linux.die.net/diveintopython/html/toc/index.html) - Must read for all python learners and enthusiasts.
-- [Django vs. Flask: Picking the Right Python Web Framework](https://www.tivix.com/blog/django-vs-flask-picking-the-right-python-framework) - Excellent guide for choosing between django and flask, the two most popular python web frameworks.
-- [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
-- [Writing a Virtual Machine in Python](http://pythonguy.wordpress.com/2008/04/17/writing-a-virtual-machine-in-python/)
-- [Coding Bat - Python](http://codingbat.com/python)
-- [Simple Python Programs](https://wiki.python.org/moin/SimplePrograms)
-- [Beginners Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
-- [Learn Python, Break Python - A beginners guide](http://learnpythonbreakpython.com/)
-- [Automate boring stuff with Python](http://automatetheboringstuff.com/)
-
-## Popular Youtube channels
-
-- [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-- [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
-- [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
