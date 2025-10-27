@@ -19,6 +19,7 @@
 * **[Git](https://git-scm.com/)** – A free and open-source distributed version control system to track changes in source code during software development.
 * **[Docker](https://www.docker.com/)** – A platform for developing, shipping, and running applications inside containers.
 * **[Postman](https://www.postman.com/)** – A collaboration platform for API development.
+* **[Herald Http](https://github.com/prahladyeri/herald/)** - Light-weight, old-school alternative to Postman.
 
 ### 🔐 Security & Privacy
 * **[KeePass](https://keepass.info/)** – A free, open-source, lightweight, and easy-to-use password manager.
@@ -59,5 +60,6 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
