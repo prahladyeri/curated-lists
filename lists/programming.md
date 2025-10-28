@@ -82,16 +82,16 @@
 - [edX.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now.
 - [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 
-## 🎲 Puzzles, quizzes and riddles to exercise your coding muscles	
+## 🎲 Puzzles, quizzes and practices to exercise your coding muscles	
 
-- [Kattis](https://open.kattis.com/) - Keep solving coding problems and keep earning reputation points for you, your university and your country!
+- [LeetCode](https://leetcode.com/) - One of the most popular coding practice site of our times.
 - [Project Euler](https://projecteuler.net/) - One of the "old-school", but interesting sites that features solving math problems through various levels. There is no code-evaluation, you just have to write your own code, come up with answers and post the answer to go to the next level.
-- [Advent of code](https://adventofcode.com/) - Lots of programming problems for you to solve! A gamification approach which is fun and enjoyable. It is said that people abuse the hell out of languages to reach the top of leaderboard here. Requires a `Github`, `Reddit` or `Google` account to sign in.
+- [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
+- [Advent of Code](https://adventofcode.com/) - Lot's of programming problems for you to solve! A gamification approach which is fun and enjoyable.
 - [CodingBat - python and java](https://codingbat.com/) - Coding puzzles and problems in *python* and *java*.
-- [PySchools - python](https://www.pyschools.com/quiz/view_ranking) - Programming practice tests specific to *python*.
+- [Kattis](https://open.kattis.com/) - Keep solving coding problems and keep earning reputation points for you, your university and your country!
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) - A programming puzzle a day keeps woes and dispair away. A subreddit where programming problems are posted and peer-reviewed every day.
 - [/r/learnpython wiki](https://www.reddit.com/r/learnpython/wiki/index#wiki_practice_python) - Pointer to more *python* practice resources.
-- [Code Wars](https://www.codewars.com/) - A must visit place for all programmers. The practice challenges are really addictive.
 - [Paqmind](http://paqmind.com/) – An alternative approach to learning. Answer theoretical questions, solve challenges and compare your solutions with verified ones.
 
 ## 🌐 Other Programming resources
@@ -100,6 +100,7 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
 
