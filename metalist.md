@@ -109,11 +109,12 @@ This is a curated meta list that contains links to other awesome curated lists, 
 - [awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [Open Source Spring-MVC projects](https://stackoverflow.com/questions/2604655/any-open-source-spring-sample-project-thats-bigger-than-petclinic)
 
-## Metalists
+## Meta Lists
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (especially programming/tech).
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [awesome-list](https://github.com/topics/awesome-list) - All the popular github projects falling under the topic of "Awesome Lists".
+
 
 
 
