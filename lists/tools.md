@@ -41,6 +41,7 @@
 * **[RetroArch](https://www.retroarch.com/)** – A frontend for emulators, game engines, and media players.
 
 ### 📚 Education & Learning
+* **[WordWeb](https://wordweb.info/free/)** - English Dictionary App, freeware with caveats.
 * **[Anki](https://apps.ankiweb.net/)** – A flashcard program which utilizes spaced repetition.
 * **[Moodle](https://moodle.org/)** – A learning platform designed to provide educators, administrators, and learners with a single robust, secure, and integrated system.
 * **[Jupyter Notebook](https://jupyter.org/)** – An open-source web application that allows creation and sharing of documents that contain live code, equations, visualizations, and narrative text.
@@ -59,6 +60,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
