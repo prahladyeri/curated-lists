@@ -2,11 +2,12 @@
 
 ### 🧰 System Utilities & Productivity
 * **[Libre Office](https://www.libreoffice.org/)** - Open Source productivity suite to work with spreadsheets, documents, PPTs, etc.
-* **[AutoHotkey](https://www.autohotkey.com/)** – A powerful scripting language for automating the Windows GUI and general scripting.
 * **[Everything](https://www.voidtools.com/)** – An ultra-fast file search tool for Windows.
 * **[Ditto](https://ditto-cp.sourceforge.io/)** – A clipboard manager that allows you to access any of your clipboard items.
 * **[Listary](https://www.listary.com/)** – A smart search utility that enhances file browsing and searching.
 * **[Beyond Compare](https://www.scootersoftware.com/)** - Must have diff tool for windows platform.
+* **[WinCDEmu](https://wincdemu.sysprogs.org/portable/)** - Windows CD Emulator. Helpful to work with some legacy software.
+* **[AutoHotkey](https://www.autohotkey.com/)** – A powerful scripting language for automating the Windows GUI and general scripting.
 
 ### 🖼️ Graphics & Design
 * **[Inkscape](https://inkscape.org/)** – A professional vector graphics editor for Windows, macOS, and Linux.
@@ -58,6 +59,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
