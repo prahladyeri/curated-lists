@@ -15,12 +15,9 @@ Every font, every icon set, every UI component or framework in this list represe
 By using these resources responsibly, crediting their creators, and giving back where we can, we honor that shared labor and keep the cycle of innovation alive.
 
 
-## General Lists
-
-- [Meta List](metalist.md) - The one list to rule them all.
+- [Meta List](metalist.md) - List containing other useful lists.
 - [Tools](lists/tools.md) - Software tools to make your life easier.
-
-## Programming Lists
+  
 - [Programming Resources](lists/programming.md) - Resources helpful for programmers generally.
 - [C# Resources](lists/csharp.md) - Resources for C# programming.
 - [PHP Resources](lists/php.md) - Resources for php programming.
@@ -29,7 +26,6 @@ By using these resources responsibly, crediting their creators, and giving back 
 - [Android Resources](lists/android.md) - Resources for android programming.
 - [Free Programming Books](lists/books.md) - List of free online programming books.
 
-## Web Development Lists 
 - [Web Development Resources](lists/web.md) - Resources for web development.
 - [Open Source Resources](lists/open_source.md) - Resources for Free and Open Source Software (FOSS) enthusiasts.
 - [Blogging](lists/blogging.md) - Blogging resources.
@@ -37,8 +33,6 @@ By using these resources responsibly, crediting their creators, and giving back 
 - [Miscellaneous Resources](lists/misc.md) - Miscellaneous resources for various things.
 - [Motivational articles by the curator](lists/motivational.md) - Selected articles, blog posts, quora answers, etc. authored by the curator.
 - [Social Networking](lists/social_media.md) - Social Networking resources.
-
-## Checklists:
 
 - [Python-PyPI](check_lists/python-pypi.md) - Publishing a package to PyPi.
 - [Travel 101: HUGE List of things to pack before leaving for a short vacation or journey](https://freelancemag.blogspot.com/2021/12/travel-101-huge-list-of-things-to-pack.html)
