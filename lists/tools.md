@@ -2,12 +2,12 @@
 
 ### 🧰 System Utilities & Productivity
 * **[Libre Office](https://www.libreoffice.org/)** - Open Source productivity suite to work with spreadsheets, documents, PPTs, etc.
-* **[Everything](https://www.voidtools.com/)** – An ultra-fast file search tool for Windows.
-* **[Ditto](https://ditto-cp.sourceforge.io/)** – A clipboard manager that allows you to access any of your clipboard items.
-* **[Listary](https://www.listary.com/)** – A smart search utility that enhances file browsing and searching.
 * **[Beyond Compare](https://www.scootersoftware.com/)** - Must have diff tool for windows platform.
 * **[WinCDEmu](https://wincdemu.sysprogs.org/portable/)** - Windows CD Emulator. Helpful to work with some legacy software.
 * **[AutoHotkey](https://www.autohotkey.com/)** – A powerful scripting language for automating the Windows GUI and general scripting.
+* **[Ditto](https://ditto-cp.sourceforge.io/)** – A clipboard manager that allows you to access any of your clipboard items.
+* **[Everything](https://www.voidtools.com/)** – An ultra-fast file search tool for Windows.
+* **[Listary](https://www.listary.com/)** – A smart search utility that enhances file browsing and searching.
 
 ### 🖼️ Graphics & Design
 * **[Inkscape](https://inkscape.org/)** – A professional vector graphics editor for Windows, macOS, and Linux.
@@ -31,6 +31,7 @@
 * **[WireGuard](https://www.wireguard.com/)** – A simple and fast VPN that utilizes modern cryptography.
 
 ### 🌐 Internet & Networking
+* **[Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)** – Super useful SSH and Telnet client.
 * **[qBittorrent](https://www.qbittorrent.org/)** – A free and open-source BitTorrent client.
 * **[Transmission](https://transmissionbt.com/)** – A fast, easy, and free multi-platform BitTorrent client.
 * **[Wireshark](https://www.wireshark.org/)** – A network protocol analyzer for Unix and Windows.
@@ -60,6 +61,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
