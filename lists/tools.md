@@ -53,6 +53,7 @@
 * **[Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)** – A slim, free, open-source PDF reader for Windows.
 * **[ffmpeg](https://www.ffmpeg.org/)** - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 * **[ShareX/ShareX](https://github.com/ShareX/ShareX)** - Free and open source program that lets you capture or record any area of your screen.
+* **[wkhtmltopdf](https://wkhtmltopdf.org/)** - Lightweight and efficient command-line tool to generate PDF documents from HTML.
 
 ### 💡 Grammar Checkers
 * **[LanguageTool](https://github.com/languagetool-org/languagetool)** – Open-source style and grammar checker for **25+ languages**. Works as a **desktop app, browser extension, LibreOffice plugin, and server API**.
@@ -61,6 +62,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
