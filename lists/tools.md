@@ -19,6 +19,7 @@
 
 ### 🧪 Development Tools
 * **[Notepad++](https://notepad-plus-plus.org/)** - Lightweight, highly useful code-editor for Windows.
+* **[Emacs](https://www.gnu.org/s/emacs/)** - Highly utilitarian text editor, Richard Stallman's flagship project.
 * **[Visual Studio Code](https://code.visualstudio.com/)** – A free, open-source code editor with support for debugging, task running, and version control.
 * **[ConEmu](https://github.com/ConEmu/ConEmu)** - Customizable Windows terminal with tabs, splits.
 * **[Git](https://git-scm.com/)** – A free and open-source distributed version control system to track changes in source code during software development.
@@ -64,6 +65,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
