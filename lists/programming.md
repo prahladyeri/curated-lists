@@ -80,6 +80,7 @@
 - [Stanford Online](http://online.stanford.edu/about) - Another great university that provisions learning content through the online channel. Again, no certificates, but still great course content.
 - [Coursera](https://www.coursera.org/courses?query=php) - Comprehensive curriculum and large number of programming courses to choose from. No free certificates though.
 - [edX.org](https://courses.edx.org/) - Yet another MOOC. They used to offer free certificates until few years ago but no longer now.
+- [Alison](https://alison.com/) - Learning is free, cerfificates offered for a fee.
 - [Khan Academy - video lessons](https://www.khanacademy.org/computing/computer-programming/html-css/) - Good for learning *HTML/CSS* - both practice tests and video sessions.
 
 ## 🎲 Puzzles, quizzes and practices to exercise your coding muscles	
@@ -100,6 +101,7 @@
 - [Design Patterns Catalog](http://martinfowler.com/eaaCatalog/) - A collection of software design patterns and processes to follow, written by Martin Fowler, one of the best minds in the industry.
 - [Great Github list of public datasets](https://github.com/awesomedata/awesome-public-datasets) - A great source of published data in case you are developing an app.
 - [UPC Database](https://www.upcdatabase.com/itemform.asp) - The canonical place on web to lookup barcode items. An invaluable resource if you are developing a Barcode app.
+
 
 
 
