@@ -32,6 +32,7 @@
 
 ### 🔐 Security & Privacy
 * **[KeePass](https://keepass.info/)** – A free, open-source, lightweight, and easy-to-use password manager.
+* **[Bitwarden](https://bitwarden.com/)** - One of the best and popular password managers, available as browser extension.
 * **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** – A free disk encryption software for Windows, macOS, and Linux.
 * **[WireGuard](https://www.wireguard.com/)** – A simple and fast VPN that utilizes modern cryptography.
 
@@ -67,6 +68,7 @@
 * **[After the Deadline](https://github.com/Automattic/after-the-deadline)** – An older, lightweight grammar checker that uses statistical language models to catch contextual spelling errors and stylistic issues. While not as feature-rich as some newer tools, it's completely free and respects user privacy.
 * **[Grammalecte](https://github.com/Grammalecte/Grammalecte)** – An open-source French grammar checker featuring multiple dictionaries for spellchecking, verb conjugation tools, and a lexicographer. It's particularly useful for French-language content.
 * **[Editsaurus](https://github.com/editsaurus/editsaurus)** – A minimalist, web-based grammar checker that focuses on simplicity and speed. It's ideal for users who prefer a no-frills approach to grammar checking.
+
 
 
 
