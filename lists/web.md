@@ -21,6 +21,7 @@
 - [Gentelella Admin](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template.
 
 ## JavaScript Libraries
+- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 - [jQuery](http://www.jquery.com) - The most popular JavaScript library in vogue. A must-know for any web-developer.
 - [bootstrap-slider](http://www.eyecon.ro/bootstrap-slider) - Slider plugin for the bootstrap framework.
 - [jQueryUI - Official docs](https://jqueryui.com) - A UI framework on top of `jQuery`, but lost traction lately due of Bootstrap and other frameworks.
@@ -37,7 +38,6 @@
 - [highcharts](http://www.highcharts.com/) - Interactive JavaScript charting library. But remember, its free only for personal/non-commercial use.
 
 ## JavaScript Components
-- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 - [jqueryui](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 - [datatables.net](http://datatables.net/) - Add advanced interaction controls
 to your HTML tables the free & easy way.
