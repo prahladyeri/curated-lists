@@ -13,7 +13,7 @@
 - [Twitter Bootstrap](https://github.com/twbs/bootstrap) - A popular `CSS/JavaScript` framework by Twitter Inc., again an "off-the-shelf" reusable component for backend & front-end developers alike.
 - [Zurb Foundation](https://github.com/zurb/foundation) - A viable alternative to Twitter Bootstrap. Powers a lot of high-profile websites.
 - [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
-- [Tailwind](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
+- [Tailwind CSS](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
 
 ## CSS Templates
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4.
