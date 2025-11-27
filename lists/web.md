@@ -10,10 +10,10 @@
 - [W3Schools](https://www.w3schools.com/default.asp) - A collection of helpful tutorials for new developers.
 
 ## CSS Frameworks
+- [Tailwind CSS](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
 - [Twitter Bootstrap](https://github.com/twbs/bootstrap) - A popular `CSS/JavaScript` framework by Twitter Inc., again an "off-the-shelf" reusable component for backend & front-end developers alike.
 - [Zurb Foundation](https://github.com/zurb/foundation) - A viable alternative to Twitter Bootstrap. Powers a lot of high-profile websites.
 - [Purecss framework](http://purecss.io/) - A minimal (18 kilobytes) CSS framework by Yahoo Inc.
-- [Tailwind CSS](https://tailwindcss.com) - Minimal and wonderful CSS widgets framework, nice alternative to Bootstrap.
 
 ## CSS Templates
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4.
@@ -37,11 +37,11 @@
 - [highcharts](http://www.highcharts.com/) - Interactive JavaScript charting library. But remember, its free only for personal/non-commercial use.
 
 ## JavaScript Components
+- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 - [jqueryui](https://jqueryui.com/) - jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 - [datatables.net](http://datatables.net/) - Add advanced interaction controls
 to your HTML tables the free & easy way.
 - [select2](https://github.com/select2/select2) - A jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-- [React](https://reactjs.org/) - React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.
 - [Material-UI](https://material-ui.com/) - A popular set of react components.
 - [Angular-Material](https://material.angular.io) - Material UI components for the angular framework.
 - [primeng](https://primefaces.org/primeng) - Another beautiful UI component library for angular framework.
